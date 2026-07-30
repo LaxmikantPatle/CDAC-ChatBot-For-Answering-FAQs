@@ -1,0 +1,193 @@
+COURSE SOURCE: Introduction to FinTech and Applications    - 60 Hrs
+URL: https://cdac.in/index.aspx?id=DAC&courseid=32
+============================================================
+
+e-Brochure
+
+Course Focus
+
+Eligibility Criteria
+
+Course Fees
+
+Course Contents
+
+Course Outcome
+
+Training Centres
+
+FAQs
+
+PGCP-FBD will equip students with the skill set to completely decode the FinTech and 
+Blockchain puzzle, imparting fundamental clarity on the required components, and will 
+provide a strong understanding of the Blockchain and FinTech technologies involved along 
+with their applications/business as is being seen in the current scenario. The course will 
+systematically take candidates through the latest technologies of Blockchain, FinTech 
+development, Artificial Intelligence/Machine Learning (AI/ML) in FinTech and Policy, 
+Risks and standards associated with it that are becoming the hallmark of advanced business 
+applications.
+
+The educational eligibility criteria for PGCP-FBD course is
+
+Graduate in Engineering or Technology (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation, OR
+MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics OR
+
+
+
+Graduate in any Discipline Engineering (10+2+4 or 10+3+3 years) . OR
+MCA, / MCM, OR 
+Post Graduate Degree in Physics / Mathematics / Statistics
+The candidate must have 55% in the qualifying degree.
+
+The educational eligibility criteria for PGCP-FBD course is
+
+Graduate in Engineering or Technology (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation, OR
+
+MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics OR
+
+Graduate in any Discipline Engineering (10+2+4 or 10+3+3 years) . OR
+
+Graduate in any Discipline Engineering (10+2+4 or 10+3+3 years) . OR
+
+MCA, / MCM, OR
+
+Post Graduate Degree in Physics / Mathematics / Statistics
+
+The candidate must have 55% in the qualifying degree.
+
+PGCP-FBD course will be delivered in fully ONLINE mode. The total course fee and payment details are as detailed herein below:The total course fee is INR. 106,250/- plus Goods and Service Tax (GST) as applicable by Government of India (GOI).The course fee for PGCP-FBD has to be paid in two installments as per the schedule.    First installment is INR. 15,000/- plus Goods and Service Tax (GST) as  applicable by GOI.    Second installment is INR. 91,250/- plus Goods and Service Tax (GST) as applicable by GOI.The
+ course fee includes expenses towards delivering classes, conducting 
+examinations, final mark-list and certificate, and placement assistance 
+provided.The first installment course fee of Rs 15,000/- + GST 
+on it as applicable at the time of payment is to be paid online as per 
+the schedule. Payments may be made using any of the available payment modes provided through the payment gateway.The first installment of the course fees is to be paid 
+after seat is allocated during counseling rounds.The second installment of the course fees is to be paid before the course commencement using netbanking, UPI, and credit/debit cards through the payment gateway.NOTE:
+ Candidates may take note that no Demand Draft (DD) or cheque or cash 
+will be accepted at any C-DAC training centre towards payment of any 
+installment of course fees.
+
+First installment is INR. 15,000/- plus Goods and Service Tax (GST) as  applicable by GOI.
+
+Second installment is INR. 91,250/- plus Goods and Service Tax (GST) as applicable by GOI.
+
+Introduction to FinTech and Applications    - 60 Hrs
+
+Introduction to FinTech, FinTech technologies and their applications
+
+Introduction to distributed ledger technology and cryptocurrencies
+
+Business Analytics and AI/ML for Fintech Applications    - 120 Hrs
+
+Introduction to business analytics & its benefits
+
+Statistics for business analytics
+
+Python Programming
+
+Introduction to AI/ML, AI/ML for Fintech application
+
+Linear Regression Models for Financial Analysis
+
+Case Studies
+
+Secure Programming and Software Development for FinTech    - 120 Hrs
+
+Linux fundamental - Linux History and Operation, Installing and Configuring Linux (Ubuntu and CentOS), Basic Commands & Linux shell programming
+
+OOPs using JAVA –Introduction to Java ,Wrapper Class and String Class, Exception Handling, java.io & java.nio Package, java.util Package, Collections
+
+Secure Programming: Introduction to Secure Programming ,Handling OWASP top vulnerabilities and mitigation, Case Studies
+
+MERN Stack for FinTech    - 90 Hrs
+
+MongoDB: Data Modelling/DB operations
+
+Server-side Development with Node.js and Express.js
+
+Front End management with React.js
+
+State Management with Redux
+
+Full stack application development using MongoDB, Express.js, Node.js and React.js
+
+Cryptography and PKI     - 60 Hrs
+
+Fundamentals of cryptography
+
+Digital Signature
+
+Public Key Infrastructure and Public Key Cryptography Standards
+
+Programming for FinTech and Blockchain    - 150 Hrs
+
+Basics of Blockchain, Decentralised Applications & Smart Contract
+
+Solidity Programming, Smart Contract Programming best practices
+
+Web.js, Truffle Suite, Ethereum Client
+
+Web3 and Solidity Events
+
+Testing and Debugging
+
+Blockchain Platforms and Applications     - 180 Hrs
+
+Understanding Public, Private & Hybrid Blockchain Structure
+
+Interacting with Blockchain through Node.js
+
+Ethereum Networks & tools
+
+Introduction to Hyperledger, Multichain, Corda and Quorum
+
+Understanding Cryptocurrency Exchange
+
+DevOps and Challenges in FinTech & Blockchain      - 120 Hrs
+
+Introduction to DevOps, Code Management using Git
+
+Container management Docker, Introduction to Kubernetes
+
+FinTech Policies and Standards, Concepts and definitions of risk
+
+Risk assessment and management, Challenges in Fintech and Blockchain
+
+Aptitude    - 60 Hrs
+
+Number System, Ratio and Proportion, Partnership, Percentage, Profit and Loss, Simple Interest & Compound Interest, Time, Speed and Distance, Trains, Time and Work, Wages, Pipes and Cisterns, Boats and Stream, Averages, Mixtures and Allegation, Probability, Permutations and Combinations, Series, Blood Relations, Coding- Decoding, Seating Arrangement, Syllogism, Venn Diagram, Data Interpretation & Sufficiency, Problems on Ages, Clock & Calendar, Alphabetical Reasoning, Ranking & Order, Direction, Puzzles, Statements & Assumptions
+
+Effective Communication    - 60 Hrs
+
+Project    - 180 Hrs
+
+PG
+Certificate Programme in FinTech and Blockchain Development (PGCP-FBD) is a comprehensive programme will systematically take up candidates through the latest technologies of
+Blockchain, FinTech, Artificial Intelligence/Machine Learning (AI/ML) in
+FinTech and Policy, Risks and standards associated with it, that are emerging
+as hallmark of advanced business applications. It will prepare candidates for
+the role of Blockchain Developer, Fintech
+Business Analyst, Blockchain Quality Engineer, App developer, Fintech
+Consultant.
+
+PG
+Certificate Programme in FinTech and Blockchain Development (PGCP-FBD) is a comprehensive programme will systematically take up candidates through the latest technologies of
+Blockchain, FinTech, Artificial Intelligence/Machine Learning (AI/ML) in
+FinTech and Policy, Risks and standards associated with it, that are emerging
+as hallmark of advanced business applications. It will prepare candidates for
+the role of Blockchain Developer, Fintech
+Business Analyst, Blockchain Quality Engineer, App developer, Fintech
+Consultant.
+
+Patna
+
+ACTS Home
+
+Courses
+
+Admissions
+
+Placement
+
+Training Centres
+
+Contact Us

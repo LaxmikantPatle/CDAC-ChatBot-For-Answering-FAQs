@@ -1,0 +1,306 @@
+COURSE SOURCE: Fundamental of Computer Networks    - 120 Hrs
+URL: https://cdac.in/index.aspx?id=DAC&courseid=28
+============================================================
+
+e-Brochure
+
+Course Focus
+
+Eligibility Criteria
+
+Course Fees
+
+Course Contents
+
+Course Outcome
+
+Training Centres
+
+FAQs
+
+PGCP-ITISS is targeted towards grooming students in the arena of human-computer interaction and cyber and network security. The objective of this course is to enable the students to understand the concepts of network security and learn the techniques of detecting the attacks and securing a network from internal and external attacks. At the end of the course, the student will be able to recognise a variety of generic security threats and vulnerabilities, understand the principles and practices of cryptographic techniques, identify and analyze particular security problems for a given application and apply appropriate security techniques to solve the security issues.
+
+PGCP-ITISS is targeted towards grooming students in the arena of human-computer interaction and cyber and network security. The objective of this course is to enable the students to understand the concepts of network security and learn the techniques of detecting the attacks and securing a network from internal and external attacks. At the end of the course, the student will be able to recognise a variety of generic security threats and vulnerabilities, understand the principles and practices of cryptographic techniques, identify and analyze particular security problems for a given application and apply appropriate security techniques to solve the security issues.
+
+The educational eligibility criteria for PGCP-ITISS course is
+
+Graduate in Engineering or Technology (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation, OR 
+MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics OR
+Post Graduate in Mathematics / Statistics, OR
+MCA
+The candidates must have secured a minimum of 55% marks in their qualifying examination.
+
+The educational eligibility criteria for PGCP-ITISS course is
+
+Graduate in Engineering or Technology (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation, OR
+
+MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics OR
+
+Post Graduate in Mathematics / Statistics, OR
+
+MCA
+
+The candidates must have secured a minimum of 55% marks in their qualifying examination.
+
+PGCP-ITISS course will be delivered in fully PHYSICAL mode. The total course fee and payment details are as detailed herein below:
+The total course fee is INR. 99,000/- plus Goods and Service Tax (GST) as applicable by Government of India (GOI). 
+The course fee for PGCP-ITISS has to be paid in two installments as per the schedule.
+
+First installment is INR. 15,000/- plus Goods and Service Tax (GST) as applicable by GOI. 
+Second installment is INR. 84,000/- plus Goods and Service Tax (GST) as applicable by GOI. 
+
+The course fee includes expenses towards delivering classes, conducting examinations, final mark-list and certificate, and placement assistance provided. 
+The first installment course fee of Rs 15,000/- + GST on it as applicable at the time of payment is to be paid online as per the schedule. Payments may be made using any of the available payment modes provided through the payment gateway. The first installment of the course fees is to be paid after seat is allocated during counseling rounds. 
+The second installment of the course fees is to be paid before the course commencement using netbanking, UPI, and credit/debit cards through the payment gateway.
+NOTE: Candidates may take note that no Demand Draft (DD) or cheque or cash will be accepted at any C-DAC training centre towards payment of any installment of course fees.
+
+PGCP-ITISS course will be delivered in fully PHYSICAL mode. The total course fee and payment details are as detailed herein below:
+
+The total course fee is INR. 99,000/- plus Goods and Service Tax (GST) as applicable by Government of India (GOI).
+
+The course fee for PGCP-ITISS has to be paid in two installments as per the schedule.
+
+First installment is INR. 15,000/- plus Goods and Service Tax (GST) as applicable by GOI.
+
+Second installment is INR. 84,000/- plus Goods and Service Tax (GST) as applicable by GOI.
+
+The course fee includes expenses towards delivering classes, conducting examinations, final mark-list and certificate, and placement assistance provided.
+
+The first installment course fee of Rs 15,000/- + GST on it as applicable at the time of payment is to be paid online as per the schedule. Payments may be made using any of the available payment modes provided through the payment gateway. The first installment of the course fees is to be paid after seat is allocated during counseling rounds.
+
+The second installment of the course fees is to be paid before the course commencement using netbanking, UPI, and credit/debit cards through the payment gateway.
+
+NOTE: Candidates may take note that no Demand Draft (DD) or cheque or cash will be accepted at any C-DAC training centre towards payment of any installment of course fees.
+
+Fundamental of Computer Networks    - 120 Hrs
+
+Concepts of Operating System and Administration     - 210 Hrs
+
+Windows Operating System and Security Issue
+
+Overview of windows operating system, Installation of windows operating system, Overview of Administrative Tasks and Tools, Windows Server Backup (WSB), Network Configuring, Implementation of infrastructure of windows networks, Active Directory Domain Services (ADDS), FSMO Roles, DNS, DHCP and IPAM, Local Policies, Group Policies, Active Directory Backup and Restore, Configuration of IIS web server, Deploying Windows with WDS, Hyper-V & Storage Solutions, File Server Resource Manager (FSRM), Network Policy Server (NPS), Network Load Balancing (NLB), Exchange server, Maintenance and troubleshooting, Power shell Scripting, Windows Administration using power shell, Background Jobs and Remote Administration.
+
+Linux Operating System and Security Issue
+
+Systems Concepts, Startup Files, Linux boot process, Installation of Linux, Basic Linux commands, Configuring the GRUB boot loader, Disk partition, Controlling and managing Services, Repository configuration, User administration of Linux, Network Configuring, Network Teaming/Load balancing, Define network route, Using SSH for network communications, Using VNC for remote management, Network Authentication, Patches & updates, System Configuration Files, Perform System Management, X configuration server, Package management, The Samba Server, Configuring a DHCP server, Configuring a DNS server, Configuring the Apache web server, Maintenance and troubleshooting, SE LINUX/ APParmor, Basic Service Security, Log Management and NTP, BIND and DNS Security, Network Authentication: RPC, NIS and Kerberos, Apache security(SSL), Bash Scripting, Introduction to BASH Command Line Interface (CLI) Error Handling Debugging & Redirection of scripts, Control Structure, Loop, Variable & String Conditional Statement, Regular Expressions, Automate Task Using Bash Script, Security patches, Logging & Monitoring using script
+
+Advanced Programming Concepts    - 90 Hrs
+
+MySQL
+
+Introduction to MYSQL, Installing and Configuring MYSQL, Creating and Dropping Database, Queries in MYSQL
+
+Python
+
+Introduction to Python, Python basics, Data Types and variables Operators, Looping & Control Structure List, Modules Dictionaries, string Regular Expressions, Functions and Functional Programming, Object Oriented Linux Scripting Environment, Classes, Objects and OOPS concepts, File and Directory Access Permissions, Libraries and Functionality Programming, Servers and Clients Web Servers and Client scripting, Exploit Development techniques. Writing plugins in Python, Exploit analysis Automation Process, Debugging basics, Task Automation with Python
+
+IT Infrastructure Management and DevOps    - 120 Hrs
+
+Cyber Forensics     - 60 Hrs
+
+Introduction to Cyber Crime and Cyber Forensics, Basic Forensic Principles, Computer Forensics, Types of Cyber Forensics Techniques, Cyber Forensics Procedures, Detecting Incidents, Handling Evidence, Encoding and Encryption, Cyber Forensics Tools: Sysinternals Suite, FTK Forensics Tool kit, FTK Imager, OSF, Hex, Cyber check Suite, Live system forensics, Linux Forensics, An introduction to Mobile forensics.
+
+Public Key Infrastructure    - 60 Hrs
+
+Network Defense and Countermeasures (NDC)     - 90 Hrs
+
+Security Fundamentals, Firewalls, Types of Firewalls, Linux firewall-Iptables, Overview of NextGen Firewall, Limitations of firewall, Intrusion Detection and Prevention, Intrusion risks, Security policy, Monitoring and reporting of traffics, Traffic shaping, Investigating and verifying detected intrusions, recovering from, reporting and documenting intrusions, Define the Types of intrusion Prevention Systems, Intrusion prevention system basics, Limitations of Intrusion Prevention System, Spoofing Detection & Prevention, DDos & Dos mitigation techniques, Qos Policy, Introduction of Web Application Firewall, Packet Signature and Analysis, Virtual Private Networks, Deploy and managing VPN, VPN Performance tuning and error handling, DMZ and virtual host, Unified Threat Management, Threat Hunting Model, Introduction of Reverse proxy and policies.
+
+Compliance Audit     - 30 Hrs
+
+Cybersecurity Challenges in Organizations, Compliance and Regulations for Cybersecurity ,Compliance Basics, Compliance Frameworks and Industry Standards, National Institute of Standards and Technology (NIST) , General Data Protection Regulation (GDPR), International Organization for Standardization (ISO) 2700x, SOC Reports, SOC Reports - Auditor Process Overview, Health Insurance Portability and Accountability Act (HIPAA), Payment Card Industry Data Security Standard (PCI DSS), COBIT Framework, Center for Internet Security (CIS) Critical Security Controls, ITAA 2008, Digital Personal Data Protection Act 2023Cybersecurity Challenges in Organizations, Compliance and Regulations for Cybersecurity ,Compliance Basics, Compliance Frameworks and Industry Standards, National Institute of Standards and Technology (NIST) , General Data Protection Regulation (GDPR), International Organization for Standardization (ISO) 2700x, SOC Reports, SOC Reports - Auditor Process Overview, Health Insurance Portability and Accountability Act (HIPAA), Payment Card Industry Data Security Standard (PCI DSS), COBIT Framework, Center for Internet Security (CIS) Critical Security Controls, ITAA 2008, Digital Personal Data Protection Act 2023
+
+Security Concepts     - 120 Hrs
+
+Aptitude    - 60 Hrs
+
+Number System, Ratio and Proportion, 
+Partnership, Percentage, Profit and Loss, Simple Interest & Compound
+ Interest, Time, Speed and Distance, Trains, Time and Work, Wages, Pipes
+ and Cisterns, Boats and Stream, Averages, Mixtures and Allegation, 
+Probability, Permutations and Combinations, Series, Blood Relations, 
+Coding- Decoding, Seating Arrangement, Syllogism, Venn Diagram, Data 
+Interpretation & Sufficiency, Problems on Ages, Clock & 
+Calendar, Alphabetical Reasoning, Ranking & Order, Direction, 
+Puzzles, Statements & Assumptions
+
+Effective Communication    - 60 Hrs
+
+Project    - 180 Hrs
+
+The theoretical and practical mix of the Post Graduate Certificate Programme in IT Infrastructure, Systems and Security (PGCP-ITISS) programme has the following focus:To understand the Concepts of Data Centre Management, applications security implementation and use various techniques for Ethical Hacking and Cyber ForensicsTo analyze the Threats Detection Techniques, Intrusion Detection and Prevention measuresTo use advanced tools/ decision-making tools/ techniques to analyze the complex problems and get ready to develop such new techniques for the futureTo learn cloud computing, accessing resources and services needed to perform functions with dynamically changing needs thereby implementing cloud privacy and security concepts on cloud platforms to create secure cloud environmentTo analyze and solve problems conceptually and practically from diverse industries, such as government manufacturing, retail, education, banking/ finance, healthcare and pharmaceuticalTo undertake industrial research projects for the development of future solutions in the domain of Information Security to make an impact in the technological advancementAfter doing this
+course students can work as:
+
+System
+     Administrator
+Network
+     Security Professional
+Web Security Tester
+Information
+     Security Analyst
+
+The theoretical and practical mix of the Post Graduate Certificate Programme in IT Infrastructure, Systems and Security (PGCP-ITISS) programme has the following focus:
+
+To understand the Concepts of Data Centre Management, applications security implementation and use various techniques for Ethical Hacking and Cyber Forensics
+
+To analyze the Threats Detection Techniques, Intrusion Detection and Prevention measures
+
+To use advanced tools/ decision-making tools/ techniques to analyze the complex problems and get ready to develop such new techniques for the future
+
+To learn cloud computing, accessing resources and services needed to perform functions with dynamically changing needs thereby implementing cloud privacy and security concepts on cloud platforms to create secure cloud environment
+
+To analyze and solve problems conceptually and practically from diverse industries, such as government manufacturing, retail, education, banking/ finance, healthcare and pharmaceutical
+
+To undertake industrial research projects for the development of future solutions in the domain of Information Security to make an impact in the technological advancement
+
+After doing this
+course students can work as:
+
+System
+     Administrator
+
+Network
+     Security Professional
+
+Web Security Tester
+
+Information
+     Security Analyst
+
+Bengaluru
+
+Noida
+
+Pune
+
+Q. Why is nomenclature of Post Graduate Diploma in IT Infrastructure Systems and Security changed to Post Graduate Certificate Programme in IT Infrastructure Systems and Security?
+C-DAC’s Post Graduate Diploma in IT Infrastructure Systems and Security (PG-DITISS)
+Course nomenclature is enhanced as Post Graduate Certificate Programme in IT Infrastructure Systems and Security (PGCP-ITISS) to bring PG-DITISS course in line with NCVET
+standards and guidelines. C-DAC’s 900-hour Post Graduate Diploma in IT Infrastructure Systems and Security is
+being upgraded to 1200-hour (24-week), 40-credits. NSQF alignment and NCVET
+approval are under process.Q. What is the Eligibility for PGCP-ITISS?  
+A. The eligibility criteria for PGCP-ITISS design is candidate holding any one of the     following degrees:  
+
+Graduate in Engineering or Technology (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation. OR
+
+
+MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics. OR
+Post Graduate in Mathematics or allied areas, OR
+MCA
+The candidates must have secured a minimum of 55% marks in their qualifying examination.
+For
+any specific engineering or postgraduate courses that are not mentioned above,
+candidates may check their course eligibility by emailing their certificates
+and mark-sheets to actssupport@cdac.in before
+the last date of C-CAT application.
+Q. What is the selection criterion?  
+A. The selection process consists of a C-DAC Common Admission Test (C-CAT). 
+ 
+Q. What is Fee of course? 
+A. The fees for the PGCP-ITISS course is Rs. 99,000/- (Rupees Ninety Nine Thousand only) plus GST as applicable by GoI. 
+ 
+Q. When the course does commence?  
+A. Twice in a year in the month of August and February. Admission Process will start in month of May and December every year.
+ 
+Q. Duration of the course?  
+A. The course duration is 24 weeks approximately full-time course with 
+1200 hours, Theory +Practical+ Project Work, (including 300 hours of 
+self study) of 40 credits.
+ 
+Q. Infrastructure Facilities available?  
+A. Fully equipped classrooms capacity to accommodate students and state-of-art labs to explore you computing skills.
+ 
+Q. Hostel & Canteen facility available?  
+A. Accommodation for out station candidates is facilitated by some of centres. Please refer Admission Booklet.
+ 
+Q. Bank loan assistance for the other centers?  
+A. Facility of educational loans is provided for the selected candidates, which is available at all nationalized banks.
+Q. What is the medium of instruction for PG Certificate Programme?                                         
+A. The medium of instruction for the PG Certificate Programme is English.
+ 
+Q. Revision of the course contents, is it every six months?  
+A. The course contents are revised according to the real world needs and when found relevant to the market demands.
+ 
+Q. Do you have centralized placement cell?  
+A. Yes we do have a centralized placement programme where the respective centers actively coordinate the task of organizing the campus interviews for all the students.
+ 
+Q. What is the value of the course in the international market?  
+A. The course has been a trend-setting course due to its unique curriculum and the opportunities that it generates; hence it gives the edge over above for the students and gives a international edge.
+
+Q. Why is nomenclature of Post Graduate Diploma in IT Infrastructure Systems and Security changed to Post Graduate Certificate Programme in IT Infrastructure Systems and Security?
+
+C-DAC’s Post Graduate Diploma in IT Infrastructure Systems and Security (PG-DITISS)
+Course nomenclature is enhanced as Post Graduate Certificate Programme in IT Infrastructure Systems and Security (PGCP-ITISS) to bring PG-DITISS course in line with NCVET
+standards and guidelines. C-DAC’s 900-hour Post Graduate Diploma in IT Infrastructure Systems and Security is
+being upgraded to 1200-hour (24-week), 40-credits. NSQF alignment and NCVET
+approval are under process.
+
+Q. What is the Eligibility for PGCP-ITISS?
+
+A. The eligibility criteria for PGCP-ITISS design is candidate holding any one of the     following degrees:
+
+Graduate in Engineering or Technology (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation. OR
+
+MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics. OR
+
+Post Graduate in Mathematics or allied areas, OR
+
+MCA
+
+The candidates must have secured a minimum of 55% marks in their qualifying examination.
+
+A. The selection process consists of a C-DAC Common Admission Test (C-CAT).
+
+Q. What is Fee of course?
+
+A. The fees for the PGCP-ITISS course is Rs. 99,000/- (Rupees Ninety Nine Thousand only) plus GST as applicable by GoI.
+
+Q. When the course does commence?
+
+A. Twice in a year in the month of August and February. Admission Process will start in month of May and December every year.
+
+Q. Duration of the course?
+
+A. The course duration is 24 weeks approximately full-time course with 
+1200 hours, Theory +Practical+ Project Work, (including 300 hours of 
+self study) of 40 credits.
+
+Q. Infrastructure Facilities available?
+
+A. Fully equipped classrooms capacity to accommodate students and state-of-art labs to explore you computing skills.
+
+Q. Hostel & Canteen facility available?
+
+A. Accommodation for out station candidates is facilitated by some of centres. Please refer Admission Booklet.
+
+Q. Bank loan assistance for the other centers?
+
+A. Facility of educational loans is provided for the selected candidates, which is available at all nationalized banks.
+
+Q. What is the medium of instruction for PG Certificate Programme?
+
+A. The medium of instruction for the PG Certificate Programme is English.
+
+Q. Revision of the course contents, is it every six months?
+
+A. The course contents are revised according to the real world needs and when found relevant to the market demands.
+
+Q. Do you have centralized placement cell?
+
+A. Yes we do have a centralized placement programme where the respective centers actively coordinate the task of organizing the campus interviews for all the students.
+
+Q. What is the value of the course in the international market?
+
+A. The course has been a trend-setting course due to its unique curriculum and the opportunities that it generates; hence it gives the edge over above for the students and gives a international edge.
+
+ACTS Home
+
+Courses
+
+Admissions
+
+Placement
+
+Training Centres
+
+Contact Us

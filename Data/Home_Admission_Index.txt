@@ -1,0 +1,41 @@
+COURSE SOURCE: Home_Admission_Index
+URL: https://cdac.in/index.aspx?id=edu_acts_PGDiplomaCoursesAdmission
+============================================================
+
+PG Certificate Programmes
+
+Post Graduate Certificate Programme in Advanced Computing
+
+Post Graduate Certificate Programme in Advanced Secure Software Development
+
+Post Graduate Certificate Programme in Mobile Computing
+
+Post Graduate Certificate Programme in VLSI Design
+
+Post Graduate Certificate Programme in Embedded Systems Design
+
+Post Graduate Certificate Programme in Robotics & Allied Technologies
+
+Post Graduate Certificate Programme in Artificial Intelligence
+
+Post Graduate Certificate Programme in Big Data Analytics
+
+Post Graduate Certificate Programme in HPC System Administration
+
+Post Graduate Certificate Programme in IT Infrastructure, Systems and Security
+
+Post Graduate Certificate Programme in Cyber Security & Forensics
+
+Post Graduate Certificate Programme in FinTech & Blockchain Development
+
+ACTS Home
+
+Courses
+
+Admissions
+
+Placement
+
+Training Centres
+
+Contact Us

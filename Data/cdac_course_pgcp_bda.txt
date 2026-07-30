@@ -1,0 +1,321 @@
+COURSE SOURCE: Home_Admission_Index
+URL: https://cdac.in/index.aspx?id=DAC&courseid=65
+============================================================
+
+e-Brochure
+
+Course Focus
+
+Eligibility Criteria
+
+Course Fees
+
+Course Contents
+
+Course Outcome
+
+Training Centres
+
+FAQs
+
+PGCP-BDA will educate the aspirants who want to make an impact in the corporate and 
+academic world in the domain of big data analytics as data scientist and researcher, big 
+data leads/administrators/managers, business analysts and data visualization specialists. 
+The course is also suitable for those who are already working in analytics to enhance their 
+theoretical and conceptual knowledge as well as those with analytical aptitude and would 
+like to start career in big data analytics in different business sectors. The students will be 
+able to work with big data platform, analyze various big data analysis techniques for useful 
+business applications, design efficient algorithms for mining the data from large volumes, 
+analyze the HADOOP and Map Reduce technologies associated with big data analytics, 
+and explore big data applicationsThe theoretical and practical mix of the Post Graduate Certificate Programme in Big Data Analytics (PGCP-BDA) has the following focus:
+
+To explore the fundamental concepts of big data analytics with in-depth knowledge and understanding of the big data analytics domain
+To understand the various search methods and visualization techniques and to use various techniques for mining data stream
+To analyze and solve problems conceptually and practically from diverse industries, such as government manufacturing, retail, education, banking/ finance, healthcare and pharmaceutical
+To undertake consulting and industrial projects with significant data analysis component for better understanding of the theoretical concepts from statistics, economics and building future solutions data analytics to make an impact in the technological advancement
+To use advanced analytical tools/ decision-making tools/ operation research techniques to analyze the complex problems and get ready to develop such new techniques for the future
+To learn Cloud Computing, accessing resources and services needed to perform functions with dynamically changing needs
+
+PGCP-BDA will educate the aspirants who want to make an impact in the corporate and 
+academic world in the domain of big data analytics as data scientist and researcher, big 
+data leads/administrators/managers, business analysts and data visualization specialists. 
+The course is also suitable for those who are already working in analytics to enhance their 
+theoretical and conceptual knowledge as well as those with analytical aptitude and would 
+like to start career in big data analytics in different business sectors. The students will be 
+able to work with big data platform, analyze various big data analysis techniques for useful 
+business applications, design efficient algorithms for mining the data from large volumes, 
+analyze the HADOOP and Map Reduce technologies associated with big data analytics, 
+and explore big data applications
+
+The theoretical and practical mix of the Post Graduate Certificate Programme in Big Data Analytics (PGCP-BDA) has the following focus:
+
+To explore the fundamental concepts of big data analytics with in-depth knowledge and understanding of the big data analytics domain
+
+To understand the various search methods and visualization techniques and to use various techniques for mining data stream
+
+To analyze and solve problems conceptually and practically from diverse industries, such as government manufacturing, retail, education, banking/ finance, healthcare and pharmaceutical
+
+To undertake consulting and industrial projects with significant data analysis component for better understanding of the theoretical concepts from statistics, economics and building future solutions data analytics to make an impact in the technological advancement
+
+To use advanced analytical tools/ decision-making tools/ operation research techniques to analyze the complex problems and get ready to develop such new techniques for the future
+
+To learn Cloud Computing, accessing resources and services needed to perform functions with dynamically changing needs
+
+The educational criteria for PGCP-BDA course is 
+
+Graduate in Engineering or Technology (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation. OR 
+MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics. OR
+Graduate in any discipline of Engineering, OR MCA, MCM, ORPost Graduate Degree in Physics / Mathematics / Statistics, ORPost Graduate Degree in Management with graduation in IT / Computer Science / Computer Applications 
+The candidate mast have secured a minimum of 55% of marks in their qualifying examination.
+
+The educational criteria for PGCP-BDA course is
+
+Graduate in Engineering or Technology (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation. OR
+
+MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics. OR
+
+Graduate in any discipline of Engineering, OR
+
+MCA, MCM, OR
+
+Post Graduate Degree in Physics / Mathematics / Statistics, OR
+
+Post Graduate Degree in Management with graduation in IT / Computer Science / Computer Applications
+
+The candidate mast have secured a minimum of 55% of marks in their qualifying examination.
+
+The Post Graduate Certificate Programme in Big Data Analytics (PGCP-BDA) course will be delivered in fully ONLINE or fully PHYSICAL mode. The total course fee and payment details for the fully PHYSICAL or fully ONLINE mode of delivery is as detailed herein below:
+1.      PHYSICAL Mode of Delivery:
+The course fee for the fully PHYSICAL mode of delivery is INR. 1,15,000/- plus Goods and Service Tax (GST) as applicable by Government of India (GOI). 
+The course fee for PGCP-BDA has to be paid in two installments as per the schedule.
+
+First installment is INR. 15,000/- plus Goods and Service Tax (GST) as applicable by GOI. 
+Second installment is INR. 1,00,000/- plus Goods and Service Tax (GST) as applicable by GOI. 
+
+2.      ONLINE Mode of Delivery:
+The course fee of the fully ONLINE mode of delivery is INR. 97,750/- plus Goods and Service Tax (GST) as applicable by GOI.
+The course fee for PGCP-BDA has to be paid in two installments as per the schedule.
+
+First installment is INR. 15,000/- plus Goods and Service Tax (GST) as applicable by GOI.
+Second installment is INR. 82,750/- plus Goods and Service Tax (GST) as applicable by GOI.
+
+The course fee includes expenses towards delivering classes, conducting examinations, final mark-list and certificate, and placement assistance provided. 
+The first installment course fee of Rs 15,000/- + GST on it as applicable at the time of payment is to be paid online as per the schedule. Payments may be made using any of the available payment modes provided through the payment gateway. The first installment of the course fees is to be paid after seat is allocated during counseling rounds. 
+The second installment of the course fees is to be paid before the course commencement using netbanking, UPI, and credit/debit cards through the payment gateway.
+NOTE: Candidates may take note that no Demand Draft (DD) or cheque or cash will be accepted at any C-DAC training centre towards payment of any installment of course fees.
+
+The Post Graduate Certificate Programme in Big Data Analytics (PGCP-BDA) course will be delivered in fully ONLINE or fully PHYSICAL mode. The total course fee and payment details for the fully PHYSICAL or fully ONLINE mode of delivery is as detailed herein below:
+
+1.      PHYSICAL Mode of Delivery:
+
+The course fee for the fully PHYSICAL mode of delivery is INR. 1,15,000/- plus Goods and Service Tax (GST) as applicable by Government of India (GOI).
+
+The course fee for PGCP-BDA has to be paid in two installments as per the schedule.
+
+First installment is INR. 15,000/- plus Goods and Service Tax (GST) as applicable by GOI.
+
+Second installment is INR. 1,00,000/- plus Goods and Service Tax (GST) as applicable by GOI.
+
+2.      ONLINE Mode of Delivery:
+
+The course fee of the fully ONLINE mode of delivery is INR. 97,750/- plus Goods and Service Tax (GST) as applicable by GOI.
+
+The course fee for PGCP-BDA has to be paid in two installments as per the schedule.
+
+First installment is INR. 15,000/- plus Goods and Service Tax (GST) as applicable by GOI.
+
+Second installment is INR. 82,750/- plus Goods and Service Tax (GST) as applicable by GOI.
+
+The course fee includes expenses towards delivering classes, conducting examinations, final mark-list and certificate, and placement assistance provided.
+
+The first installment course fee of Rs 15,000/- + GST on it as applicable at the time of payment is to be paid online as per the schedule. Payments may be made using any of the available payment modes provided through the payment gateway. The first installment of the course fees is to be paid after seat is allocated during counseling rounds.
+
+The second installment of the course fees is to be paid before the course commencement using netbanking, UPI, and credit/debit cards through the payment gateway.
+
+NOTE: Candidates may take note that no Demand Draft (DD) or cheque or cash will be accepted at any C-DAC training centre towards payment of any installment of course fees.
+
+Linux Programming and Cloud Computing     - 60 Hrs
+
+Introduction to Linux OS, Installation (Ubuntu and CentOS), Configuring Linux, Shells, Commands, Navigation, Administering Linux, Introduction to Users and Groups, Linux shell scripting.
+
+Introduction to Version control systems: Git, Cloud Computing Basics, Cloud architecture, Understanding Cloud Vendors (AWS:EC2 instance, lambda), Definition, Characteristics, Components, Cloud provider, Organizational scenarios of clouds, benefits and limitations, Virtualization, Deploy application over cloud, Comparison among SAAS, PAAS, IAAS, Cloud Products and Solutions, Compute Products and Services, Elastic Cloud Compute, Dashboard, Deploy AI and analytics workloads in Cloud environment, Introduction to DevOps.
+
+Data Collection and DBMS (Principles, Tools & Platforms)     - 120 Hrs
+
+Database Concepts (File System and DBMS), OLAP vs OLTP, Database Storage Structures (Tablespace, Control files, Data files), Structured and Unstructured data, SQL Commands (DDL, DML & DCL), ACID Properties and Transaction Management, Indexing Strategies, Query Optimization Concepts, Conditional Constructs in SQL, Data collection, Designing Database schema, Normal Forms and ER Diagram, Relational Database modelling, Introduction to PL/SQL, Triggers, Gathering data in a systematic fashion, Data ware Housing concept, Slowly Changing Dimensions, No-SQL, Working with MongoDB, Cassandra overview, comparison with MongoDB, Connecting DB’s with Python, Introduction to Data Driven Decisions, Enterprise Data Management.
+
+Understanding Data Lakes – concepts, architecture and components, Data Lake vs. Data Warehouse vs. Lakehouse, data storage management, processing and transformation, Slowly changing dimensions, workflow orchestration, analytics in Data Lake, case study using Delta Lake with analytics and AI, Introduction to Cloud data Warehousing using Snowflake.
+
+Python and R Programming     - 120 Hrs
+
+Python Programming:
+
+Python Programming Basics, Conditional Statements and Loops, Strings and Tuples, Working with Lists, Methods, Dictionaries, Functions and Functional Programming, Tuples, Visualizing using  Matplotlib, Seaborn, OOP concepts, Class and object, Attributes, Encapsulation, Inheritance, Polymorphism: Overloading and Overriding, Abstraction, Generators, Decorators, Exception Handling, Data wrangling, Data cleaning, Load images and audio files using python libraries, File I/O, Connecting database using python, FastAPI.
+
+R Programming:
+
+Reading and Getting Data into R, Exporting Data from R, Data Objects, Manipulating and Processing Data in R (Creating, Accessing, sorting data frames, Extracting, Combining, Merging, reshaping data frames), Control Structures, Functions in R (numeric, character, statistical), working with objects, Viewing Objects within Objects, Constructing Data Objects, Packages, Working with Data Frames.
+
+Java Programming    - 90 Hrs
+
+Introduction to Java Programming, JVM Architecture, JRE, JVM and JDK, Java Basics, Conditional Statements and Loops, Array, OOP Concepts, Classes and Objects, Abstraction, Encapsulation, Inheritance, Polymorphism: Overloading and Overriding, String and Wrapper class, Abstract class and Interface, Packages, Exception Handling, File Handling, Enumeration, Collection Framework, Lambda Expressions, Functional Programming, Stream API, Generics, Introduction to Multithreading, JDBC.
+
+Big Data Technologies     - 180 Hrs
+
+Introduction to Big Data:
+
+Beyond The Hype, Big Data Skills And Sources Of Big Data, Big Data Adoption, Research And Changing Nature Of Data Repositories, Data Sharing And Reuse Practices And Their Implications For Repository Data Curation.
+
+Hadoop:
+
+Introduction of Big Data Programming-Hadoop, The ecosystem and stack, The Hadoop Distributed File System (HDFS), Components of Hadoop, Design of HDFS, Java interfaces to HDFS, Architecture overview, Development Environment, Hadoop distribution and basic commands, Eclipse development, The HDFS command line and web interfaces, The HDFS Java API, Analyzing the Data with Hadoop, Scaling Out, MapReduce Introduction, Developing a Map Reduce Application, How Map Reduce Works, Shuffle and Sort, Task execution, Map Reduce Features, HBase Overview  and architecture.
+
+Hadoop Environment:
+
+Setting up a Hadoop Cluster, Cluster specification, Cluster Setup and Installation, Hadoop Configuration, Security in Hadoop, Administering Hadoop, HDFS – Monitoring & Maintenance.
+
+Apache Airflow:
+
+Introduction to Data warehousing and Data lakes, Designing Data warehousing for an ETL Data Pipeline, Designing Data Lakes for ETL Data Pipeline, ETL vs ELT.
+
+Introduction to HIVE:
+
+Programming with Hive: Data warehouse system for Hadoop, Bucketing, Algorithms: sorting, indexing and searching, Relational manipulation: map-side and reduce-side joins, evolution, purpose and use, Case Studies on Ingestion and warehousing.
+
+Apache Spark:
+
+APIs for large-scale data processing: Overview, Linking with Spark, Initializing Spark, Resilient Distributed Datasets (RDDs), External Datasets, RDD Operations, Passing Functions to Spark, Job optimization, Working with Key-Value Pairs, Shuffle operations, RDD Persistence, Removing Data, Shared Variables, EDA using PySpark, Deploying to a Cluster Spark Streaming, Spark MLlib and ML APIs, Spark Data Frames/Spark SQL, Integration of Spark and Kafka, Setting up Kafka Producer and Consumer, Kafka Connect API, Map reduce, Connecting DB’s with Spark, Spark Window functions.
+
+Advanced Analytics using Statistics     - 90 Hrs
+
+Introduction to Business Analytics using some case studies, Summary Statistics, Making Right Business Decisions based on data, Statistical Concepts, Descriptive Statistics and its measures, Probability theory, Probability Distributions (Continuous and discrete- Normal, Binomial and Poisson distribution) and Data, Sampling and Estimation, Statistical Interfaces, Predictive modelling and analysis, Bayes’ Theorem, Central Limit theorem, Statistical Inference Terminology (types of errors, tails of test, confidence intervals etc.),Hypothesis Testing, Parametric Tests: ANOVA, t-test, Non parametric Tests- chi-Square, U-Test Data Exploration & preparation, Concepts of Correlation,  Covariance, Outliers, Simulation and Risk Analysis, Optimization, Linear, Integer, Overview of Factor Analysis, Directional Data Analytics, Functional Data Analysis, Predictive Modelling (From Correlation To Supervised Segmentation): Identifying Informative Attributes, Segmenting Data By Progressive Attributive, Models, Induction And Prediction, Supervised Segmentation, Visualizing Segmentations, Trees As Set Of Rules, Probability Estimation; Decision Analytics: Evaluating Classifiers, Analytical Framework, Evaluation, Baseline, Performance And Implications For Investments In Data; Evidence And Probabilities: Explicit Evidence, Combination With Bayes Rule, Probabilistic Reasoning; Business Strategy: Achieving Competitive Advantages, Sustaining Competitive Advantages
+
+Python Libraries – Pandas, Numpy, Scrapy, Plotly, Beautiful soup
+
+Practical Machine Learning     - 150 Hrs
+
+Data Visualization - Analysis and Reporting     - 90 Hrs
+
+Business Intelligence- requirements, content and managements, information Visualization, Data analytics Life Cycle, Analytic Processes and Tools, Analysis vs. Reporting, MS Excel: Functions, Formula, charts, Pivots and Lookups, Data Analysis Tool pack: Descriptive Summaries, Correlation, Regression, Introduction to Tableau, Data sources in Tableau, Taxonomy of data visualization, Numeric, String, Date Calculations, LOD (Level of Detail) Expressions, Modern Data Analytic Tools, Visualization Techniques, Introduction to Power BI.
+
+Aptitude    - 60 Hrs
+
+Number
+System, Ratio and Proportion, Partnership, Percentage, Profit and Loss, Simple
+Interest & Compound Interest, Time, Speed and Distance, Trains, Time and
+Work, Wages, Pipes and Cisterns, Boats and Stream, Averages, Mixtures and
+Allegation, Probability, Permutations and Combinations, Series, Blood Relations,
+Coding- Decoding, Seating Arrangement, Syllogism, Venn Diagram, Data
+Interpretation & Sufficiency, Problems on Ages, Clock & Calendar,
+Alphabetical Reasoning, Ranking & Order, Direction, Puzzles, Statements
+& Assumptions
+
+Effective Communication    - 60 Hrs
+
+Project     - 180 Hrs
+
+After completing this course students will be trained in statistics and machine learning using Python. They will make data driven decisions which provide them a competitive advantage in the market, technologies like Hadoop, Spark, Hive, Machine Learning provides a spring board for AI which makes them ready for Industry 4.0.  At the end of the course students will be able to work as Data Analysts, Data Engineers. Studying Big Data will broaden their horizon by surpassing market forecast / predictions for Big Data Analytics.
+
+After completing this course students will be trained in statistics and machine learning using Python. They will make data driven decisions which provide them a competitive advantage in the market, technologies like Hadoop, Spark, Hive, Machine Learning provides a spring board for AI which makes them ready for Industry 4.0.  At the end of the course students will be able to work as Data Analysts, Data Engineers. Studying Big Data will broaden their horizon by surpassing market forecast / predictions for Big Data Analytics.
+
+Bengaluru
+
+Chennai
+
+Hyderabad
+
+Kolkata
+
+Mumbai
+
+New Delhi
+
+Noida
+
+Pune
+
+Thiruvananthapuram
+
+Q. Why is nomenclature of Post Graduate Diploma in Big Data Analytics changed to Post Graduate Certificate Programme in Big Data Analytics?A. C-DAC’s Post Graduate Diploma in Big Data Analytics (PG-DBDA) Course nomenclature is enhanced as Post Graduate Certificate Programme
+in Advanced Computing (PGCP-BDA) to bring PG-DBDA course in line with NCVET
+standards and guidelines. C-DAC’s 900-hour Post Graduate Diploma in Big Data Analytics is
+being upgraded to 1200-hour (24-week), 40-credits. NSQF alignment and NCVET
+approval are under process.
+ Q. What is the Eligibility for PG Certificate Programme in Big Data Analytics?   A. The eligibility Criteria for PGCP-BDA is Candidate holding any one of the following degrees
+Graduate in Engineering or Technology (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation. OR 
+
+MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics with Mathematics in 10+2.OR
+Graduate in any discipline of Engineering, OR
+Post Graduate Degree in Engineering Sciences with corresponding basic degree (e.g. MSc in Computer Science, IT, Electronics) OR
+Post Graduate Degree in Mathematics / Statistics / Physics / MBA Systems, OR 
+MCA
+The candidates must have secured a minimum of 55% marks in their qualifying examination
+
+
+For
+any specific engineering or postgraduate courses that are not mentioned above,
+candidates may check their course eligibility by emailing their certificates
+and mark-sheets to actssupport@cdac.in before
+the last date of C-CAT application. 
+Q. What is the selection criterion?  
+A. The selection process consists of a C-DAC's Common Admission Test (C-CAT). 
+Q. What is Fee of course? 
+A. The fees for the PGCP-BDA course is Rs. 97,750/- (Rupees Ninety Seven thousand Seven  hundred and Fifty only) plus GST for online mode and Rs.1,15,000/- (Rupees One Lakh Fifteen Thousand Only) plus GST for physical mode of delivery. 
+Q. When the course does commence?  
+A. The Course commences twice in the year i.e. February & August. Admission Process starts in the month of November & May for the respective batches.
+Q. Duration of the course?  
+A. It’s 24 weeks approximately full-time course with 1200 hours of Theory + Practical + Project work (including 300 hours of self study) of 40
+credits.
+Q. Infrastructure Facilities available?
+  A. Fully equipped classrooms with adequate capacity to accommodate students and state-of-art labs to explore your computing skills  Q. Hostel & Canteen facility available?   A. Accommodation for out station candidates is facilitated by some of centers. Please refer Admission Booklet.   Q. Revision of the course contents, is it every six months?  A. The course contents are revised according to the real world needs and when found relevant to emerging trends.   Q. Do you have centralized placement cell?    A. Yes. We do have a Centralized Placement Programme where the respective center actively participates to organize the campus interviews for all the students.   Q. What is the value of the course in the international market?   A. The course has been a trend-setting course due to its unique curriculum and the opportunities that it generates; hence it gives the edge over for the students and gives an international edge.
+
+Q. Why is nomenclature of Post Graduate Diploma in Big Data Analytics changed to Post Graduate Certificate Programme in Big Data Analytics?
+
+A. C-DAC’s Post Graduate Diploma in Big Data Analytics (PG-DBDA) Course nomenclature is enhanced as Post Graduate Certificate Programme
+in Advanced Computing (PGCP-BDA) to bring PG-DBDA course in line with NCVET
+standards and guidelines. C-DAC’s 900-hour Post Graduate Diploma in Big Data Analytics is
+being upgraded to 1200-hour (24-week), 40-credits. NSQF alignment and NCVET
+approval are under process.
+
+Q. What is the Eligibility for PG Certificate Programme in Big Data Analytics?   A. The eligibility Criteria for PGCP-BDA is Candidate holding any one of the following degrees
+
+Graduate in Engineering or Technology (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation. OR
+
+MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics with Mathematics in 10+2.OR
+
+Graduate in any discipline of Engineering, OR
+
+Post Graduate Degree in Engineering Sciences with corresponding basic degree (e.g. MSc in Computer Science, IT, Electronics) OR
+
+Post Graduate Degree in Mathematics / Statistics / Physics / MBA Systems, OR
+
+MCA
+
+The candidates must have secured a minimum of 55% marks in their qualifying examination
+
+A. The selection process consists of a C-DAC's Common Admission Test (C-CAT).
+
+Q. What is Fee of course?
+
+A. The fees for the PGCP-BDA course is Rs. 97,750/- (Rupees Ninety Seven thousand Seven  hundred and Fifty only) plus GST for online mode and Rs.1,15,000/- (Rupees One Lakh Fifteen Thousand Only) plus GST for physical mode of delivery.
+
+Q. When the course does commence?
+
+A. The Course commences twice in the year i.e. February & August. Admission Process starts in the month of November & May for the respective batches.
+
+Q. Duration of the course?
+
+A. It’s 24 weeks approximately full-time course with 1200 hours of Theory + Practical + Project work (including 300 hours of self study) of 40
+credits.
+
+ACTS Home
+
+Courses
+
+Admissions
+
+Placement
+
+Training Centres
+
+Contact Us

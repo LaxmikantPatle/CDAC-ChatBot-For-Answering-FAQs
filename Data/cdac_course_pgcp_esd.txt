@@ -1,0 +1,191 @@
+COURSE SOURCE: Home_Admission_Index
+URL: https://cdac.in/index.aspx?id=DAC&courseid=22
+============================================================
+
+e-Brochure
+
+Course Focus
+
+Eligibility Criteria
+
+Course Fees
+
+Course Contents
+
+Course Outcome
+
+Training Centres
+
+FAQs
+
+Realizing the growth of embedded systems in day-to-day life and the need
+ for trained man power in this promising area, C-DAC launched PGCP-ESD 
+for engineers in Computers, IT and Electronics. Embedded Systems is a 
+unique field, where engineers need to have sound knowledge in hardware 
+and software design. Keeping this aspect in view, C-DAC has designed 
+this course giving equal emphasis to hardware and software, enabling 
+engineers to face challenges in the design and development of 
+state-of-the-art embedded systems. The course aims to groom the students
+ to enable them to work on embedded technology scenarios as well as 
+prepare them to keep pace with the changing face of technology and the 
+requirements of the growing Electronics & IT industry. The course 
+curriculum has been designed keeping in view the latest trends in 
+embedded systems as well as contemporary and futuristic human resource 
+requirements of the ICT industry. The curriculum includes a module on 
+Internet of Things (IoT), specifically focusing on IoT architectures, 
+applications, standards and protocols.
+
+The educational eligibility criteria for PGCP-ESD course isGraduate in Engineering or Technology (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation, ORMSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics. The candidates must have secured a minimum of 55% marks in their qualifying examination.
+
+Graduate in Engineering or Technology (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation, OR
+
+MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics.
+
+The candidates must have secured a minimum of 55% marks in their qualifying examination.
+
+PGCP-ESD course will be delivered in fully PHYSICAL mode. The total course fee and payment details is as detailed herein below:
+The total course fee is INR. 99,000/- plus Goods and Service Tax (GST) as applicable by Government of India (GOI). 
+The course fees for PGCP-ESD has to be paid in two installments as per the schedule.
+
+First installment is INR. 15,000/- plus Goods and Service Tax (GST) as applicable by GOI. 
+Second installment is INR. 84,000/- plus Goods and Service Tax (GST) as applicable by GOI. 
+
+The course fee includes expenses towards delivering classes, conducting examinations, final mark-list and certificate, and placement assistance provided. 
+The first installment course fee of Rs 15,000/- + GST on it as applicable at the time of payment is to be paid online as per the schedule. Payments may be made using any of the available payment modes provided through the payment gateway. The first installment of the course fees is to be paid after seat is allocated during counseling rounds. 
+The second installment of the course fees is to be paid before the course commencement using netbanking, UPI, and credit/debit cards through the payment gateway.
+NOTE: Candidates may take note that no Demand Draft (DD) or cheque or cash will be accepted at any C-DAC training centre towards payment of any installment of course fees.
+
+PGCP-ESD course will be delivered in fully PHYSICAL mode. The total course fee and payment details is as detailed herein below:
+
+The total course fee is INR. 99,000/- plus Goods and Service Tax (GST) as applicable by Government of India (GOI).
+
+The course fees for PGCP-ESD has to be paid in two installments as per the schedule.
+
+First installment is INR. 15,000/- plus Goods and Service Tax (GST) as applicable by GOI.
+
+Second installment is INR. 84,000/- plus Goods and Service Tax (GST) as applicable by GOI.
+
+The course fee includes expenses towards delivering classes, conducting examinations, final mark-list and certificate, and placement assistance provided.
+
+The first installment course fee of Rs 15,000/- + GST on it as applicable at the time of payment is to be paid online as per the schedule. Payments may be made using any of the available payment modes provided through the payment gateway. The first installment of the course fees is to be paid after seat is allocated during counseling rounds.
+
+The second installment of the course fees is to be paid before the course commencement using netbanking, UPI, and credit/debit cards through the payment gateway.
+
+NOTE: Candidates may take note that no Demand Draft (DD) or cheque or cash will be accepted at any C-DAC training centre towards payment of any installment of course fees.
+
+Embedded C Programming     - 150 Hrs
+
+Data Structures and Algorithms     - 120 Hrs
+
+Introduction to Data Structures, Algorithms and Abstract Data Types, Complexity of Algorithms, Linked Lists, Stacks, Queues, Searching and Sorting Algorithms, Hashing, Trees, Introduction to Graphs.
+
+Microcontroller Programming and Interfacing     - 150 Hrs
+
+Embedded Operating Systems     - 120 Hrs
+
+Embedded Device Drivers    - 90 Hrs
+
+Real-time Operating Systems     - 90 Hrs
+
+Internet of Things (IoT)    - 90 Hrs
+
+Edge AI for Embedded Systems    - 90 Hrs
+
+Aptitude    - 60 Hrs
+
+Number System, Ratio and Proportion, Partnership, Percentage, Profit and Loss, Simple Interest & Compound Interest, Time, Speed and Distance, Trains, Time and Work, Wages, Pipes and Cisterns, Boats and Stream, Averages, Mixtures and Allegation, Probability, Permutations and Combinations, Series, Blood Relations, Coding- Decoding, Seating Arrangement, Syllogism, Venn Diagram, Data Interpretation & Sufficiency, Problems on Ages, Clock & Calendar, Alphabetical Reasoning, Ranking & Order, Direction, Puzzles, Statements & Assumptions
+
+Effective Communication    - 60 Hrs
+
+Project     - 180 Hrs
+
+The candidates will be trained in Hardware and Firmware design of Embedded System based applications, Internet of Things ( IoT), Project development and Management skills. At the end of the course students will be able to work as System design engineer and embedded engineer with good knowledge of RT Linux, Microcontroller and Microprocessor based design, Device driver and RTOS. Students can start career as Embedded Developer, tester and leads to project manager after having relevant experience.
+
+Bengaluru
+
+Hyderabad
+
+Pune
+
+Q. Why is nomenclature of Post Graduate Diploma in Embedded System Design changed to Post Graduate Certificate Programme in Advanced Computing?
+C-DAC’s Post Graduate Diploma in Embedded System Design (PG-DESD)
+Course nomenclature is enhanced as Post Graduate Certificate Programme in
+Advanced Computing (PGCP-ESD) to bring PG-DESD course in line with NCVET
+standards and guidelines. C-DAC’s 900-hour Post Graduate Diploma in Embedded System Design is
+being upgraded to 1200-hour (24-week), 40-credits. NSQF alignment and NCVET
+approval are under process.Q. What is the Eligibility for PG Certificate Programme in Embedded Systems and Design?
+A: The eligibility Criteris for PGCP-ESD is candidate holding any one of the following degrees :
+
+
+Graduate in Engineering or Technology (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation.
+
+OR
+
+MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics.
+
+
+The candidates must have secured a minimum of 55% marks in their qualifying examination.
+For
+any specific engineering or postgraduate courses that are not mentioned above,
+candidates may check their course eligibility by emailing their certificates
+and mark-sheets to actssupport@cdac.in before
+the last date of C-CAT application.
+
+Q: What is the selection criterion?  
+A: The selection process consists of a C-DAC Common Admission Test (C-CAT).
+ 
+Q: What is Fee of course? 
+A: The fees for the PGCP-ESD course is INR. 99,000/- (Rupees Ninety Nine Thousand  only) plus GST as applicable.
+ 
+Q: When the course does commence?  
+A: The PG Diploma courses is conducted twice in a year in the month of August and February. Admission Process will start in month of May and November every year.
+ 
+Q: Duration of the course?  
+A: The duration of course is 24 weeks approximately full-time course with 1200 hours of Theory + Practical + Project Work (with 300 hours of self study) of 40 credits.
+ 
+Q: Infrastructure Facilities available?  
+A: Fully equipped classrooms capacity to accommodate students and state-of-art labs to explore you computing skills
+ 
+Q: Hostel & Canteen facility available?  
+A: Accommodation for out station candidates is facilitated by some of centres. Please refer Admission Booklet.
+ 
+Q: What is the medium of instruction for PG Certificate Programme? 
+A: The medium of instruction for the PG Certificate Programme is English.
+  
+Q: Revision of the course contents, is it every six months?  
+A: The course contents are revised according to the real world needs and when found relevant to the market demands.
+ 
+Q: Do you have centralized placement cell?  
+A: Yes we do have a centralized placement programme where the respective centers actively coordinate the task of organizing the campus interviews for all the students.
+ 
+Q: What is the value of the course in the international market?  
+A: The course has been a trend-setting course due to its unique curriculum and the opportunities that it generates; hence it gives the edge over above for the students and gives a international edge.
+
+Q. Why is nomenclature of Post Graduate Diploma in Embedded System Design changed to Post Graduate Certificate Programme in Advanced Computing?
+
+C-DAC’s Post Graduate Diploma in Embedded System Design (PG-DESD)
+Course nomenclature is enhanced as Post Graduate Certificate Programme in
+Advanced Computing (PGCP-ESD) to bring PG-DESD course in line with NCVET
+standards and guidelines. C-DAC’s 900-hour Post Graduate Diploma in Embedded System Design is
+being upgraded to 1200-hour (24-week), 40-credits. NSQF alignment and NCVET
+approval are under process.
+
+Graduate in Engineering or Technology (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation.
+
+OR
+
+MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics.
+
+The candidates must have secured a minimum of 55% marks in their qualifying examination.
+
+ACTS Home
+
+Courses
+
+Admissions
+
+Placement
+
+Training Centres
+
+Contact Us

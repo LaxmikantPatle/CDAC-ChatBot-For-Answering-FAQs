@@ -1,0 +1,155 @@
+COURSE SOURCE: Linux & Windows Server Administration    - 90 Hrs
+URL: https://cdac.in/index.aspx?id=DAC&courseid=49
+============================================================
+
+e-Brochure
+
+Course Focus
+
+Eligibility Criteria
+
+Course Fees
+
+Course Contents
+
+Course Outcome
+
+Training Centres
+
+FAQs
+
+The threats of cyber-attacks are increasingly apparent to individuals and organizations across the globe. The PGCP-CSF course is beneficial to engineers and cyber security practitioners to develop expertise in defensive cyber security, application security, ethical hacking, cyber forensics etc. It will enable learners to gain knowledge and skills in a series of advanced and current concepts in cyber security and forensics. After completion of this course, students will be equipped with comprehensive understanding of the security controls, network security, traffic analysis, packet analysis, cyber forensics, vulnerability analysis and penetration testing, etc. The entire course syllabus, course-ware, teaching methodology and the course delivery have been derived from the rich research and development background of C-DAC.  The depth and width of the course is unique in the industry covering a wide spectrum of requirements of the cyber security domain.
+
+The threats of cyber-attacks are increasingly apparent to individuals and organizations across the globe. The PGCP-CSF course is beneficial to engineers and cyber security practitioners to develop expertise in defensive cyber security, application security, ethical hacking, cyber forensics etc. It will enable learners to gain knowledge and skills in a series of advanced and current concepts in cyber security and forensics. After completion of this course, students will be equipped with comprehensive understanding of the security controls, network security, traffic analysis, packet analysis, cyber forensics, vulnerability analysis and penetration testing, etc. The entire course syllabus, course-ware, teaching methodology and the course delivery have been derived from the rich research and development background of C-DAC.  The depth and width of the course is unique in the industry covering a wide spectrum of requirements of the cyber security domain.
+
+The educational eligibility Criteria for PGCP-CSF course is
+
+Graduate in Engineering or Technology (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation, OR
+MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics, OR
+Graduate in any discipline of Engineering, OR
+MCA, MCM, OR
+Post Graduate Degree in Physics / Mathematics / Statistics
+The candidates must have secured a minimum of 55% marks in their qualifying examination
+
+The educational eligibility Criteria for PGCP-CSF course is
+
+Graduate in Engineering or Technology (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation, OR
+
+MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics, OR
+
+Graduate in any discipline of Engineering, OR
+
+MCA, MCM, OR
+
+Post Graduate Degree in Physics / Mathematics / Statistics
+
+The candidates must have secured a minimum of 55% marks in their qualifying examination
+
+PGCP-CSF course will be delivered in fully ONLINE or fully PHYSICAL mode. The total course fee and payment details for the fully PHYSICAL or fully ONLINE mode of delivery is as detailed herein below:   PHYSICAL Mode of Delivery:The course fee for the fully PHYSICAL mode of delivery is INR. 99,000/- plus Goods and Service Tax (GST) as applicable by Government of India (GOI).The course fees for PGCP-CSF course has to be paid in two installments as per the schedule.First installment is INR. 15,000/- plus Goods and Service Tax (GST) as applicable by GOI.Second installment is INR. 84,000/- plus Goods and Service Tax (GST) as applicable by GOI.                                                                                                                                                                           ONLINE Mode of Delivery:The course fee of the fully ONLINE mode of delivery is INR. 84,150/- plus Goods and Service Tax (GST) as applicable by GOI.The course fees for PGCP-CSF course has to be paid in two installments as per the schedule.First installment is INR. 15,000/- plus Goods and Service Tax (GST) as applicable by GOI.Second installment is INR. 69,150/- plus Goods and Service Tax (GST) as applicable by GOI.The course fee includes expenses towards delivering classes, conducting examinations, final mark-list and certificate, and placement assistance provided.The first installment course fee of Rs 15,000/- + GST on it as applicable at the time of payment is to be paid online as per the schedule.Payments may be made using any of the available payment modes provided through the payment gateway. The first installment of the course fees is to be paid after seat is allocated during counseling rounds. The second installment of the course fees is to be paid before the course commencement using netbanking, UPI, and credit/debit cards through the payment gateway.
+NOTE: Candidates may take note that no Demand Draft (DD) or cheque or cash will be accepted at any C-DAC training centre towards payment of any installment of course fees.
+
+PGCP-CSF course will be delivered in fully ONLINE or fully PHYSICAL mode. The total course fee and payment details for the fully PHYSICAL or fully ONLINE mode of delivery is as detailed herein below:
+
+PHYSICAL Mode of Delivery:The course fee for the fully PHYSICAL mode of delivery is INR. 99,000/- plus Goods and Service Tax (GST) as applicable by Government of India (GOI).The course fees for PGCP-CSF course has to be paid in two installments as per the schedule.First installment is INR. 15,000/- plus Goods and Service Tax (GST) as applicable by GOI.Second installment is INR. 84,000/- plus Goods and Service Tax (GST) as applicable by GOI.
+
+The course fee for the fully PHYSICAL mode of delivery is INR. 99,000/- plus Goods and Service Tax (GST) as applicable by Government of India (GOI).The course fees for PGCP-CSF course has to be paid in two installments as per the schedule.
+
+First installment is INR. 15,000/- plus Goods and Service Tax (GST) as applicable by GOI.
+
+Second installment is INR. 84,000/- plus Goods and Service Tax (GST) as applicable by GOI.
+
+ONLINE Mode of Delivery:The course fee of the fully ONLINE mode of delivery is INR. 84,150/- plus Goods and Service Tax (GST) as applicable by GOI.The course fees for PGCP-CSF course has to be paid in two installments as per the schedule.First installment is INR. 15,000/- plus Goods and Service Tax (GST) as applicable by GOI.Second installment is INR. 69,150/- plus Goods and Service Tax (GST) as applicable by GOI.
+
+The course fee of the fully ONLINE mode of delivery is INR. 84,150/- plus Goods and Service Tax (GST) as applicable by GOI.The course fees for PGCP-CSF course has to be paid in two installments as per the schedule.
+
+First installment is INR. 15,000/- plus Goods and Service Tax (GST) as applicable by GOI.
+
+Second installment is INR. 69,150/- plus Goods and Service Tax (GST) as applicable by GOI.
+
+The course fee includes expenses towards delivering classes, conducting examinations, final mark-list and certificate, and placement assistance provided.The first installment course fee of Rs 15,000/- + GST on it as applicable at the time of payment is to be paid online as per the schedule.Payments may be made using any of the available payment modes provided through the payment gateway. The first installment of the course fees is to be paid after seat is allocated during counseling rounds.
+
+The second installment of the course fees is to be paid before the course commencement using netbanking, UPI, and credit/debit cards through the payment gateway.
+
+NOTE: Candidates may take note that no Demand Draft (DD) or cheque or cash will be accepted at any C-DAC training centre towards payment of any installment of course fees.
+
+Linux & Windows Server Administration    - 90 Hrs
+
+Network Essentials    - 90 Hrs
+
+Binary/Hexadecimal Number System, Networking Terms, Understanding Cable Infrastructure, Network Operating Systems, Network Infrastructure, Ports, Interfaces and MAC Addresses, Switches, Routers and VLANs, Understanding Packets, TCP/IP Protocol Framework, IP Addresses (IPv4/IPv6), Subnet Masks, CIDR Notation, IP Subnetting, Routing, Networking Tools, DNS, DHCP, ARP, Packet Tracer Installation, Network Address Translation, VLAN, ACLs, NTP, Port SPAN, Wireless Basics, Wireless LANs, Installation of Wireshark, Packet Capturing and Filtering, Dissecting TCP, UDP, IPv4, IPv6 packets in Wireshark, GNS3 Setup, GNS3 Preferences, GNS2 GUI, GNS3 Switching Options, GNS3 Appliance (Cisco/Juniper)
+
+Ethical Hacking    - 150 Hrs
+
+Information Security Overview, Information Security Threats and Attack Vectors, Hacking Concepts, Footprinting Concepts, Footprinting through Search Engines, Footprinting through Web Services, Footprinting through Social Networking Sites, Website Footprinting, Email Footprinting, Footprinting Countermeasures, Network Scanning Concepts, Scanning Techniques, Banner Grabbing, Draw Network Diagrams, Enumeration Concepts, SMTP and DNS Enumeration, Other Enumeration Techniques, Enumeration Countermeasures, Vulnerability Assessment Concepts, Vulnerability Assessment Solutions, System Hacking Concepts, Cracking Passwords, Escalating Privileges, Malware Concepts,  Malware Analysis, Sniffing Concepts, MAC Attacks, DHCP Attacks, Social Engineering Concepts, Social Engineering Techniques, DoS/DDoS Attack Techniques, Session Hijacking Concepts, Application Level Session Hijacking, IDS, Evading Firewalls, Web Server Concepts, Web Server Attacks, Web Server Security Tools, Web App Concepts, Web App Threats, Types of SQL Injection, SQL Injection Methodology, Finding SQL Injections, Wireless Concepts, Wireless Encryption, Wireless Threats, Wireless Hacking Methodology, Mobile Platform Attack Vectors, Hacking Android OS, IoT Concepts, IoT Attacks, IoT Hacking Methodology, Cloud Computing Concepts, Cloud Computing Threats, Cryptography Concepts, Encryption Algorithms, Cryptography Tools
+
+Pentesting and Incident Response    - 120 Hrs
+
+Pre-engagement - Rules of Engagement, PTES, OWASP Testing Guide, Setting Up an OSINT Platform, Sock Puppets, Data Analysis, Leveraging Search Engines, Harvesting Web Data, File Metadata Analysis, Reverse Image Searching, email addresses, usernames, address and phone numbers, people search engines, social media, geo locations, Website Investigations, Analysis of the infrastructure that runs a website, WHOIS, DNS, geolocate IP addresses, Discovering and analyzing Internet-facing hosts, Wireless OSINT, Social Engineering Attacks, Social Engineering Test, Network Penetration Test, Steps In Network Penetration Testing, Introduction to Web Applications, Reconnaissance and Enumeration for Pen Testers, Passive Information Gathering, Active Information Gathering, Anatomy of an XSS Exploitation, The three types of XSS, Finding XSS, XSS Exploitation, Mitigation techniques, Authentication vs. Authorization, Authentication factors, Password reset feature, Logout weaknesses, Session hijacking, Session Fixation, Cross-Site Request Forgeries, Path conversion, Encoding, Best defensive techniques, Local File Inclusion (LFI), Remote File Inclusion (RFI), Unrestricted File Upload, Clickjacking, Web Services Implementations - XML-RPC, JSON-RPC, SOAP, RESTful, The WSDL Language, Attacks, Pen Testing Content Management Systems, Penetration Testing on MYSQL, Wireless Penetration Testing, Incident Handling and Response Process, Methodology, Handling and Responding to Web Application Security Incidents, Handling and Responding to Insider Threats, Information Security Management
+
+Advanced Digital Forensics    - 120 Hrs
+
+Data Storage Fundamentals, Introduction to Cyber Crimes, Cyber Forensics Principles, Digital Evidence Seizure, Forensic Hardware Tools, Windows File System – FAT and NTFS, Linux File System, Mac File System, Cyber Forensics Analysis, Disk Forensics Analysis, Windows Analysis, Linux Analysis, Live Forensics, Memory Forensics, Network Packet Capturing and Monitoring and Analysis, E-mail analysis, Various Log specifications and analysis, WLAN forensics, Mobile Phone imaging, Android forensics, GSM Sim Card Forensics, Call Data Record Analysis, Malwares Classification, Recent trends in malwares, Dynamic/Behaviour based analysis of malware samples, Deobfuscating and analyzing Scripts and Macros, Analyzing Shellcodes, IoT Forensics
+
+Python Programming for Cyber Security    - 120 Hrs
+
+Introduction to Python, Python Installation, Python Fundamentals, Data types, Variables, Literals, Input and Output in Python, Mutable and Immutable types, Operators in Python, Type Casting, if, if-else, if – elif statements, Nested if statement, range() function, in and not in operators, Iteration / looping statements - for loop, while loop, Loop else statement, Jump statements – break and continue, Nested loops, Strings, String operators- concatenation, replication, membership, comparison, String slices, String functions and methods, Lists – Creating Lists, List operations – Joining lists, List replication, Slicing Lists, List functions and methods, Nested Lists, Two Dimensional lists, Tuples- Creating tuples, Tuple functions and methods, Unpacking tuples, Dictionaries- Creating a dictionary, Accessing elements of a dictionary, Traversing a dictionary , keys() and values() functions, Adding, updating and deleting elements of a dictionary, Dictionary functions and methods, User defined functions – Defining functions, Arguments and Parameters, Positional / Required arguments, Default arguments, Keyword (or named) arguments, Returning values from functions, Scope of variables, Mutability / Immutability of Arguments / Parameters and Function calls, Using Python libraries and modules, Importing modules in a program, Using Python Standard library’ s functions and modules, File handling in Python, Opening and closing files, File Access modes, Reading from files- read(), readline(), Writing to a file - write(), writelines(), flush() function, What are Exceptions, Default Exception Handling and Exception hierarchy, Exception handling using try – except, try with multiple except blocks , finally block, else block with try, except, finally, Classes and Objects , self variable, Instance variables and methods, Class variables and Methods, Operator Overloading , Inheritance, scapy library, ipaddress module, dns module, dnslib library, Beautiful Soup library, telnetlib module, win32evtlog module, os module, winreg module, wmi module, shutil module, win32 clipboard module , libratom library, Cryptography using Pycrypto, WinReg, PyPDF, Imaging Library, Dpkt
+
+Secure Programming    - 120 Hrs
+
+Security Operations and Management    - 90 Hrs
+
+Cyber Threats, Introduction to Indicator of Compromise(IoC), Examples of IoC, Difference between Indicator of Compromise(IoC) and Indicators of Attack(IoA), IoC use in improving Detection and Response, Security Operations Centre and Incident Management Systems Overview, The people, process, and technology of a SOC, Aligning the SOC with your organization, SOC functional component overview, Tiered vs. tierless SOCs, Incident Management Systems - SOC data organization tools, Incident management systems options and features, Data flow in incident management systems, Corporate Network Architecture, Understanding DNS, DNS analysis and attacks, Understanding HTTP and HTTPS, Analyzing HTTP for Suspicious Activity, How SMTP and Email Attacks Work, Endpoint Defense, How Windows EVENT Logging Works, How Linux Logging Works, Interpreting Important Events, Log Collection, Parsing, and Normalization, SIEM, SIEM-centric formats, Efficient searching in your SIEM, SIEM visualizations, and dashboards, Use cases and use case databases, Cyber Threat Intelligence, Threat intelligence types and sources, Consuming and producing intelligence, Mental models for threat intelligence, Threat intelligence platforms and integration, Security data collection, Parsing, filtering, categorization, and normalization, Data enrichment, Storage and indexing
+
+Aptitude    - 60 Hrs
+
+Number System, Ratio and Proportion, Partnership, Percentage, Profit and Loss, Simple Interest & Compound Interest, Time, Speed and Distance, Trains, Time and Work, Wages, Pipes and Cisterns, Boats and Stream, Averages, Mixtures and Allegation, Probability, Permutations and Combinations, Series, Blood Relations, Coding- Decoding, Seating Arrangement, Syllogism, Venn Diagram, Data Interpretation & Sufficiency, Problems on Ages, Clock & Calendar, Alphabetical Reasoning, Ranking & Order, Direction, Puzzles, Statements & Assumptions
+
+Effective Communication    - 60 Hrs
+
+Project    - 180 Hrs
+
+After completion of course students will be able to acquire the following skills:Server AdministrationHacking techniques for defensive purpose in line to hackersDisk forensics, Live forensics, social engineering, Malware Forensics, Network forensics, Mobile phone forensicsUsing latest techniques for vulnerability analysis and penetration testingUsing latest techniques for security operations management.Applying skills for effective communicationThis
+ course will prepare the candidate as cyber security professional and 
+can play the role as Cyber Security Analyst, Security Architect, Cyber 
+Security Engineer, Forensic Computer Analyst, IT Systems Analyst, Cyber 
+Forensics consultant, Web Security Tester, Cyber Security Consultant, 
+SOC Analyst, System Administrator, etc.
+
+After completion of course students will be able to acquire the following skills:
+
+Server Administration
+
+Hacking techniques for defensive purpose in line to hackers
+
+Disk forensics, Live forensics, social engineering, Malware Forensics, Network forensics, Mobile phone forensics
+
+Using latest techniques for vulnerability analysis and penetration testing
+
+Using latest techniques for security operations management.
+
+Applying skills for effective communication
+
+This
+ course will prepare the candidate as cyber security professional and 
+can play the role as Cyber Security Analyst, Security Architect, Cyber 
+Security Engineer, Forensic Computer Analyst, IT Systems Analyst, Cyber 
+Forensics consultant, Web Security Tester, Cyber Security Consultant, 
+SOC Analyst, System Administrator, etc.
+
+Hyderabad
+
+Pune
+
+Thiruvananthapuram
+
+ACTS Home
+
+Courses
+
+Admissions
+
+Placement
+
+Training Centres
+
+Contact Us

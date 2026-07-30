@@ -1,0 +1,241 @@
+COURSE SOURCE: Home_Admission_Index
+URL: https://cdac.in/index.aspx?id=DAC&courseid=20
+============================================================
+
+e-Brochure
+
+Course Focus
+
+Eligibility Criteria
+
+Course Fees
+
+Course Contents
+
+Course Outcome
+
+Training Centres
+
+FAQs
+
+PGCP-VLSI is a pioneering course offered by C-DAC to assist engineers who wish to gain theoretical as well as practical knowledge in the field of Very Large Scale Integration (VLSI) design. It will also prepare them to keep pace with the changing trends of VLSI technology and the requirements of an ever-growing VLSI design industry. The entire course syllabus, courseware, teaching methodology and the course delivery have been derived from the rich research and development background of C-DAC, which has a legacy of designing the PARAM range of supercomputers.
+
+PGCP-VLSI is a pioneering course offered by C-DAC to assist engineers who wish to gain theoretical as well as practical knowledge in the field of Very Large Scale Integration (VLSI) design. It will also prepare them to keep pace with the changing trends of VLSI technology and the requirements of an ever-growing VLSI design industry. The entire course syllabus, courseware, teaching methodology and the course delivery have been derived from the rich research and development background of C-DAC, which has a legacy of designing the PARAM range of supercomputers.
+
+The educational eligibility criteria for PGCP-VLSI course is:
+
+Graduate in Engineering or Technology (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation, OR 
+
+
+M.Sc. /M.S. (10+2+3+2 years) in Computer Science, IT, Electronics. 
+
+
+The candidates must have secured a minimum of 55% marks in their qualifying examination.
+
+The educational eligibility criteria for PGCP-VLSI course is:
+
+Graduate in Engineering or Technology (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation, OR
+
+M.Sc. /M.S. (10+2+3+2 years) in Computer Science, IT, Electronics.
+
+The candidates must have secured a minimum of 55% marks in their qualifying examination.
+
+PGCP-VLSI course will be delivered in fully PHYSICAL mode. The total course fee and payment details is as detailed herein below:
+The total course fee is INR. 99,000/- plus Goods and Service Tax (GST) as applicable by Government of India (GOI). 
+The course fees for PGCP-VLSI has to be paid in two installments as per the schedule.
+
+First installment is INR. 15,000/- plus Goods and Service Tax (GST) as applicable by GOI. 
+Second installment is INR. 84,000/- plus Goods and Service Tax (GST) as applicable by GOI. 
+
+The course fee includes expenses towards delivering classes, conducting examinations, final mark-list and certificate, and placement assistance provided. 
+The first installment course fee of Rs 15,000/- + GST on it as applicable at the time of payment is to be paid online as per the schedule. Payments may be made using any of the available payment modes provided through the payment gateway. The first installment of the course fees is to be paid after seat is allocated during counseling rounds. 
+The second installment of the course fees is to be paid before the course commencement using netbanking, UPI, and credit/debit cards through the payment gateway.
+NOTE: Candidates may take note that no Demand Draft (DD) or cheque or cash will be accepted at any C-DAC training centre towards payment of any installment of course fees.
+
+PGCP-VLSI course will be delivered in fully PHYSICAL mode. The total course fee and payment details is as detailed herein below:
+
+The total course fee is INR. 99,000/- plus Goods and Service Tax (GST) as applicable by Government of India (GOI).
+
+The course fees for PGCP-VLSI has to be paid in two installments as per the schedule.
+
+First installment is INR. 15,000/- plus Goods and Service Tax (GST) as applicable by GOI.
+
+Second installment is INR. 84,000/- plus Goods and Service Tax (GST) as applicable by GOI.
+
+The course fee includes expenses towards delivering classes, conducting examinations, final mark-list and certificate, and placement assistance provided.
+
+The first installment course fee of Rs 15,000/- + GST on it as applicable at the time of payment is to be paid online as per the schedule. Payments may be made using any of the available payment modes provided through the payment gateway. The first installment of the course fees is to be paid after seat is allocated during counseling rounds.
+
+The second installment of the course fees is to be paid before the course commencement using netbanking, UPI, and credit/debit cards through the payment gateway.
+
+NOTE: Candidates may take note that no Demand Draft (DD) or cheque or cash will be accepted at any C-DAC training centre towards payment of any installment of course fees.
+
+Advanced Digital Design    - 60 Hrs
+
+Combinatorial Logic Design, Sequential Logic Design: State machines, Counter Design, Advanced Design Issues: metastability, noise margins, power, fan-out, design rules, skew, timing considerations, Frequency divide Hazards. Asynchronous State Machine: Cycle stealing using latch in synchronous circuits, Interfacing Asynchronous data flow, Asynchronous FIFO design, Asynchronous to Synchronous Circuit Interaction, Case study of digital design circuits
+
+System Architecture    - 60 Hrs
+
+Verilog HDL    - 150 Hrs
+
+Module components, Data types, Operators, Modeling concepts ,Gate level Modeling, Data Flow Modeling, Behavioral modeling,  Task and Functions, Compiler Directives, Specify block and Timing checks, Verification and Writing test benches, UDP, VCD, PLI, Introduction of FSMD
+
+HDL Simulation and Synthesis    - 120 Hrs
+
+HDL Flow, The concept of Simulation, Types of simulation, HDL Simulation and Modeling, Simulation Vs Synthesis result, The Synthesis Concept, Synthesis of high level constructs, Timing Analysis of Logic circuits, Clock Skew, Clock Jitter, Combinatorial Logic Synthesis, State machine synthesis, Efficient coding styles, Partitioning for synthesis, Pipelining, Resource sharing, Optimizing arithmetic expressions, The Simulation and Synthesis Tools, FPGA synthesis and implementation
+
+System Verilog    - 120 Hrs
+
+Origins, Overview, Need and Importance, System Verilog Declaration Spaces, Data types, Arrays , structure, union,  Procedural Blocks and Statements, Task and function, Introduction to Verification, Types of verification, Code coverage, Introduction to task & functions in System Verilog, OOPs Terminology, Implementation of OOPs Concepts in System Verilog, Randomization, Case Studies, Assertions property, Assertions Time, Functional Coverage, FSMD methodologies and working principles, Verilog Regions, Case Studies
+
+Verification using UVM    - 120 Hrs
+
+Introduction to Universal Verification Methodology (UVM), Transaction, Test bench & its component, UVM class factory overview, UVM reporting, Device Under Test (DUT) and its connection with environment, Scoreboards, coverage, predictors, monitors, Hierarchy in UVM, Factory Overrides, Interfaces in UVM, Configuration, Introduction of sequences Multiple Sequences configuration, UVM register Model, RM & its use in verification, RM integration, TLM (Transaction Level Modelling)
+
+Programming Fundamentals for Design and Verification, Linux Shell Scripting and Python    - 150 Hrs
+
+CMOS VLSI and Aspects of ASIC Design    - 120 Hrs
+
+Introduction of MOS devices: N-MOS, P-MOS and CMOS, Structure of MOS cells, Threshold Voltage, CMOS Inverter Characteristics, Device sizing, CMOS combinational logic design, Design of Basic gates, transmission gates and Design of complex logic circuit, Latch Up effect, Body Effect, Channel Length Modulation, CMOS as a switch, Noise Margin, Rise and fall times, Power dissipation, Overview of CMOS fabrication steps, Sequential CMOS logic.  Introduction to Fin-FET technology. Introduction of Application Specific Integrated Circuit (ASIC) Design Flow: An overview of Backend VLSI Design Flow – Libraries, Floor planning, Placement, Routing, Verification, Testing. Specifications and Schematic cell Design, Spice simulation, circuit elements, AC and DC analysis, Transfer Characteristics, Transient responses, Noise analysis of current and voltage, Design Rule, Micron Rules, Lambda rules of the design and design rule check, Fabrication methods of circuit elements, Layout design of different cells, Circuit Extraction, Electrical rule check, Layout Vs. Schematic (LVS), Post-layout Simulation and Parasitic extraction, Different design Issues like Antenna effect, Electro migration effect, Body effect, Inductive and capacitive cross talk and Drain punch through, etc., Design format, Timing analysis, Back notation and Post layout simulation, DFT Guideline, Test Pattern and Built-in Self Test (BIST), ASIC design implementation.
+
+Aptitude    - 60 Hrs
+
+Number System, Ratio and Proportion, Partnership, Percentage, Profit and Loss, Simple Interest & Compound Interest, Time, Speed and Distance, Trains, Time and Work, Wages, Pipes and Cisterns, Boats and Stream, Averages, Mixtures and Allegation, Probability, Permutations and Combinations, Series, Blood Relations, Coding- Decoding, Seating Arrangement, Syllogism, Venn Diagram, Data Interpretation & Sufficiency, Problems on Ages, Clock & Calendar, Alphabetical Reasoning, Ranking & Order, Direction, Puzzles, Statements & Assumptions
+
+Effective Communication    - 60 Hrs
+
+Project    - 180 Hrs
+
+After completion of course students will be able to develop Field-Programmable Gate Array (FPGA) implementations, Application-Specific Integrated Circuit (ASIC) designs, CMOS design and SoCs in VLSI industry as VLSI designer/ chip designer. Students will also be able to develop a programmable chip using verilog and system verilog languages.
+
+After completion of course students will be able to develop Field-Programmable Gate Array (FPGA) implementations, Application-Specific Integrated Circuit (ASIC) designs, CMOS design and SoCs in VLSI industry as VLSI designer/ chip designer. Students will also be able to develop a programmable chip using verilog and system verilog languages.
+
+Hyderabad
+
+Noida
+
+Pune
+
+Q. Why is nomenclature of Post Graduate Diploma in VLSI Design changed to Post Graduate Certificate Programme in VLSI Design?
+C-DAC’s Post Graduate Diploma in VLSI Design (PG-DVLSI Design)
+Course nomenclature is enhanced as Post Graduate Certificate Programme in
+Advanced Computing (PGCP-VLSI Design) to bring PG-DVLSI Design course in line with NCVET
+standards and guidelines. C-DAC’s 900-hour PG-Diploma in Post Graduate Diploma in VLSI Design is
+being upgraded to 1200-hour (24-week), 40-credits. NSQF alignment and NCVET
+approval are under process.Q.    What is the Eligibility for PG Certificate Programme in VLSI Design?  
+A.    The eligibility criteria for PGCP-VLSI design is candidate holding any one of   the following degrees 
+
+Graduate in Engineering (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation. OR 
+M.Sc /    M.S (10+2+3+2 years) in Computer Science, IT, Electronics. 
+The candidates must have secured a minimum of 55% marks in their qualifying examination. 
+
+For
+any specific engineering or postgraduate courses that are not mentioned above,
+candidates may check their course eligibility by emailing their certificates
+and mark-sheets to actssupport@cdac.in before
+the last date of C-CAT application.
+Q.    What is the selection criterion?  
+A.  The selection process consists of a C-DAC Common Admission Test (C-CAT).
+ 
+Q.    What is Fee of course? 
+A.   The fees for the PGCP-VLSI course is Rs. 99,000/- (Rupees Ninety Nine Thousand  only) plus GST as applicable by GOI.
+ 
+Q.    When the course does commence?  
+A.   Twice in a year, in the month of August and February. Admission Process   will start in  month of May and November respectively every year.
+ 
+Q.    Duration of the course?  
+A. 24 weeks approximately full-time course of total 1200 hours of Theory + Practical + project work (with 300 hours of self study) for 40 Credits.
+ 
+Q.   Infrastructure Facilities available?  
+A.   Fully equipped classrooms capacity to accommodate students and state-of-art labs to explore you computing skills
+ 
+Q.    Hostel & Canteen facility available?  A.   Accommodation for out station candidates is facilitated by some of centers.   Please refer Admission Booklet. 
+ 
+Q. What is the medium of instruction for PG Certificate Programme?                                        
+A. The medium of instruction for the PG Certificate Progamme is English.
+ 
+Q.    Revision of the course contents, is it every six months?  
+A.   The course contents are revised according to the real world needs and when   found relevant to the market demands.
+ 
+Q.   Do you have centralized placement cell?  
+A. Yes, we do have a Centralized national level Common Campus Placement Programme (CCPP) spread across five regions where the respective centers actively coordinate the task of organizing the campus interviews for all the students.
+ 
+Q.    What is the value of the course in the international market?  
+A.   The course has been a trend-setting course due to its unique curriculum and   the opportunities that it generates; hence it gives the edge over above for the   students and gives an international edge.
+
+Q. Why is nomenclature of Post Graduate Diploma in VLSI Design changed to Post Graduate Certificate Programme in VLSI Design?
+
+C-DAC’s Post Graduate Diploma in VLSI Design (PG-DVLSI Design)
+Course nomenclature is enhanced as Post Graduate Certificate Programme in
+Advanced Computing (PGCP-VLSI Design) to bring PG-DVLSI Design course in line with NCVET
+standards and guidelines. C-DAC’s 900-hour PG-Diploma in Post Graduate Diploma in VLSI Design is
+being upgraded to 1200-hour (24-week), 40-credits. NSQF alignment and NCVET
+approval are under process.
+
+Q.    What is the Eligibility for PG Certificate Programme in VLSI Design?
+
+A.    The eligibility criteria for PGCP-VLSI design is candidate holding any one of   the following degrees
+
+Graduate in Engineering (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation. OR
+
+M.Sc /    M.S (10+2+3+2 years) in Computer Science, IT, Electronics.
+
+The candidates must have secured a minimum of 55% marks in their qualifying examination.
+
+For
+any specific engineering or postgraduate courses that are not mentioned above,
+candidates may check their course eligibility by emailing their certificates
+and mark-sheets to actssupport@cdac.in before
+the last date of C-CAT application.
+
+Q.    What is the selection criterion?
+
+A.  The selection process consists of a C-DAC Common Admission Test (C-CAT).
+
+Q.    What is Fee of course?
+
+A.   The fees for the PGCP-VLSI course is Rs. 99,000/- (Rupees Ninety Nine Thousand  only) plus GST as applicable by GOI.
+
+Q.    When the course does commence?
+
+A.   Twice in a year, in the month of August and February. Admission Process   will start in  month of May and November respectively every year.
+
+Q.    Duration of the course?
+
+A. 24 weeks approximately full-time course of total 1200 hours of Theory + Practical + project work (with 300 hours of self study) for 40 Credits.
+
+Q.   Infrastructure Facilities available?
+
+A.   Fully equipped classrooms capacity to accommodate students and state-of-art labs to explore you computing skills
+
+Q.    Hostel & Canteen facility available?
+
+A.   Accommodation for out station candidates is facilitated by some of centers.   Please refer Admission Booklet.
+
+Q. What is the medium of instruction for PG Certificate Programme?
+
+A. The medium of instruction for the PG Certificate Progamme is English.
+
+Q.    Revision of the course contents, is it every six months?
+
+A.   The course contents are revised according to the real world needs and when   found relevant to the market demands.
+
+Q.   Do you have centralized placement cell?
+
+A. Yes, we do have a Centralized national level Common Campus Placement Programme (CCPP) spread across five regions where the respective centers actively coordinate the task of organizing the campus interviews for all the students.
+
+Q.    What is the value of the course in the international market?
+
+A.   The course has been a trend-setting course due to its unique curriculum and   the opportunities that it generates; hence it gives the edge over above for the   students and gives an international edge.
+
+ACTS Home
+
+Courses
+
+Admissions
+
+Placement
+
+Training Centres
+
+Contact Us

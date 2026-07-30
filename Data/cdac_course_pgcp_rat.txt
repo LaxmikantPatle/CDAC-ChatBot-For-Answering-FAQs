@@ -1,0 +1,252 @@
+COURSE SOURCE: Home_Admission_Index
+URL: https://cdac.in/index.aspx?id=DAC&courseid=31
+============================================================
+
+e-Brochure
+
+Course Focus
+
+Eligibility Criteria
+
+Course Fees
+
+Course Contents
+
+Course Outcome
+
+Training Centres
+
+FAQ
+
+Robotics is one of the growing inter-disciplinary fields of study that involves an understanding of varied domains. Becoming a true roboticist involves the sound knowledge of domains widely ranging from computer science, mechanical engineering, electronics, communications, design, ethical measures and several others. PGCP-RAT addresses all these needs so as to equip the students with the necessary tools and techniques to be able to develop efficient, robust and industry standard robots, through state-of-the-art robotic algorithms, hands-on programming, systems development techniques, machine learning, kinematics, dynamics, workspace analysis, mission motion planning etc.
+
+Robotics is one of the growing inter-disciplinary fields of study that involves an understanding of varied domains. Becoming a true roboticist involves the sound knowledge of domains widely ranging from computer science, mechanical engineering, electronics, communications, design, ethical measures and several others. PGCP-RAT addresses all these needs so as to equip the students with the necessary tools and techniques to be able to develop efficient, robust and industry standard robots, through state-of-the-art robotic algorithms, hands-on programming, systems development techniques, machine learning, kinematics, dynamics, workspace analysis, mission motion planning etc.
+
+Eligibility criteriaGraduate in Engineering or Technology (10+2+4 or 10+3+3 
+years) in IT / Computer Science / Electronics / Telecommunications / 
+Electrical / Instrumentation. ORMSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics with Mathematics in 10+2. ORGraduate in Mechatronics / Mechanical EngineeringThe candidates must have 55% marks in qualifying degree exam.
+
+Graduate in Engineering or Technology (10+2+4 or 10+3+3 
+years) in IT / Computer Science / Electronics / Telecommunications / 
+Electrical / Instrumentation. OR
+
+MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics with Mathematics in 10+2. OR
+
+Graduate in Mechatronics / Mechanical Engineering
+
+The candidates must have 55% marks in qualifying degree exam.
+
+PGCP-RAT course will be delivered in fully PHYSICAL mode. The total course fee and payment details are as detailed herein below:
+The total course fee is INR. 99,000/- plus Goods and Service Tax (GST) as applicable by Government of India (GOI). 
+The course fee for PGCP-RAT has to be paid in two installments as per the schedule.
+
+First installment is INR. 15,000/- plus Goods and Service Tax (GST) as applicable by GOI. 
+Second installment is INR. 84,000/- plus Goods and Service Tax (GST) as applicable by GOI. 
+
+The course fee includes expenses towards delivering classes, conducting examinations, final mark-list and certificate, and placement assistance provided. 
+The first installment course fee of Rs 15,000/- + GST on it as applicable at the time of payment is to be paid online as per the schedule. Payments may be made using any of the available payment modes provided through the payment gateway. The first installment of the course fees is to be paid after seat is allocated during counseling rounds. 
+The second installment of the course fees is to be paid before the course commencement using netbanking, UPI, and credit/debit cards through the payment gateway.
+NOTE: Candidates may take note that no Demand Draft (DD) or cheque or cash will be accepted at any C-DAC training centre towards payment of any installment of course fees.
+
+PGCP-RAT course will be delivered in fully PHYSICAL mode. The total course fee and payment details are as detailed herein below:
+
+The total course fee is INR. 99,000/- plus Goods and Service Tax (GST) as applicable by Government of India (GOI).
+
+The course fee for PGCP-RAT has to be paid in two installments as per the schedule.
+
+First installment is INR. 15,000/- plus Goods and Service Tax (GST) as applicable by GOI.
+
+Second installment is INR. 84,000/- plus Goods and Service Tax (GST) as applicable by GOI.
+
+The course fee includes expenses towards delivering classes, conducting examinations, final mark-list and certificate, and placement assistance provided.
+
+The first installment course fee of Rs 15,000/- + GST on it as applicable at the time of payment is to be paid online as per the schedule. Payments may be made using any of the available payment modes provided through the payment gateway. The first installment of the course fees is to be paid after seat is allocated during counseling rounds.
+
+The second installment of the course fees is to be paid before the course commencement using netbanking, UPI, and credit/debit cards through the payment gateway.
+
+NOTE: Candidates may take note that no Demand Draft (DD) or cheque or cash will be accepted at any C-DAC training centre towards payment of any installment of course fees.
+
+Mechanical Design    - 120 Hrs
+
+Introduction-Definition of Robots and Robotics, Various Components of
+ Robotic System, Connectivity / Degrees of Freedom of a Joint, 
+Representation of the Joints, Degrees of Freedom of a System, 
+Classification of Robots, Resolution, Accuracy and Repeatability, , 
+Robot End-Effectors, Classification of Grippers, Application of Robotics
+ and various case studies. Electro-Hydraulic Robotic Systems – 
+Engineering to Experimental Planning for Control, Robotic Mules as 
+Logistic Workhorses.
+
+Robot Kinematics (Forward and Inverse 
+Kinematics)-Representation of an Object in 3-D Space, homogeneous 
+transformation matrix, Representations of Position in Other Than 
+Cartesian Coordinate System, Representation of Transformation, Position 
+Analysis-DH Parameter, DH parameter rules, Forward Kinematics of two 
+Link Planar Robot, Jacobian of two Link Planar Robot, Forward and 
+Inverse Kinematics for 6 DOF Manipulator, Lab activities using various 
+Simulation Software.
+
+Mechanical CAD design- Designing of various robotic mechanical part using CAD software.
+
+Electrical Design    - 120 Hrs
+
+Design concepts- Transistor, MOSFET (n-channel and p-channel), SCR, 
+Operational Amplifier, filter circuits, AC-DC Conversions, DC-DC 
+conversions- Linear Power Supply basics, Switched Mode Power Supply 
+basics, Buck, Boost and Buck Boost Configurations, Design of Battery 
+charger, Battery Management System, various experiments using simulation
+ software.
+
+Robot drive systems: Electrical Drives – D.C. Servo 
+Motors and Drivers, BLDC Motor and Drivers, Stepper Motor and Drivers 
+Applications and Comparison of all these Drives.
+
+Programming Concepts    - 150 Hrs
+
+C Programming – data types, operator precedence and associativity, 
+type casting, control statements, loops, library function, pointer, 
+structure, array, preprocessor, union, memory organization, file 
+handling
+
+Python Programming- Introduction to Python and Basics , 
+Flow Control, Strings, Tuples, Dictionaries, Lists, Functions, File 
+Handling, OOPs in Python, Regular Expressions, Exception Handling, GUI 
+Programming – Tkinter, Database operations with Python, Python 
+Libraries, Plugins, Client-Server Arch, Debugging
+
+Electronics Design: Sensor and Actuator Interface    - 90 Hrs
+
+Elements of the Input box: environment sensors and human input 
+Device, Switches and push-buttons, keypad, joystick, pointing devices, 
+environment sensors for temperature, light, humidity. Need for analog 
+processing and filtering of sensor outputs, Elements of the Output box: 
+Actuators and human interface elements. LEDs (with multiplexing), LCD, 
+temperature (heating/cooling. Micro-controller based Design Fundamentals
+ - Reset Circuitry, Clocking options with dynamic clock scaling, RTC 
+Interfacing, Watchdog and brownout. Peripheral interfacing -ADC, UART 
+(RS232, RS422, RS485), SPI, I2C, CAN. Timer and counter modes. PWM, 
+Sensor Interfacing with various development board.
+
+Design Tools- 
+Introduction, Part Selection, Schematic Entry, Component Packages and 
+Library Creation, Board Design and Layout. PCB Concept- Design Rules, 
+Vias, Tracks, Pads, Manual and Auto Routing, Gerber File Generation.
+
+Robot Operation System (ROS)    - 180 Hrs
+
+Introduction to Linux: Installing Linux, File 
+systems, Linux Commands, some important environmental variables, file 
+permissions.
+
+Getting started with ROS: ROS installation, getting 
+started with ROS, creating workspace, ROS packages, nodes, topics and 
+messages, Turtlesim simulation, controlling Turtlesim, URDF, xacro, 
+creating ROS robot (manipulator/mobile robot), Gazebo installation, 
+launching and introduction, spawning robot in virtual environment 
+(RViz), launching multiple nodes using ROS launch, understanding tf2 
+library, ros2_control, linking RViz and Gazebo simulation, controlling 
+robot using ROS nodes with ros2_control, ROS services and actions, 
+custom ROS interfaces (messages, services and actions), introducing 
+TurtleBot 3, moving robot model around with TurtleBot 3, navigating the 
+world with TurtleBot 3.
+
+Mission and Motion Planning    - 90 Hrs
+
+Discrete Planning- Introduction and example Forward Search Method Dijkstra's algorithm Bidirectional Search.
+
+Obstacle Avoidance-Bug algorithm, Tangent bug Visibility Graph, Cell Decomposition.
+
+Sensor
+ for Mobile Robots-Sensors, Gyroscope, GPS, Ultrasonic and Optical 
+Position Location, Lab Work etc. Lab experiments with various 
+development boards.
+
+AI/ML Based robotic vision    - 150 Hrs
+
+Introduction Digital Image Processing, Camera basic, Design of 
+Illumination system, Image formation, Image sensors, Image Sampling and 
+quantization, Image type, Image format and pixel relationship, Image 
+Enhancement techniques, Colour models (advantages and disadvantages), 
+Image Segmentation, Image Morphology, Texture Analysis, Image Processing
+ - Hands-on Using Standard Tools.
+
+Aptitude    - 60 Hrs
+
+Number System, Ratio and Proportion, 
+Partnership, Percentage, Profit and Loss, Simple Interest & Compound
+ Interest, Time, Speed and Distance, Trains, Time and Work, Wages, Pipes
+ and Cisterns, Boats and Stream, Averages, Mixtures and Allegation, 
+Probability, Permutations and Combinations, Series, Blood Relations, 
+Coding- Decoding, Seating Arrangement, Syllogism, Venn Diagram, Data 
+Interpretation & Sufficiency, Problems on Ages, Clock & 
+Calendar, Alphabetical Reasoning, Ranking & Order, Direction, 
+Puzzles, Statements & Assumption
+
+Effective Communication    - 60 Hrs
+
+Project     - 180 Hrs
+
+Course is focused to develop the students work in the areas of Robotics and allied areas of technology from the industry perspective. The automation industry needs the skilled manpower who can design the robotic arms and tools where the manpower cannot work. The automobile industry is highly automated and robotics play an important role in these sectors and similar other manufacturing sectors.Post Graduate Certificate Programme in Robotics and allied Technologies (PGCP-RAT) is one of the growing inter-disciplinary fields of study that involves an understanding of varied domains.  Our course addresses all these need so as to equip the students with the necessary tools and techniques to be able to develop efficient, robust and industry standard robots, through The exploration of the fundamental concepts of Robotics with in-depth knowledge and understanding of the sensors, actuators, control, kinematics, dynamics etc.Understanding of the various control methods and visualization techniques and to use various techniques involved in Robotic Operating SystemAnalyzing and solving problems conceptually and practically from diverse industries, such as government manufacturing, retail, education, banking/ finance, healthcare, agriculture and pharmaceutical To undertake consulting and industrial projects with significant model development for better understanding of the theoretical concepts from state-of-the-art robotic algorithms, hands-on programming, systems development techniques, machine learning, mission motion planning etc. and building future solutions to make an impact in the technological advancement
+
+Post Graduate Certificate Programme in Robotics and allied Technologies (PGCP-RAT) is one of the growing inter-disciplinary fields of study that involves an understanding of varied domains.  Our course addresses all these need so as to equip the students with the necessary tools and techniques to be able to develop efficient, robust and industry standard robots, through
+
+The exploration of the fundamental concepts of Robotics with in-depth knowledge and understanding of the sensors, actuators, control, kinematics, dynamics etc.
+
+Understanding of the various control methods and visualization techniques and to use various techniques involved in Robotic Operating System
+
+Analyzing and solving problems conceptually and practically from diverse industries, such as government manufacturing, retail, education, banking/ finance, healthcare, agriculture and pharmaceutical
+
+To undertake consulting and industrial projects with significant model development for better understanding of the theoretical concepts from state-of-the-art robotic algorithms, hands-on programming, systems development techniques, machine learning, mission motion planning etc. and building future solutions to make an impact in the technological advancement
+
+Kolkata
+
+Q. Why is nomenclature of Post Graduate Diploma in Robotics and Allied Technologies changed to Post Graduate Certificate Programme in Robotics and Allied Technologies?
+A. C-DAC’s Post Graduate Diploma in Robotics and Allied Technologies (PG-DRAT)
+Course nomenclature is enhanced as Post Graduate Certificate Programme in
+Advanced Computing (PGCP-RAT) to bring PG-DRAT course in line with NCVET
+standards and guidelines. C-DAC’s 900-hour Post Graduate Diploma in Robotics and Allied Technologies is
+being upgraded to 1200-hour (24-week), 40-credits. NSQF alignment and NCVET
+approval are under process.Q. What is the eligibility of the PGCP-RAT course?
+ 
+A. Graduate in Engineering or Technology (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation.
+OR
+MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics 
+ 
+OR
+Graduate in Mechatronics / Mechanical Engineering
+ 
+The candidate must have 55% in qualifying degree.For
+any specific engineering or postgraduate courses that are not mentioned above,
+candidates may check their course eligibility by emailing their certificates
+and mark-sheets to actssupport@cdac.in before
+the last date of C-CAT application.
+ 
+Q. What is the course fees of PGCP-RAT? 
+A. The course fees for PGCP-RAT is INR 99,000/- plus GST as applicable.
+ 
+
+Q. What is the medium of instruction for PG Certificate Programme?
+A. The medium of instruction for the PG Certificate Programme is English.
+
+Q. Why is nomenclature of Post Graduate Diploma in Robotics and Allied Technologies changed to Post Graduate Certificate Programme in Robotics and Allied Technologies?
+
+A. C-DAC’s Post Graduate Diploma in Robotics and Allied Technologies (PG-DRAT)
+Course nomenclature is enhanced as Post Graduate Certificate Programme in
+Advanced Computing (PGCP-RAT) to bring PG-DRAT course in line with NCVET
+standards and guidelines. C-DAC’s 900-hour Post Graduate Diploma in Robotics and Allied Technologies is
+being upgraded to 1200-hour (24-week), 40-credits. NSQF alignment and NCVET
+approval are under process.
+
+OR
+
+ACTS Home
+
+Courses
+
+Admissions
+
+Placement
+
+Training Centres
+
+Contact Us

@@ -1,0 +1,348 @@
+COURSE SOURCE: Home_Admission_Index
+URL: https://cdac.in/index.aspx?id=DAC&courseid=40
+============================================================
+
+e-Brochure
+
+Course Focus
+
+Eligibility Criteria
+
+Course Fees
+
+Course Contents
+
+Course Outcome
+
+Training Centres
+
+FAQs
+
+PG Certificate Programme in Advanced Secure Software Development (PGCP-ASSD) course 
+emerges from the growing demand for skilled Cyber Security 
+professionals. With the increasing complexity of cyber threats and the 
+rise in digital footprints, there is a need for experts who can 
+safeguard, develop & deploy secure systems and networks. This course
+ covers a wide array of topics, from foundational programming in C/C++ 
+and data structures to advanced areas like secure web development, 
+cryptography, system programming, and AI-driven security techniques. By 
+equipping learners with hands-on skills in secure coding, cryptographic 
+techniques, and penetration testing, the program aims to develop 
+professionals ready to tackle real-world cybersecurity challenges.The main objectives of the PGCP-ASSD course is :To
+ equip learners with a strong foundation in programming languages, 
+system programming, cryptography, network security, and software 
+engineering principles.To provide in-depth knowledge of secure application development methodologies and techniques.To introduce learners to the application of artificial intelligence in cyber security.To
+ prepare learners for careers in cyber security, Vulnerability 
+Assessment, penetration testing, and secure software development 
+including DevSecOps.
+
+PG Certificate Programme in Advanced Secure Software Development (PGCP-ASSD) course 
+emerges from the growing demand for skilled Cyber Security 
+professionals. With the increasing complexity of cyber threats and the 
+rise in digital footprints, there is a need for experts who can 
+safeguard, develop & deploy secure systems and networks. This course
+ covers a wide array of topics, from foundational programming in C/C++ 
+and data structures to advanced areas like secure web development, 
+cryptography, system programming, and AI-driven security techniques. By 
+equipping learners with hands-on skills in secure coding, cryptographic 
+techniques, and penetration testing, the program aims to develop 
+professionals ready to tackle real-world cybersecurity challenges.
+
+The main objectives of the PGCP-ASSD course is :
+
+To
+ equip learners with a strong foundation in programming languages, 
+system programming, cryptography, network security, and software 
+engineering principles.
+
+To provide in-depth knowledge of secure application development methodologies and techniques.
+
+To introduce learners to the application of artificial intelligence in cyber security.
+
+To
+ prepare learners for careers in cyber security, Vulnerability 
+Assessment, penetration testing, and secure software development 
+including DevSecOps.
+
+The educational eligibility criteria for PGCP-ASSD course is 
+
+Graduate in Engineering or Technology (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation, OR 
+MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics, OR
+MCA 
+The candidate must have minimum 55% marks in the qualifying degree
+
+The educational eligibility criteria for PGCP-ASSD course is
+
+Graduate in Engineering or Technology (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation, OR
+
+MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics, OR
+
+MCA
+
+The candidate must have minimum 55% marks in the qualifying degree
+
+PGCP-ASSD course will be delivered in fully PHYSICAL mode. The total course fee and payment details are as detailed herein below:
+The total course fee is INR. 99,000/- plus Goods and Service Tax (GST) as applicable by Government of India (GOI). 
+The course fee for PGCP-ASSD has to be paid in two installments as per the schedule.
+
+First installment is INR. 15,000/- plus Goods and Service Tax (GST) as applicable by GOI. 
+Second installment is INR. 84,000/- plus Goods and Service Tax (GST) as applicable by GOI. 
+
+The course fee includes expenses towards delivering classes, conducting examinations, final mark-list and certificate, and placement assistance provided. 
+The first installment course fee of Rs 15,000/- + GST on it as applicable at the time of payment is to be paid online as per the schedule. Payments may be made using any of the available payment modes provided through the payment gateway.The first installment of the course fees is to be paid after seat is allocated during counseling rounds. 
+The second installment of the course fees is to be paid before the course commencement using netbanking, UPI, and credit/debit cards through the payment gateway.
+NOTE: Candidates may take note that no Demand Draft (DD) or cheque or cash will be accepted at any C-DAC training centre towards payment of any installment of course fees.
+
+PGCP-ASSD course will be delivered in fully PHYSICAL mode. The total course fee and payment details are as detailed herein below:
+
+The total course fee is INR. 99,000/- plus Goods and Service Tax (GST) as applicable by Government of India (GOI).
+
+The course fee for PGCP-ASSD has to be paid in two installments as per the schedule.
+
+First installment is INR. 15,000/- plus Goods and Service Tax (GST) as applicable by GOI.
+
+Second installment is INR. 84,000/- plus Goods and Service Tax (GST) as applicable by GOI.
+
+The course fee includes expenses towards delivering classes, conducting examinations, final mark-list and certificate, and placement assistance provided.
+
+The first installment course fee of Rs 15,000/- + GST on it as applicable at the time of payment is to be paid online as per the schedule. Payments may be made using any of the available payment modes provided through the payment gateway.The first installment of the course fees is to be paid after seat is allocated during counseling rounds.
+
+The second installment of the course fees is to be paid before the course commencement using netbanking, UPI, and credit/debit cards through the payment gateway.
+
+NOTE: Candidates may take note that no Demand Draft (DD) or cheque or cash will be accepted at any C-DAC training centre towards payment of any installment of course fees.
+
+C and Data Structures     - 150 Hrs
+
+Introduction to GNU Toolchain, Makefiles, Linux Environment & VI editor
+
+Tokens of C - Keywords, Data-Types, Variables, Constants, Operators, Identifiers
+
+Storage Class Specifiers, Control Flow Statements
+
+Arrays, Strings, Loops, Functions
+
+Pointers - Intro, Pointer Arithmetic, Pointers and Arrays, functions, Pointers with strings, Dynamic memory allocation
+
+Structures, Unions, Enum, Type, Bit field operators and pointers with structures
+
+Preprocessors, C and Assembly, Files, I/O, Variable Number of arguments, Command Line arguments, Error Handling
+
+Importance and Types of Data Structures
+
+Complexity of Algorithms
+
+Linked Lists, Stacks, Queues
+
+Sorting Algorithms - Bubble, selection, insertion, quick, merge and heap sort
+
+Searching algorithms - Linear and Binary Search, Hashing - open addressing, separate chaining
+
+Trees - Binary trees, Binary search trees, AVL trees
+
+Graphs - terminology, breadth-first and depth-first traversals, spanning trees, minimum spanning tree algorithms, shortest path algorithms
+
+Applications of Data Structures
+
+Object Oriented Programming using C++    - 90 Hrs
+
+Understanding Object Oriented Programming
+
+Need and Key Principles (Abstraction, Encapsulation, Inheritance, Polymorphism)
+
+Classes, Constructors, Destructors
+
+Friend functions, Static data members & member functions
+
+Operator and Function Overloading, Inheritance
+
+C++ Files and I/O Support
+
+Virtual Functions and Polymorphism
+
+Templates, Exception Handling
+
+RTTI and STL
+
+Secure coding practices in C++
+
+Linux System Programming     - 120 Hrs
+
+Linux Shell Scripting
+
+OS Organization, Architecture, Structure and Operations
+
+System Programming and System Call Handling
+
+GNU toolchain - Static and Shared Libraries
+
+Processes, Threads, POSIX Threads Programming
+
+Concurrency, Process Synchronization and IPC mechanisms - Pipes, Named Pipes, FIFOs, Message Queues, Mutexes, Semaphores, Shared Memory
+
+CPU Scheduling, Deadlocks, Memory Management
+
+Access Control Mechanisms - Discretionary Access Control & Mandatory Access Control
+
+Socket Programming - TCP sockets and TCP Client-Server, I/O Multiplexing, UDP Sockets, Non-Blocking IO & IOCTL and Introduction to PCAP
+
+Case study on the Security Architecture of Android OS
+
+Cryptography & Network Security     - 90 Hrs
+
+Foundations of Networking Concepts (TCP/IP Stack)
+
+Introduction to Security Engineering & Network Security
+
+Security Services: Authentication, Access Control, Data Confidentiality. Data Integrity, Non-Repudiation, and Availability.
+
+Security Attacks - Active & Passive, Denial of Service (DoS) Attacks & Distributed Denial of Service Attacks (DDoS)
+
+Introduction to Vulnerability, Threat, Attack, Bug, Exploit
+
+Classical Encryption - Cryptography, Cryptanalysis & Brute Force Attacks.
+
+Substitution & Transposition Techniques
+
+Cryptographically strong random numbers/APIs
+
+Symmetric and Asymmetric Key Cryptography, Man-in-the-Middle Attack, Stream Ciphers & Block Ciphers, RSA, AES
+
+Hash Functions. Message Authentication Code (MAC), Hashed Message Authentication Code (HMAC)
+
+X.509, Digital Certificates and Signatures, Public Key Infrastructure (PKI)
+
+Security Protocols - Secure Sockets Layer (SSL) & Transport Layer Security (TLS), DNS Security (DNSSEC), VPN – IPSec
+
+Firewalls: Characteristics, Types, Bastion Host & Firewall Locations & Configurations.
+
+Introduction to Modern Security Software and Techniques:
+
+XDR/EDR (Extended/Endpoint Detection and Response),
+
+HDR (Human Detection and Response),
+
+Managed security services,
+
+Threat Intelligence & Threat Hunting
+
+SIEM, SOAR & SOC
+
+Introduction to Quantum Cryptography
+
+Secure Web Application Development    - 150 Hrs
+
+Architecture of Web
+
+HTML, CSS & JavaScript
+
+Web application frameworks, micro-service architecture
+
+Front-end development:  components and Interactivity, Routing, Session handling, Managing application state.
+
+Back-end development: Authentication and Authorization, session management, logging, monitoring, caching and message queue
+
+Database management systems (DBMS): Types, components, and functions, Database models, NoSQL Databases - Document database: structure, CRUD operations, querying
+
+Web Application Security
+
+API security, Secure configuration, Web Application Firewall
+
+OWASP top 10 vulnerabilities & mitigation techniques
+
+Best practices for developing applications using MERN stack
+
+Secure Software Engineering    - 150 Hrs
+
+Secure Software Engineering and SDLC Phases
+
+Security Requirements: Abuse Cases/misuse cases, Data Classification, Security & Privacy Requirements, Risk Assessment
+
+Secure Design Principles: Security-by-design, Design & Architectural principles, Design patterns and tools, Threat Analysis and Attack Surface Evaluation, Threat Model - Methodologies (STRIDE, PASTA, OCTAVE, MITRE Attack Framework, OWASP Threat Dragon), Design review and Security Traceability Matrix, McGraw’s Touchpoints, Microsoft SDL, OpenSAMM
+
+Secure Coding, Understanding C / C++ programming language-specific vulnerabilities & Secure Coding Practices, CERT, MISRA C and C++ standards
+
+Software Security Analysis: Terms: Vulnerability, CVE, CWE, CVSS, Concepts: Call Graph, Control Flow Graph & Basic Blocks, Static Disassembly – Linear & Recursive, Dynamic disassembly with GDB and live debugging of binaries, ELF & PE Formats, Defence Mechanisms - Stack Canaries, Data Execution Prevention & Address Space Layout Randomization, Stack-based buffer overflow, Heap-based buffer overflows, Return to Libc, Introduction to Return-Oriented Programming
+
+Security Testing: Overview of Security Testing, SAST and DAST, Blackbox, Whitebox & Greybox testing, VAPT Methodology, Manual Vs Automated Processes, Vulnerability Assessment  and Types, Key Steps of Vulnerability Assessment, Vulnerability Assessment Tools, Penetration Testing and Types, Phases of Penetration testing, Tools and Techniques, Code Reviews & Static Source Code Analysis
+
+Secure Operations and Maintenance: Introduction to Virtualization Technologies, DevOps, DevSecOps, Version control: Git, Continuous integration and continuous delivery: GitLab CI/CD, Configuration management: Ansible, Containerization: Docker, Monitoring and logging: Prometheus, Grafana / ELK stack, Shift-left security
+
+Security Standards & Frameworks
+
+NIST Secure Software Development Framework (SSDF)
+
+AI for Cyber Security    - 150 Hrs
+
+Introduction to AI
+
+Core Machine Learning Concepts and Algorithms
+
+Traditional Security vs AI cyber Security
+
+Cyber Security Use cases for AI
+
+Understanding Machine Learning Algorithms and their applications in security
+
+Intrusion detection systems
+
+Malware detection
+
+Anomaly detection
+
+Performance Metrics
+
+Ethical and legal considerations in AI for cybersecurity
+
+Machine Learning Adversarial Attacks
+
+GenAI for Cyber Security aspects
+
+Aptitude    - 60 Hrs
+
+Effective Communication    - 60 Hrs
+
+Project     - 180 Hrs
+
+After completing this course, students will be well-prepared to meet 
+the industry requirements in the area of Cyber Security. They will be 
+able to tackle complex cybersecurity challenges and contribute to the 
+development of secure and resilient systems. Proficiency in C and C++ programming, including object-oriented programming concepts and data structures.Mastery of Linux system programming, including file systems, processes, threads, and network programming.Ability
+ to develop secure web applications, including input validation, output 
+encoding, and protection against common vulnerabilities.Knowledge
+ of secure software engineering principles, such as threat modelling, 
+code review, testing, vulnerability assessment and DevSecOpsUnderstanding of cryptographic algorithms, key management, and secure communication protocols.Familiarity with AI techniques for cyber security, including anomaly detection and intrusion detection.
+
+After completing this course, students will be well-prepared to meet 
+the industry requirements in the area of Cyber Security. They will be 
+able to tackle complex cybersecurity challenges and contribute to the 
+development of secure and resilient systems.
+
+Proficiency in C and C++ programming, including object-oriented programming concepts and data structures.
+
+Mastery of Linux system programming, including file systems, processes, threads, and network programming.
+
+Ability
+ to develop secure web applications, including input validation, output 
+encoding, and protection against common vulnerabilities.
+
+Knowledge
+ of secure software engineering principles, such as threat modelling, 
+code review, testing, vulnerability assessment and DevSecOps
+
+Understanding of cryptographic algorithms, key management, and secure communication protocols.
+
+Familiarity with AI techniques for cyber security, including anomaly detection and intrusion detection.
+
+Hyderabad
+
+ACTS Home
+
+Courses
+
+Admissions
+
+Placement
+
+Training Centres
+
+Contact Us

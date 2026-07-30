@@ -1,0 +1,254 @@
+COURSE SOURCE: Home_Admission_Index
+URL: https://cdac.in/index.aspx?id=DAC&courseid=30
+============================================================
+
+e-Brochure
+
+Course Focus
+
+Eligibility Criteria
+
+Course Fees
+
+Course Contents
+
+Course Outcome
+
+Training Centres
+
+FAQs
+
+The objective of the PGCP-AI course is to present in-depth knowledge and 
+applications in Artificial Intelligence using tools and case studies. 
+Upon completion of this course, participants will be empowered to use 
+computational techniques in the area of Artificial Intelligence, Natural
+ Language Processing, Machine Learning and Deep Learning based 
+applications.
+
+The educational eligibility criteria for PGCP-AI course is
+
+Graduate in Engineering or Technology (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation, OR 
+MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics OR
+Graduate in any discipline of Engineering, OR
+Post Graduate Degree in Mathematics/ Statistics/ Physics, OR
+MCA, MCM 
+The candidate must have 60% in the qualifying degree.
+
+The educational eligibility criteria for PGCP-AI course is
+
+Graduate in Engineering or Technology (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation, OR
+
+MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics OR
+
+Graduate in any discipline of Engineering, OR
+
+Post Graduate Degree in Mathematics/ Statistics/ Physics, OR
+
+MCA, MCM
+
+The candidate must have 60% in the qualifying degree.
+
+The Post Graduate Certificate Programme in Artificial Intelligence course will be delivered in fully ONLINE or fully PHYSICAL mode. The total course fee and payment details for the fully PHYSICAL or fully ONLINE mode of delivery is as detailed herein below:
+1.      PHYSICAL Mode of Delivery:
+The course fee for the fully PHYSICAL mode of delivery is INR. 1,50,000/- plus Goods and Service Tax (GST) as applicable by Government of India (GOI). 
+The course fee for PGCP-AI has to be paid in two installments as per the schedule.
+
+First installment is INR. 15,000/- plus Goods and Service Tax (GST) as applicable by GOI. 
+Second installment is INR. 1,35,000/- plus Goods and Service Tax (GST) as applicable by GOI. 
+
+2.      ONLINE Mode of Delivery:
+The course fee of the fully ONLINE mode of delivery is INR. 127,500/- plus Goods and Service Tax (GST) as applicable by GOI.
+The course fee for PGCP-AI has to be paid in two installments as per the schedule.
+
+First installment is INR. 15,000/- plus Goods and Service Tax (GST) as applicable by GOI.
+Second installment is INR. 112,500/- plus Goods and Service Tax (GST) as applicable by GOI.
+
+The course fee includes expenses towards delivering classes, conducting examinations, final mark-list and certificate, and placement assistance provided. 
+The first installment course fee of Rs 15,000/- + GST on it as applicable at the time of payment is to be paid online as per the schedule. Payments may be made using any of the available payment modes provided through the payment gateway. The first installment of the course fees is to be paid after seat is allocated during counseling rounds. 
+The second installment of the course fees is to be paid before the course commencement using netbanking, UPI, and credit/debit cards through the payment gateway.
+NOTE: Candidates may take note that no Demand Draft (DD) or cheque or cash will be accepted at any C-DAC training centre towards payment of any installment of course fees.
+
+The Post Graduate Certificate Programme in Artificial Intelligence course will be delivered in fully ONLINE or fully PHYSICAL mode. The total course fee and payment details for the fully PHYSICAL or fully ONLINE mode of delivery is as detailed herein below:
+
+1.      PHYSICAL Mode of Delivery:
+
+The course fee for the fully PHYSICAL mode of delivery is INR. 1,50,000/- plus Goods and Service Tax (GST) as applicable by Government of India (GOI).
+
+The course fee for PGCP-AI has to be paid in two installments as per the schedule.
+
+First installment is INR. 15,000/- plus Goods and Service Tax (GST) as applicable by GOI.
+
+Second installment is INR. 1,35,000/- plus Goods and Service Tax (GST) as applicable by GOI.
+
+2.      ONLINE Mode of Delivery:
+
+The course fee of the fully ONLINE mode of delivery is INR. 127,500/- plus Goods and Service Tax (GST) as applicable by GOI.
+
+The course fee for PGCP-AI has to be paid in two installments as per the schedule.
+
+First installment is INR. 15,000/- plus Goods and Service Tax (GST) as applicable by GOI.
+
+Second installment is INR. 112,500/- plus Goods and Service Tax (GST) as applicable by GOI.
+
+The course fee includes expenses towards delivering classes, conducting examinations, final mark-list and certificate, and placement assistance provided.
+
+The first installment course fee of Rs 15,000/- + GST on it as applicable at the time of payment is to be paid online as per the schedule. Payments may be made using any of the available payment modes provided through the payment gateway. The first installment of the course fees is to be paid after seat is allocated during counseling rounds.
+
+The second installment of the course fees is to be paid before the course commencement using netbanking, UPI, and credit/debit cards through the payment gateway.
+
+NOTE: Candidates may take note that no Demand Draft (DD) or cheque or cash will be accepted at any C-DAC training centre towards payment of any installment of course fees.
+
+Mathematics and Statistics for AI    - 60 Hrs
+
+i. Fundamentals of Artificial IntelligenceIntroduction to AI, Evolution & Revolution of AI, Ethics of AI, Structure of AI, Responsible AI, Real world Implications, Intelligent Agents, Uninformed Search, Constraint Satisfaction Search, Combinatorial Optimization Problems, Heuristic & Meta-heuristics, Genetic Algorithms for Search, Game Trees, Supervised & Unsupervised Learning, Knowledge Representation, Propositional and Predicate Logic, Inference and Resolution for Problem Solving, Rules and Expert Systems, Artificial Life, Emergent Behavior, Genetic Algorithmsii. Mathematics for Artificial Intelligence a. Linear AlgebraVectors, definition, scalars, addition, scalar multiplication, inner product (dot product), vector projection, cosine similarity, orthogonal vectors, normal and Ortho-normal vectors, vector norm, vector space, linear combination, linear span, linear independence, Matrices definition, addition, transpose, scalar multiplication, matrix multiplication, matrix multiplication properties, hadamard product, functions, determinant, identity matrix, invertible matrix and inverse, rank, trace, symmetric, diagonal, orthogonal, Ortho-normal, positive definite matrix, Eigen values &Eigen vectors, concept, intuition, significance, how to find principle components, concept, properties, applications, Singular value decompositionb. CalculusFunction scalar derivative, definition, intuition, common rules of differentiation, chain rule, partial derivatives, Gradient, concept, intuition, properties, directional derivative, Vector and matrix calculus, how to find derivative of scalar-valued, vector-valued function with respect to scalar, vector} four combinations- JacobianGradient algorithms, local/global maxima and minima, saddle point, convex functions, gradient descent algorithms-batch, mini-batch, stochastic, their performance comparison
+
+Advanced Programming for AI    - 180 Hrs
+
+i. Java Programming JDK, JRE, JVM overview, working with Data Types, Operators, Arrays, Strings, Constructors, Classes and Objects, Object Oriented Concepts, Exception Handling, Generics & Collections overview, Java APIs (java. Lang, java. util) Functional Programming, Functional Interfaces, Introduction to Streams, Threads, Reflection in Java, Introduction to Node.js, Introduction to Spring Framework.ii. Advanced Programming using PythonPython Programming: Introduction to Python, Basic Syntax, Data Types, Variables, Operators, Input/output, Flow of Control (Modules, Branching), If, If-else, Nested if-else, Looping, For, While, Nested loops, Control Structure, Break, Continue, Pass, Strings and Tuples, Accessing Strings, Basic Operations, String slices, Working with Lists, Introduction, Accessing list, Operations, Function and Methods, Files, Modules, Dictionaries, Functions and Functional Programming, Declare, assign and retrieve values from Lists, Introducing Tuples, Accessing tuples, matplotlib, seabornAdvanced Python: Object Oriented, OOPs concept, Class and object, Decorators, Attributes, Inheritance, Overloading, Overriding, Data hiding, Operations Exception, Exception Handling, Python Libraries, Web based frameworks: Flask and Django, Request & URL lib.
+
+Data Analytics     - 120 Hrs
+
+Practical Machine Learning     - 120 Hrs
+
+Machine Learning in Nut shell, Supervised Learning, Unsupervised Learning, ML applications in the real world.
+
+Introduction to Feature engineering and Data Pre-processing:
+ Data Preparation, Feature creation, Data cleaning & transformation,
+ Data Validation & Modeling, Feature selection Techniques, 
+Dimensionality reduction, PCA, t-SNE
+
+ML Algorithms:
+ Linear and Nonlinear classification, Regression Techniques, Support 
+vector Machines, KNN, K-means, Decision Trees, Random forest, Bayesian 
+analysis and Naive Bayes classifier, Gradient boosting, Ensemble 
+methods, Bagging , Boosting & Stacking, Association rules learning, 
+Apriori algorithms, Clustering, Overview of Factor Analysis, ARIMA, ML 
+in real time, Algorithm performance metrics, ROC, AOC, Confusion matrix,
+ F1score, MSE, MAE, DBSCAN Clustering in ML, Anomaly Detection with 
+Isolation Forest, Recommender Systems.
+
+Self-Study:
+
+Usage
+ of ML algorithms, Algorithm performance metrics (confusion matrix 
+sensitivity, Specificity, ROC, AOC, F1score, Precision, Recall, MSE, 
+MAE)
+
+Credit Card Fraud Analysis, Intrusion Detection system
+
+Deep Neural Networks    - 120 Hrs
+
+Natural Language Processing and Computer Vision    - 120 Hrs
+
+AI Compute Platforms, Applications and Trends    - 180 Hrs
+
+Aptitude    - 60 Hrs
+
+Number System, Ratio and Proportion, 
+Partnership, Percentage, Profit and Loss, Simple Interest & Compound
+ Interest, Time, Speed and Distance, Trains, Time and Work, Wages, Pipes
+ and Cisterns, Boats and Stream, Averages, Mixtures and Allegation, 
+Probability, Permutations and Combinations, Series, Blood Relations, 
+Coding- Decoding, Seating Arrangement, Syllogism, Venn Diagram, Data 
+Interpretation & Sufficiency, Problems on Ages, Clock & 
+Calendar, Alphabetical Reasoning, Ranking & Order, Direction, 
+Puzzles, Statements & Assumptions
+
+Effective Communication    - 60 Hrs
+
+Project    - 180 Hrs
+
+PG Certificate Programme in Artificial Intelligence (PGCP-AI) is a comprehensive programme that combines Data Science, Machine Learning and Deep Learning to prepare candidates for the roles of Applied AI Scientists, Applied AI engineers, AI architects, Technology architects, Solution Engineers, Technology Consultants.
+
+PG Certificate Programme in Artificial Intelligence (PGCP-AI) is a comprehensive programme that combines Data Science, Machine Learning and Deep Learning to prepare candidates for the roles of Applied AI Scientists, Applied AI engineers, AI architects, Technology architects, Solution Engineers, Technology Consultants.
+
+Bengaluru
+
+Guwahati
+
+Hyderabad
+
+Mohali
+
+Mumbai
+
+New Delhi
+
+Noida
+
+Patna
+
+Pune
+
+Silchar
+
+Thiruvananthapuram
+
+Q. Why is nomenclature of Post Graduate Diploma in Artificial Intelligence changed to Post Graduate Certificate Programme Artificial Intelligence ?
+A. C-DAC’s Post Graduate Diploma in Artificial Intelligence (PG-DAI)
+Course nomenclature is enhanced as Post Graduate Certificate Programme Artificial Intelligence  (PGCP-AI) to bring PG-DAI course in line with NCVET
+standards and guidelines. C-DAC’s 900-hour Post Graduate Diploma in Artificial Intelligence is
+being upgraded to 1200-hour (24-week), 40-credits. NSQF alignment and NCVET
+approval are under process.Q. What is the Eligibility for PG Certificate Programme in Artificial Intelligence?  A: The eligibility Criteria for PGCP-AI is Candidate holding any one of the following degreesGraduate
+ in any Engineering or Technology (10+2+4 or 10+3+3 years) in IT / Computer Science / 
+Electronics / Telecommunications / Electrical / Instrumentation, ORGraduate in any discipline of EngineeringMSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics with Mathematics in 10+2, ORPost Graduate Degree in Mathematics/ Statistics/ Physics, ORMCA, MCMThe candidate must have 60% in the qualifying degree.For
+any specific engineering or postgraduate courses that are not mentioned above,
+candidates may check their course eligibility by emailing their certificates
+and mark-sheets to actssupport@cdac.in before
+the last date of C-CAT application.Q: What is the selection criterion?A: The selection process consists of a C-DAC Common Admission Test (C-CAT).Q: Bank loan assistance for the other centres? A: Facility of educational loans is available for the selected candidates, which will be provided by nationalized banks only.  Q: Revision of the course contents, is it every six months?  A: The course contents are revised according to the real world needs and when found relevant to emerging trends  Q: Do you have centralized placement cell? 
+ A: Yes. We do have a Centralized Placement Programme where the 
+respective centre actively participates to organize the campus 
+interviews for all the students.  Q: What is the value of the course in the international market? 
+ A: The course has been a trend-setting course due to its unique 
+curriculum and the opportunities that it generates; hence it gives the 
+edge over for the students and gives an international edge.
+
+Q. Why is nomenclature of Post Graduate Diploma in Artificial Intelligence changed to Post Graduate Certificate Programme Artificial Intelligence ?
+
+A. C-DAC’s Post Graduate Diploma in Artificial Intelligence (PG-DAI)
+Course nomenclature is enhanced as Post Graduate Certificate Programme Artificial Intelligence  (PGCP-AI) to bring PG-DAI course in line with NCVET
+standards and guidelines. C-DAC’s 900-hour Post Graduate Diploma in Artificial Intelligence is
+being upgraded to 1200-hour (24-week), 40-credits. NSQF alignment and NCVET
+approval are under process.
+
+Q. What is the Eligibility for PG Certificate Programme in Artificial Intelligence?  A: The eligibility Criteria for PGCP-AI is Candidate holding any one of the following degrees
+
+Graduate
+ in any Engineering or Technology (10+2+4 or 10+3+3 years) in IT / Computer Science / 
+Electronics / Telecommunications / Electrical / Instrumentation, OR
+
+Graduate in any discipline of Engineering
+
+MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics with Mathematics in 10+2, OR
+
+Post Graduate Degree in Mathematics/ Statistics/ Physics, OR
+
+MCA, MCM
+
+The candidate must have 60% in the qualifying degree.
+
+Q: What is the selection criterion?
+
+A: The selection process consists of a C-DAC Common Admission Test (C-CAT).
+
+Q: Bank loan assistance for the other centres?
+
+A: Facility of educational loans is available for the selected candidates, which will be provided by nationalized banks only.  Q: Revision of the course contents, is it every six months?  A: The course contents are revised according to the real world needs and when found relevant to emerging trends  Q: Do you have centralized placement cell? 
+ A: Yes. We do have a Centralized Placement Programme where the 
+respective centre actively participates to organize the campus 
+interviews for all the students.  Q: What is the value of the course in the international market? 
+ A: The course has been a trend-setting course due to its unique 
+curriculum and the opportunities that it generates; hence it gives the 
+edge over for the students and gives an international edge.
+
+ACTS Home
+
+Courses
+
+Admissions
+
+Placement
+
+Training Centres
+
+Contact Us

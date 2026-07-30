@@ -1,0 +1,258 @@
+COURSE SOURCE: Computer Architecture and Linux Operating System     - 60 Hrs
+URL: https://cdac.in/index.aspx?id=DAC&courseid=98
+============================================================
+
+e-Brochure
+
+Course Focus
+
+Eligibility Criteria
+
+Course Fees
+
+Course Contents
+
+Course Outcome
+
+Training Centres
+
+FAQs
+
+PGCP-HPCSA will educate the aspirants who want to make an impact in the corporate and 
+academic world in the domain of High Performance Computing system administration as 
+System Administrator, Storage Administrator and IT Infrastructure Specialist. The course 
+is also suitable for those who are already working in HPC administration domain to 
+enhance their theoretical and conceptual knowledge as well as those who would like to 
+start career in HPC administration. The collaboration with the different multi-national 
+companies at the level of mutual research interests and customer related projects will ease 
+the path for campus recruitment. At the end of the course the students will be able to 
+manage HPC infrastructure like network, storage, resource and backup management, 
+efficiently design data center, maintain the HADOOP cluster and map reduce technology, 
+explore on HPC applications and solutions, and understand the fundamentals of various 
+cloud techniques and system security.The theoretical and practical mix of the HPC System Administration program has the following learning objectives:
+
+Fundamental knowledge of High-Performance computing and applications.
+HPC Cluster architecture, Clustering, resource allocation and job scheduling tools, Parallel file systems, Designing Data Centers, Troubleshooting techniques and various other tools for administration and monitoring.
+Hadoop and Map reduce Concepts, designing Hadoop cluster for big data applications.
+Virtualization and Cloud computing technologies, accessing resources and services needed to perform functions with dynamically changing needs.
+Network and Cloud security concepts to create secure development environment, recognizing security loopholes and strengthening the solutions.
+DevOps and automation using container technology and scripting.
+Undertaking industrial research projects for the development of future solutions in the domain of HPC Administration to make an impact in the technological advancement.
+
+PGCP-HPCSA will educate the aspirants who want to make an impact in the corporate and 
+academic world in the domain of High Performance Computing system administration as 
+System Administrator, Storage Administrator and IT Infrastructure Specialist. The course 
+is also suitable for those who are already working in HPC administration domain to 
+enhance their theoretical and conceptual knowledge as well as those who would like to 
+start career in HPC administration. The collaboration with the different multi-national 
+companies at the level of mutual research interests and customer related projects will ease 
+the path for campus recruitment. At the end of the course the students will be able to 
+manage HPC infrastructure like network, storage, resource and backup management, 
+efficiently design data center, maintain the HADOOP cluster and map reduce technology, 
+explore on HPC applications and solutions, and understand the fundamentals of various 
+cloud techniques and system security.
+
+The theoretical and practical mix of the HPC System Administration program has the following learning objectives:
+
+Fundamental knowledge of High-Performance computing and applications.
+
+HPC Cluster architecture, Clustering, resource allocation and job scheduling tools, Parallel file systems, Designing Data Centers, Troubleshooting techniques and various other tools for administration and monitoring.
+
+Hadoop and Map reduce Concepts, designing Hadoop cluster for big data applications.
+
+Virtualization and Cloud computing technologies, accessing resources and services needed to perform functions with dynamically changing needs.
+
+Network and Cloud security concepts to create secure development environment, recognizing security loopholes and strengthening the solutions.
+
+DevOps and automation using container technology and scripting.
+
+Undertaking industrial research projects for the development of future solutions in the domain of HPC Administration to make an impact in the technological advancement.
+
+The educational eligibility criteria for PGCP-HPCSA course is
+
+Graduate in Engineering or Technology (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation, OR
+MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics  OR
+Post Graduate Degree
+in Mathematics or allied areas, OR
+MCA
+The candidates must have secured a minimum of 55% marks in their qualifying examination.
+
+The educational eligibility criteria for PGCP-HPCSA course is
+
+Graduate in Engineering or Technology (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation, OR
+
+MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics  OR
+
+Post Graduate Degree
+in Mathematics or allied areas, OR
+
+MCA
+
+PGCP-HPCSA course will be delivered in fully PHYSICAL mode. The total course fee and payment details are as detailed herein below:
+The total course fee is INR. 99,000/- plus Goods and Service Tax (GST) as applicable by Government of India (GOI). 
+The course fee for PGCP-HPCSA has to be paid in two installments as per the schedule.
+
+First installment is INR. 15,000/- plus Goods and Service Tax (GST) as applicable by GOI. 
+Second installment is INR. 84,000/- plus Goods and Service Tax (GST) as applicable by GOI. 
+
+The course fee includes expenses towards delivering classes, conducting examinations, final mark-list and certificate, and placement assistance provided. 
+The first installment course fee of Rs 15,000/- + GST on it as applicable at the time of payment is to be paid online as per the schedule. Payments may be made using any of the available payment modes provided through the payment gateway. The first installment of the course fees is to be paid after seat is allocated during counseling rounds. 
+The second installment of the course fees is to be paid before the course commencement using netbanking, UPI, and credit/debit cards through the payment gateway.
+NOTE: Candidates may take note that no Demand Draft (DD) or cheque or cash will be accepted at any C-DAC training centre towards payment of any installment of course fees.
+
+PGCP-HPCSA course will be delivered in fully PHYSICAL mode. The total course fee and payment details are as detailed herein below:
+
+The total course fee is INR. 99,000/- plus Goods and Service Tax (GST) as applicable by Government of India (GOI).
+
+The course fee for PGCP-HPCSA has to be paid in two installments as per the schedule.
+
+First installment is INR. 15,000/- plus Goods and Service Tax (GST) as applicable by GOI.
+
+Second installment is INR. 84,000/- plus Goods and Service Tax (GST) as applicable by GOI.
+
+The course fee includes expenses towards delivering classes, conducting examinations, final mark-list and certificate, and placement assistance provided.
+
+The first installment course fee of Rs 15,000/- + GST on it as applicable at the time of payment is to be paid online as per the schedule. Payments may be made using any of the available payment modes provided through the payment gateway. The first installment of the course fees is to be paid after seat is allocated during counseling rounds.
+
+The second installment of the course fees is to be paid before the course commencement using netbanking, UPI, and credit/debit cards through the payment gateway.
+
+NOTE: Candidates may take note that no Demand Draft (DD) or cheque or cash will be accepted at any C-DAC training centre towards payment of any installment of course fees.
+
+Computer Architecture and Linux Operating System     - 60 Hrs
+
+Fundamentals of Computer Network and Management     - 60 Hrs
+
+Introduction to communication system, issues in Computer Networking, OSI Layers, TCP/IP Models, Networking Protocols, IP Addressing and Routing, Network Devices (Hub, Switch, Router), Interconnect networks, VLAN, Types of Interconnect networks, Gigabit Ethernet, InfiniBand, Omni Path Architecture(OPA), types of protocol supported, Communication subnet, NAT, ACL Interconnect networks subsystem: HCA, FC ports and other supported accessories, Network monitoring
+
+Python Programming for HPC    - 90 Hrs
+
+Hadoop Administration     - 90 Hrs
+
+Cloud Services & Security     - 90 Hrs
+
+Security and Traffic Management     - 90 Hrs
+
+Resource Management and Accounting     - 90 Hrs
+
+Storage and Backup Management     - 90 Hrs
+
+HPC System Administration and Management    - 150 Hrs
+
+Aptitude    - 60 Hrs
+
+Number System, Ratio and Proportion, 
+Partnership, Percentage, Profit and Loss, Simple Interest & Compound
+ Interest, Time, Speed and Distance, Trains, Time and Work, Wages, Pipes
+ and Cisterns, Boats and Stream, Averages, Mixtures and Allegation, 
+Probability, Permutations and Combinations, Series, Blood Relations, 
+Coding- Decoding, Seating Arrangement, Syllogism, Venn Diagram, Data 
+Interpretation & Sufficiency, Problems on Ages, Clock & 
+Calendar, Alphabetical Reasoning, Ranking & Order, Direction, 
+Puzzles, Statements & Assumptions
+
+Effective Communication    - 60 Hrs
+
+Project     - 180 Hrs
+
+After doing this course students will be able to:Manage the HPC infrastructure like (Network, Storage, Resource and Backup Management)Design an efficient data center.Maintain the HADOOP cluster and related technologyExplore on HPC applications and solutions Understand the fundamentals of various cloud techniques and system security.
+
+Manage the HPC infrastructure like (Network, Storage, Resource and Backup Management)
+
+Design an efficient data center.
+
+Maintain the HADOOP cluster and related technology
+
+Explore on HPC applications and solutions
+
+Understand the fundamentals of various cloud techniques and system security.
+
+Pune
+
+Q. Why is nomenclature of Post Graduate Diploma in High Performance Computing System Administration changed to Post Graduate Certificate Programme in Advanced Computing?
+A. C-DAC’s Post Graduate Diploma in High Performance Computing System Administration (PG-DHPCSA) Course nomenclature is enhanced as Post Graduate Certificate Programme
+in Advanced Computing (PGCP-HPCSA) to bring PG-DHPCSA course in line with NCVET
+standards and guidelines. C-DAC’s 900-hour Post Graduate Diploma in High Performance Computing System Administration is
+being upgraded to 1200-hour (24-week), 40-credits. NSQF alignment and NCVET
+approval are under process.
+ Q. What is the Eligibility for PG Certificate Programme in High Performance Computing System Administration (PGCP-HPCSA)?  
+A. The eligibility Criteria for PGCP-HPCSA is candidate holding any one of the 
+     following degrees:
+
+
+Graduate in Engineering or Technology (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation. OR
+MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics. OR
+
+
+Post Graduate Degree in Mathematics or allied areas, OR 
+MCA
+The candidates must have secured a minimum of 55% marks in their qualifying examination.
+For
+any specific engineering or postgraduate courses that are not mentioned above,
+candidates may check their course eligibility by emailing their certificates
+and mark-sheets to actssupport@cdac.in before
+the last date of C-CAT application.
+
+Q. What is the selection criterion?  
+A. The selection process consists of a C-DAC's Common Admission Test (C-CAT).
+ 
+Q. What is Fee of course? 
+A. The fees for the PGCP-HPCSA course is INR. 99,000/- (Rupees Ninety Nine Thousand only) plus GST as applicable by Government of India 
+ 
+Q. When the course does commence?  
+A. Twice in a year in the month of August and February. Admission Process will
+     start in month of May and November every year.
+ 
+Q. Duration of the course?  
+A. Duration is 24-week's full-time of 1200 hours (including 300 hours of self study) of 40 credits.
+ 
+Q. Infrastructure Facilities available?  
+A. Fully equipped classrooms capacity to accommodate students and state-of-art 
+     labs to explore you computing skills
+ 
+Q. Hostel & Canteen facility available?  
+A. Accommodation for out station candidates is facilitated by some of centers. 
+     Please refer Admission Booklet.
+ 
+Q. Bank loan assistance?  
+A. Facility of educational loans is provided for the selected candidates, which is available at all nationalized banks.
+ 
+Q. Revision of the course contents, is it every six months?  
+A. The course contents are revised according to the real world needs and when found relevant to the market demands.
+ 
+Q. Do you have centralized placement cell?  
+A. Yes we do have a centralized placement programme where the respective centers actively coordinate the task of organizing the campus interviews for all the students.
+ 
+Q. What is the value of the course in the international market?  
+A. The course has been a trend-setting course due to its unique curriculum and  
+     the opportunities that it generates; hence it gives the edge over above for the 
+     students and gives an international edge.
+
+Q. Why is nomenclature of Post Graduate Diploma in High Performance Computing System Administration changed to Post Graduate Certificate Programme in Advanced Computing?
+
+A. C-DAC’s Post Graduate Diploma in High Performance Computing System Administration (PG-DHPCSA) Course nomenclature is enhanced as Post Graduate Certificate Programme
+in Advanced Computing (PGCP-HPCSA) to bring PG-DHPCSA course in line with NCVET
+standards and guidelines. C-DAC’s 900-hour Post Graduate Diploma in High Performance Computing System Administration is
+being upgraded to 1200-hour (24-week), 40-credits. NSQF alignment and NCVET
+approval are under process.
+
+Graduate in Engineering or Technology (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation. OR
+
+MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics. OR
+
+Post Graduate Degree in Mathematics or allied areas, OR
+
+MCA
+
+The candidates must have secured a minimum of 55% marks in their qualifying examination.
+
+ACTS Home
+
+Courses
+
+Admissions
+
+Placement
+
+Training Centres
+
+Contact Us

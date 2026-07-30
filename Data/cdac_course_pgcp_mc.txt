@@ -1,0 +1,257 @@
+COURSE SOURCE: Home_Admission_Index
+URL: https://cdac.in/index.aspx?id=DAC&courseid=26
+============================================================
+
+e-Brochure
+
+Course Focus
+
+Eligibility Criteria
+
+Course Fees
+
+Course Contents
+
+Course Outcome
+
+Training Centres
+
+FAQs
+
+The Post-Graduate Certificate Programme in Mobile Computing (PGCP-MC) is targeted 
+towards electronics/computer sciences/IT engineers who wish to venture 
+into the domain of mobile computing. The course aims to groom the 
+students to enable them to work on current technology scenarios as well 
+as prepare them to keep pace with the changing face of technology and 
+requirements of an exponentially growing mobile industry. The entire 
+course syllabus, courseware, teaching methodology and the course 
+delivery have been derived from the rich research and development 
+background of C-DAC.
+
+The Post-Graduate Certificate Programme in Mobile Computing (PGCP-MC) is targeted 
+towards electronics/computer sciences/IT engineers who wish to venture 
+into the domain of mobile computing. The course aims to groom the 
+students to enable them to work on current technology scenarios as well 
+as prepare them to keep pace with the changing face of technology and 
+requirements of an exponentially growing mobile industry. The entire 
+course syllabus, courseware, teaching methodology and the course 
+delivery have been derived from the rich research and development 
+background of C-DAC.
+
+The educational eligibility criteria for PGCP-MC course is:
+
+Graduate in Engineering or Technology (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation, OR
+MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics. OR·   
+Graduate in any discipline of Engineering, OR MCA, MCM, ORPost Graduate Degree in Physics / Mathematics / Statistics, ORPost Graduate Degree in Management with graduation in IT / Computer Science / Computer ApplicationsThe candidates must have secured a minimum of 55% marks in their qualifying examination.
+
+The educational eligibility criteria for PGCP-MC course is:
+
+Graduate in Engineering or Technology (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation, OR
+
+MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics. OR·
+
+Graduate in any discipline of Engineering, OR
+
+MCA, MCM, OR
+
+Post Graduate Degree in Physics / Mathematics / Statistics, OR
+
+Post Graduate Degree in Management with graduation in IT / Computer Science / Computer Applications
+
+The candidates must have secured a minimum of 55% marks in their qualifying examination.
+
+PGPC-MC course will be delivered in fully PHYSICAL mode. The total course fee and payment details are as detailed herein below:
+The total course fee is INR. 99,000/- plus Goods and Service Tax (GST) as applicable by Government of India (GOI). 
+The course fee for PGCP-MC has to be paid in two installments as per the schedule.
+
+First installment is INR. 15,000/- plus Goods and Service Tax (GST) as applicable by GOI. 
+Second installment is INR. 84,000/- plus Goods and Service Tax (GST) as applicable by GOI. 
+
+The course fee includes expenses towards delivering classes, conducting examinations, final mark-list and certificate, and placement assistance provided. 
+The first installment course fee of Rs 15,000/- + GST on it as applicable at the time of payment is to be paid online as per the schedule. Payments may be made using any of the available payment modes provided through the payment gateway. The first installment of the course fees is to be paid after seat is allocated during counseling rounds. 
+The second installment of the course fees is to be paid before the course commencement using netbanking, UPI, and credit/debit cards through the payment gateway.
+NOTE: Candidates may take note that no Demand Draft (DD) or cheque or cash will be accepted at any C-DAC training centre towards payment of any installment of course fees.
+
+PGPC-MC course will be delivered in fully PHYSICAL mode. The total course fee and payment details are as detailed herein below:
+
+The total course fee is INR. 99,000/- plus Goods and Service Tax (GST) as applicable by Government of India (GOI).
+
+The course fee for PGCP-MC has to be paid in two installments as per the schedule.
+
+First installment is INR. 15,000/- plus Goods and Service Tax (GST) as applicable by GOI.
+
+Second installment is INR. 84,000/- plus Goods and Service Tax (GST) as applicable by GOI.
+
+The course fee includes expenses towards delivering classes, conducting examinations, final mark-list and certificate, and placement assistance provided.
+
+The first installment course fee of Rs 15,000/- + GST on it as applicable at the time of payment is to be paid online as per the schedule. Payments may be made using any of the available payment modes provided through the payment gateway. The first installment of the course fees is to be paid after seat is allocated during counseling rounds.
+
+The second installment of the course fees is to be paid before the course commencement using netbanking, UPI, and credit/debit cards through the payment gateway.
+
+NOTE: Candidates may take note that no Demand Draft (DD) or cheque or cash will be accepted at any C-DAC training centre towards payment of any installment of course fees.
+
+Operating System Concepts and Linux Programming    - 30 Hrs
+
+Database Technologies    - 60 Hrs
+
+Object Oriented Programming with Java     - 150 Hrs
+
+Algorithms and Data Structures using Java    - 90 Hrs
+
+Web-Based Java Programming     - 60 Hrs
+
+ORM Concepts, Maven, Spring framework, Spring Beans Lifecycle, Spring Boot, IOC & Dependency Injection, Auto-wiring, Spring entity relations, JPQL, Web application using Controller, Service & Repository layers, REST Architecture, RESTful Web service using Spring Boot
+
+Mobile Programming     - 210 Hrs
+
+Hybrid Mobile Apps Programming     - 210 Hrs
+
+AI on Mobile Platforms    - 90 Hrs
+
+Aptitude    - 60 Hrs
+
+Number System, Ratio and Proportion, 
+Partnership, Percentage, Profit and Loss, Simple Interest & Compound
+ Interest, Time, Speed and Distance, Trains, Time and Work, Wages, Pipes
+ and Cisterns, Boats and Stream, Averages, Mixtures and Allegation, 
+Probability, Permutations and Combinations, Series, Blood Relations, 
+Coding- Decoding, Seating Arrangement, Syllogism, Venn Diagram, Data 
+Interpretation & Sufficiency, Problems on Ages, Clock & 
+Calendar, Alphabetical Reasoning, Ranking & Order, Direction, 
+Puzzles, Statements & Assumptions
+
+Effective Communication    - 60 Hrs
+
+Project    - 180 Hrs
+
+After completion of course students will be able to acquire the following skills:Design and build advanced native apps on Android and iOS platform,work with cross-functional teams to define, design, and ship  new features, unit-test code for sturdiness, including edge cases, usability, and general reliability. Identify and correct bottlenecks and  fix bugs,continuously discover, evaluate, and implement new technologies to maximize development efficiency.Design and build Hybrid mobile apps through React Native, HTML5, CSS, and JavaScript web standards.Analyse and explain the behaviour of programs involving the fundamental program constructs, Design and implement a class based on  attributes and behaviours of objects. Design and implement components like: Session, Entity, EJBs. Understand the multi-tier  architecture of web-based enterprise applications using Enterprise JavaBeans. Integrate Servlets, JSPs with EJB and Databases in J2EE  application. Understand the deployment descriptor and enterprise application deployment.How to think creatively, analytically and abstractly about computational problems.
+
+Design and build advanced native apps on Android and iOS platform,work with cross-functional teams to define, design, and ship  new features, unit-test code for sturdiness, including edge cases, usability, and general reliability. Identify and correct bottlenecks and  fix bugs,continuously discover, evaluate, and implement new technologies to maximize development efficiency.
+
+Design and build Hybrid mobile apps through React Native, HTML5, CSS, and JavaScript web standards.
+
+Analyse and explain the behaviour of programs involving the fundamental program constructs, Design and implement a class based on  attributes and behaviours of objects. Design and implement components like: Session, Entity, EJBs. Understand the multi-tier  architecture of web-based enterprise applications using Enterprise JavaBeans. Integrate Servlets, JSPs with EJB and Databases in J2EE  application. Understand the deployment descriptor and enterprise application deployment.
+
+How to think creatively, analytically and abstractly about computational problems.
+
+Pune
+
+Q. Why is nomenclature of Post Graduate Diploma in Mobile Computing changed to Post Graduate Certificate Programme in Mobile Computing?
+C-DAC’s Post Graduate Diploma in Mobile Computing (PG-DMC)
+Course nomenclature is enhanced as Post Graduate Certificate Programme in
+Advanced Computing (PGCP-MC) to bring PG-DMC course in line with NCVET
+standards and guidelines. C-DAC’s 900-hour Post Graduate Diploma in Mobile Computing is
+being upgraded to 1200-hour (24-week), 40-credits. NSQF alignment and NCVET
+approval are under process.Q. What is the Eligibility for PG Certificate Programme in Mobile Computing?  
+A. The eligibility Criteria for PGCP-MC is candidate holding any one of the following  degrees
+
+Graduate in Engineering or Technology (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation. OR MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics. OR
+Post Graduate Degree in Engineering Sciences with corresponding basic degree (e.g. MSc in Computer Science, IT, Electronics) OR
+Graduate in any discipline of Engineering, OR MCA, MCM, ORPost Graduate Degree in Physics / Mathematics / Statistics, ORPost Graduate Degree in Management with graduation in IT / Computer Science / Computer Applications
+The candidates must have secured a minimum of 55% marks in their qualifying examination.
+
+For
+any specific engineering or postgraduate courses that are not mentioned above,
+candidates may check their course eligibility by emailing their certificates
+and mark-sheets to actssupport@cdac.in before
+the last date of C-CAT application.
+Q. What is the selection criterion?  
+A. The selection process consists of a C-DAC Common Admission Test (C-CAT).
+ 
+Q. What is Fee of course? 
+A. The fees for the PGCP-MC course is Rs. 99,000/- (Rupees Ninety Nine Thousand Hundred only) plus GST as applicable by GOI.  
+ 
+Q. When the course does commence?  
+A. Twice in a year in the month of August and February. Admission process will start in month of May and December every year. 
+ 
+Q. Duration of the course?  
+A. The duration of course is 24 weeks’ approximately full-time course with 1200 hours Theory+Practical+Project Work (with 300 hours self study) for 40 credits.
+ 
+Q. Infrastructure Facilities available?  
+A. Fully equipped classrooms capacity to accommodate students and state-of-art labs to explore you computing skills 
+ 
+Q. Hostel & Canteen facility available?  
+A. Accommodation for out station candidates is facilitated by the center.
+ 
+Q. What is the medium of instruction for PG Certificate Programme?                                       
+  A. The medium of instruction for the PG Certificate Programme is English.
+ 
+Q. Revision of the course contents, is it every six months?  
+A. The course contents are revised according to the real world needs and when found relevant to the market demands.
+
+Q. Why is nomenclature of Post Graduate Diploma in Mobile Computing changed to Post Graduate Certificate Programme in Mobile Computing?
+
+C-DAC’s Post Graduate Diploma in Mobile Computing (PG-DMC)
+Course nomenclature is enhanced as Post Graduate Certificate Programme in
+Advanced Computing (PGCP-MC) to bring PG-DMC course in line with NCVET
+standards and guidelines. C-DAC’s 900-hour Post Graduate Diploma in Mobile Computing is
+being upgraded to 1200-hour (24-week), 40-credits. NSQF alignment and NCVET
+approval are under process.
+
+Q. What is the Eligibility for PG Certificate Programme in Mobile Computing?
+
+A. The eligibility Criteria for PGCP-MC is candidate holding any one of the following  degrees
+
+Graduate in Engineering or Technology (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation. OR MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics. OR
+
+Post Graduate Degree in Engineering Sciences with corresponding basic degree (e.g. MSc in Computer Science, IT, Electronics) OR
+
+Graduate in any discipline of Engineering, OR
+
+MCA, MCM, OR
+
+Post Graduate Degree in Physics / Mathematics / Statistics, OR
+
+Post Graduate Degree in Management with graduation in IT / Computer Science / Computer Applications
+
+The candidates must have secured a minimum of 55% marks in their qualifying examination.
+
+For
+any specific engineering or postgraduate courses that are not mentioned above,
+candidates may check their course eligibility by emailing their certificates
+and mark-sheets to actssupport@cdac.in before
+the last date of C-CAT application.
+
+Q. What is the selection criterion?
+
+A. The selection process consists of a C-DAC Common Admission Test (C-CAT).
+
+Q. What is Fee of course?
+
+A. The fees for the PGCP-MC course is Rs. 99,000/- (Rupees Ninety Nine Thousand Hundred only) plus GST as applicable by GOI.
+
+Q. When the course does commence?
+
+A. Twice in a year in the month of August and February. Admission process will start in month of May and December every year.
+
+Q. Duration of the course?
+
+A. The duration of course is 24 weeks’ approximately full-time course with 1200 hours Theory+Practical+Project Work (with 300 hours self study) for 40 credits.
+
+Q. Infrastructure Facilities available?
+
+A. Fully equipped classrooms capacity to accommodate students and state-of-art labs to explore you computing skills
+
+Q. Hostel & Canteen facility available?
+
+A. Accommodation for out station candidates is facilitated by the center.
+
+Q. What is the medium of instruction for PG Certificate Programme?
+
+A. The medium of instruction for the PG Certificate Programme is English.
+
+Q. Revision of the course contents, is it every six months?
+
+A. The course contents are revised according to the real world needs and when found relevant to the market demands.
+
+ACTS Home
+
+Courses
+
+Admissions
+
+Placement
+
+Training Centres
+
+Contact Us

@@ -1,0 +1,1569 @@
+COURSE SOURCE: Next Batch PG Course Commencement: 24 August 2026
+URL: https://cdac.in/index.aspx?id=edu_acts_PGDiplomaAdmission
+============================================================
+
+Admission
+
+Admission - PG Certificate Programmes (February-26)
+
+How to Register
+
+Eligibility Criteria
+
+C-CAT Examination
+
+C-CAT Syllabus
+
+C-CAT Schedule & Cities
+
+C-CAT Fee & Ranking
+
+Counseling & Seat Allocation Process
+
+Seat Capacity at Training Centers
+
+Important Dates
+
+Admission Booklet
+
+How to register for C-CATThe process of admission to C-DAC's PG Certificate Programmes begins with registration of prospective candidates on the C-DAC website, www.cdac.in or acts.cdac.in . Candidates are advised to read the instructions carefully while filling the online registration and application forms. Upon registering, candidates will get their Form Number that can be used to log in and fill the C-CAT application form online. Admissions to all PG Certificate Programmes of C-DAC are done through C-DAC's computerized Common Admission Test (C-CAT).Every year, C-CAT is conducted in January (for February admissions) and July (for August admissions).Candidates who qualify the upcoming C-CAT scheduled on July 4 / 5, 2026 will only be considered for admission to C-DAC’s Post Graduate Certificate Programmes  of  August 2026 batch on the basis of their C-CAT ranks and can further participate in counseling rounds.Important Note: The Form Number and password must be remembered by the candidate as it will be the reference number and login ID of the candidate during the whole admission process.C-CAT Application – Filling Personal DetailsOnce candidates have completed registration, the next step is to log in and fill the C-CAT application form by entering the personal and qualifying degree details. All particulars provided in the registration and application forms must match with those in the documents that will be submitted at the time of admission.C-CAT Application – Selection of Category of CoursesNext, candidates have to select the category (II or III) of PG Certificate Programmes which they wish to apply.Important Notes:(i)       Candidates selecting category III can apply for all PG Certificate Programmes of C-DAC, provided they are eligible for these courses and obtain C-CAT ranks in categories II and III.(ii)    Similarly, Category II candidates can apply for the courses under category II.(iii)  Once the application form is submitted online, candidates will not have option to change the category of courses selected in the application form. C-CAT Application – Uploading Candidate’s PhotoAfter filling the application form, candidates have to upload their clear passport size photograph.C-CAT Application – Selection of Examination CityIn this step, candidates must give three choices of cities for appearing C-CAT. Refer to Section 14(b) of this Admission Booklet regarding C-CAT city preferences and allocation.C-CAT Application – Payment of Examination FeeThe final step of C-CAT application is the online payment of C-CAT fee. The details of payment are given in the section C-CAT Fee.The steps successfully completed in the application process are shown with a tick-mark on the main menu of the online application. Candidates are advised to print/screen-shot their filled-in application form that can be obtained by clicking the 'View/Print Application Form' on the main menu and keep it for their records. Candidates facing any issues during online registration and application may contact C-DAC ACTS Pune (020-25503143 ; actssupport@cdac.in).
+
+How to register for C-CAT
+
+The process of admission to C-DAC's PG Certificate Programmes begins with registration of prospective candidates on the C-DAC website, www.cdac.in or acts.cdac.in . Candidates are advised to read the instructions carefully while filling the online registration and application forms. Upon registering, candidates will get their Form Number that can be used to log in and fill the C-CAT application form online.
+
+Admissions to all PG Certificate Programmes of C-DAC are done through C-DAC's computerized Common Admission Test (C-CAT).
+
+Every year, C-CAT is conducted in January (for February admissions) and July (for August admissions).
+
+Candidates who qualify the upcoming C-CAT scheduled on July 4 / 5, 2026 will only be considered for admission to C-DAC’s Post Graduate Certificate Programmes  of  August 2026 batch on the basis of their C-CAT ranks and can further participate in counseling rounds.
+
+Important Note: The Form Number and password must be remembered by the candidate as it will be the reference number and login ID of the candidate during the whole admission process.
+
+C-CAT Application – Filling Personal Details
+
+Once candidates have completed registration, the next step is to log in and fill the C-CAT application form by entering the personal and qualifying degree details. All particulars provided in the registration and application forms must match with those in the documents that will be submitted at the time of admission.
+
+C-CAT Application – Selection of Category of Courses
+
+Next, candidates have to select the category (II or III) of PG Certificate Programmes which they wish to apply.
+
+Important Notes:
+
+(i)       Candidates selecting category III can apply for all PG Certificate Programmes of C-DAC, provided they are eligible for these courses and obtain C-CAT ranks in categories II and III.
+
+(ii)    Similarly, Category II candidates can apply for the courses under category II.
+
+(iii)  Once the application form is submitted online, candidates will not have option to change the category of courses selected in the application form.
+
+C-CAT Application – Uploading Candidate’s Photo
+
+After filling the application form, candidates have to upload their clear passport size photograph.
+
+C-CAT Application – Selection of Examination City
+
+In this step, candidates must give three choices of cities for appearing C-CAT. Refer to Section 14(b) of this Admission Booklet regarding C-CAT city preferences and allocation.
+
+C-CAT Application – Payment of Examination Fee
+
+The final step of C-CAT application is the online payment of C-CAT fee. The details of payment are given in the section C-CAT Fee.
+
+The steps successfully completed in the application process are shown with a tick-mark on the main menu of the online application. Candidates are advised to print/screen-shot their filled-in application form that can be obtained by clicking the 'View/Print Application Form' on the main menu and keep it for their records. Candidates facing any issues during online registration and application may contact C-DAC ACTS Pune (020-25503143 ; actssupport@cdac.in).
+
+C-DAC's Post Graduate Certificate Programmes are 24-week’s 
+full-time courses of 1200 hours (including 300 hours of self study) of 
+40 credits.The list of PG Certificate Programmes being offered 
+in August 2026 along with their eligibility criteria and fees is given
+ in Table 1.Mode of Delivery of PG Certificate Programmes in the August 2026 BatchPGCP-AC,
+ PGCP-BDA, PGCP-AI and PGCP-CSF will be delivered in FULLY ONLINE OR FULLY 
+PHYSICAL mode depending on the centre offering these courses. The mode 
+of conduct of these courses at various training centres of C-DAC is 
+mentioned in Table 4.PGCP-ESD, PGCP-ITISS, PGCP-MC, PGCP-VLSI, 
+PGCP-ASSD, PGCP-HPCSA, and PGCP-RAT will be delivered in fully PHYSICAL 
+mode at all the training centres offering these courses. PGCP-FBD will be delivered in fully ONLINE mode only.For
+ online courses, students are required to have laptops/PCs with 
+high-speed uninterrupted internet connection, webcam and microphone to 
+effectively participate in the course from their homes or personal 
+places. It is not advisable to join the online classes from mobile phones.Minimum Eligibility Criteria Common for C-DAC's PG Certificate ProgrammesGraduate
+ in Engineering or Technology (10+2+4 or 10+3+3 years) in IT / Computer 
+Science / Electronics / Telecommunications / Electrical / 
+Instrumentation.ORMSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics.In
+ addition to the common eligibility criteria given above, candidates 
+with the course-specific qualifications mentioned in Table 1 are ALSO 
+ELIGIBLE for the particular courses. Minimum percentage of 
+marks required in the qualifying examination is also stated in Table 1. 
+The minimum percentage of marks will be considered as per the norms of 
+the university from where the candidate has graduated.Table 1: C-DAC's PG Certificate Programme and their eligibility criteria.COURSE NAMEMODE OF DELIVERYELIGIBILITY*MIN. %CATEGORY II (Sections A+B in C-CAT)Post Graduate Certificate Programme in Advanced Computing (PGCP-AC)Fully OnlineOr Fully Physical· Common eligibility criteria, OR· Graduate in any discipline of Engineering, OR· MCA, MCM, OR· Post Graduate Degree in Physics / Mathematics / Statistics, OR· Post Graduate Degree in Management with graduation in IT / Computer Science / Computer Applications55%Post Graduate Certificate Programme in Big Data Analytics (PGCP-BDA)Fully OnlineOr Fully Physical· Common eligibility criteria, OR· Graduate in any discipline of Engineering, OR · MCA, MCM, OR· Post Graduate Degree in Physics / Mathematics / Statistics, OR· Post Graduate Degree in Management with graduation in IT / Computer Science / Computer Applications55 %Post Graduate Certificate Programme in Artificial Intelligence (PGCP-AI)Fully OnlineOr Fully Physical· Common eligibility criteria, OR· Graduate in any discipline of Engineering, OR· MCA, MCM, OR· Post Graduate Degree in Physics / Mathematics / Statistics60 %Post Graduate Certificate Programme in Mobile Computing (PGCP-MC)Fully Physical· Common eligibility criteria, OR· Graduate in any discipline of Engineering, OR · MCA, MCM, OR· Post Graduate Degree in Physics / Mathematics / Statistics, OR· Post Graduate Degree in Management with graduation in IT / Computer Science / Computer Applications55 %Post Graduate Certificate Programme in IT Infrastructure, Systems & Security (PGCP-ITISS)Fully Physical· Common eligibility criteria, OR· Post Graduate Degree in Mathematics / Statistics, OR · MCA55 %Post Graduate Certificate Programme in Advanced Secure Software Development (PGCP-ASSD)Fully Physical· Common eligibility criteria, OR· MCA55 %Post Graduate Certificate Programme in HPC System Administration(PGCP-HPCSA)Fully Physical· Common eligibility criteria, OR· Post Graduate Degree in Mathematics or allied areas, OR· MCA55 %Post Graduate Certificate Programme in FinTech & Blockchain Development (PGCP-FBD)Fully Online· Common eligibility criteria, OR· Graduate in any discipline of Engineering, OR MCA / MCM, OR· Post Graduate Degree in Physics / Mathematics / Statistics55 %Post Graduate Certificate Programme in Cyber Security & Forensics (PGCP-CSF)Fully Online or Fully Physical· Common eligibility criteria, OR· Graduate in any discipline of Engineering, OR · MCA / MCM, OR· Post Graduate Degree in Physics / Mathematics / Statistics55 %Post Graduate Certificate Programme in Robotics & Allied Technologies (PGCP-RAT)Fully Physical· Common eligibility criteria, OR· Graduate in Mechatronics / Mechanical Engineering55 %CATEGORY III (Sections A+B+C in C-CAT)Post Graduate Certificate Programme in Embedded Systems Design (PGCP-ESD)Fully Physical· Common eligibility criteria55 %Post Graduate Certificate Programme in VLSI Design (PGCP-VLSI)Fully Physical· Common eligibility criteria55 %* For
+ any specific engineering or postgraduate courses that are not mentioned
+ in Table 1, candidates may check their course eligibility by emailing 
+their certificates and mark-sheets to actssupport@cdac.in before the 
+last date of C-CAT application.For the online 
+courses, laptop/PC configuration, and hardware, software and network 
+specifications required are given in Section 18 of this Admission 
+Booklet. There is no age restriction for admission to 
+C-DAC’s PG Certificate Programmes. Candidates who have appeared for the 
+final examination of their qualifying degree in 2026 will also be 
+considered for admission to the above courses. By qualifying in C-DAC's 
+admission tests of July 2026, such university result-awaiting 
+candidates can apply for provisional admission in August 2026 batch, 
+subject to the condition that:(a) All parts of their qualifying degree examination shall be completed by the date of joining the course, and(b)
+ Proof of having passed the qualifying degree with at least the required
+ minimum marks shall be submitted at C-DAC by 31 December 2026.Important Notes:Candidates
+ should ensure that they meet the eligibility criteria of the courses 
+for which they are applying. It shall be incumbent upon candidates to 
+prove they meet the prescribed eligibility criteria at the time of 
+taking admission at allocated centre. Issuance of Admit Card and/or 
+C-CAT rank does not automatically entitle a candidate to admission. In 
+case a candidate is found to be non-eligible during any stage of the 
+admission process or course delivery, his/her admission will be 
+cancelled with immediate effect.For any admission-related 
+correspondence with C-DAC, candidates must email to the addresses 
+mentioned in this Admission Booklet from their registered email, and 
+must mention their name and C-CAT Form No. without which C-DAC may not 
+be able to respond to these candidates.
+
+C-DAC's Post Graduate Certificate Programmes are 24-week’s 
+full-time courses of 1200 hours (including 300 hours of self study) of 
+40 credits.The list of PG Certificate Programmes being offered 
+in August 2026 along with their eligibility criteria and fees is given
+ in Table 1.
+
+Mode of Delivery of PG Certificate Programmes in the August 2026 Batch
+
+PGCP-AC,
+ PGCP-BDA, PGCP-AI and PGCP-CSF will be delivered in FULLY ONLINE OR FULLY 
+PHYSICAL mode depending on the centre offering these courses. The mode 
+of conduct of these courses at various training centres of C-DAC is 
+mentioned in Table 4.
+
+PGCP-ESD, PGCP-ITISS, PGCP-MC, PGCP-VLSI, 
+PGCP-ASSD, PGCP-HPCSA, and PGCP-RAT will be delivered in fully PHYSICAL 
+mode at all the training centres offering these courses.
+
+PGCP-FBD will be delivered in fully ONLINE mode only.
+
+For
+ online courses, students are required to have laptops/PCs with 
+high-speed uninterrupted internet connection, webcam and microphone to 
+effectively participate in the course from their homes or personal 
+places. It is not advisable to join the online classes from mobile phones.
+
+Minimum Eligibility Criteria Common for C-DAC's PG Certificate Programmes
+
+Graduate
+ in Engineering or Technology (10+2+4 or 10+3+3 years) in IT / Computer 
+Science / Electronics / Telecommunications / Electrical / 
+Instrumentation.
+
+OR
+
+MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics.
+
+In
+ addition to the common eligibility criteria given above, candidates 
+with the course-specific qualifications mentioned in Table 1 are ALSO 
+ELIGIBLE for the particular courses. Minimum percentage of 
+marks required in the qualifying examination is also stated in Table 1. 
+The minimum percentage of marks will be considered as per the norms of 
+the university from where the candidate has graduated.
+
+Table 1: C-DAC's PG Certificate Programme and their eligibility criteria.
+
+COURSE NAME
+
+MODE OF DELIVERY
+
+ELIGIBILITY*
+
+MIN. %
+
+CATEGORY II (Sections A+B in C-CAT)
+
+Post Graduate Certificate Programme in Advanced Computing
+
+(PGCP-AC)
+
+Fully Online
+
+Or
+
+Fully Physical
+
+· Common eligibility criteria, OR
+
+· Graduate in any discipline of Engineering, OR
+
+· MCA, MCM, OR
+
+· Post Graduate Degree in Physics / Mathematics / Statistics, OR
+
+· Post Graduate Degree in Management with graduation in IT / Computer Science / Computer Applications
+
+55%
+
+Post Graduate Certificate Programme in Big Data Analytics
+
+(PGCP-BDA)
+
+Fully Online
+
+Or
+
+Fully Physical
+
+· Common eligibility criteria, OR
+
+· Graduate in any discipline of Engineering, OR
+
+· MCA, MCM, OR
+
+· Post Graduate Degree in Physics / Mathematics / Statistics, OR
+
+· Post Graduate Degree in Management with graduation in IT / Computer Science / Computer Applications
+
+55 %
+
+Post Graduate Certificate Programme in Artificial Intelligence
+
+(PGCP-AI)
+
+Fully Online
+
+Or
+
+Fully Physical
+
+· Common eligibility criteria, OR
+
+· Graduate in any discipline of Engineering, OR
+
+· MCA, MCM, OR
+
+· Post Graduate Degree in Physics / Mathematics / Statistics
+
+60 %
+
+Post Graduate Certificate Programme in Mobile Computing (PGCP-MC)
+
+Fully Physical
+
+· Common eligibility criteria, OR
+
+· Graduate in any discipline of Engineering, OR
+
+· MCA, MCM, OR
+
+· Post Graduate Degree in Physics / Mathematics / Statistics, OR
+
+· Post Graduate Degree in Management with graduation in IT / Computer Science / Computer Applications
+
+55 %
+
+Post Graduate Certificate Programme in IT Infrastructure, Systems & Security (PGCP-ITISS)
+
+Fully Physical
+
+· Common eligibility criteria, OR
+
+· Post Graduate Degree in Mathematics / Statistics, OR
+
+· MCA
+
+55 %
+
+Post Graduate Certificate Programme in Advanced Secure Software Development (PGCP-ASSD)
+
+Fully Physical
+
+· Common eligibility criteria, OR
+
+· MCA
+
+55 %
+
+Post Graduate Certificate Programme in HPC System Administration
+
+(PGCP-HPCSA)
+
+Fully Physical
+
+· Common eligibility criteria, OR
+
+· Post Graduate Degree in Mathematics or allied areas, OR
+
+· MCA
+
+55 %
+
+Post Graduate Certificate Programme in FinTech & Blockchain Development
+
+(PGCP-FBD)
+
+Fully Online
+
+· Common eligibility criteria, OR
+
+· Graduate in any discipline of Engineering, OR MCA / MCM, OR
+
+· Post Graduate Degree in Physics / Mathematics / Statistics
+
+55 %
+
+Post Graduate Certificate Programme in Cyber Security & Forensics
+
+(PGCP-CSF)
+
+Fully Online
+
+or
+
+Fully Physical
+
+· Common eligibility criteria, OR
+
+· Graduate in any discipline of Engineering, OR
+
+· MCA / MCM, OR
+
+· Post Graduate Degree in Physics / Mathematics / Statistics
+
+55 %
+
+Post Graduate Certificate Programme in Robotics & Allied Technologies
+
+(PGCP-RAT)
+
+Fully Physical
+
+· Common eligibility criteria, OR
+
+· Graduate in Mechatronics / Mechanical Engineering
+
+55 %
+
+CATEGORY III (Sections A+B+C in C-CAT)
+
+Post Graduate Certificate Programme in Embedded Systems Design (PGCP-ESD)
+
+Fully Physical
+
+· Common eligibility criteria
+
+55 %
+
+Post Graduate Certificate Programme in VLSI Design (PGCP-VLSI)
+
+Fully Physical
+
+· Common eligibility criteria
+
+55 %
+
+* For
+ any specific engineering or postgraduate courses that are not mentioned
+ in Table 1, candidates may check their course eligibility by emailing 
+their certificates and mark-sheets to actssupport@cdac.in before the 
+last date of C-CAT application.
+
+For the online 
+courses, laptop/PC configuration, and hardware, software and network 
+specifications required are given in Section 18 of this Admission 
+Booklet.
+
+There is no age restriction for admission to 
+C-DAC’s PG Certificate Programmes. Candidates who have appeared for the 
+final examination of their qualifying degree in 2026 will also be 
+considered for admission to the above courses. By qualifying in C-DAC's 
+admission tests of July 2026, such university result-awaiting 
+candidates can apply for provisional admission in August 2026 batch, 
+subject to the condition that:
+
+(a) All parts of their qualifying degree examination shall be completed by the date of joining the course, and
+
+(b)
+ Proof of having passed the qualifying degree with at least the required
+ minimum marks shall be submitted at C-DAC by 31 December 2026.
+
+Important Notes:
+
+Candidates
+ should ensure that they meet the eligibility criteria of the courses 
+for which they are applying. It shall be incumbent upon candidates to 
+prove they meet the prescribed eligibility criteria at the time of 
+taking admission at allocated centre. Issuance of Admit Card and/or 
+C-CAT rank does not automatically entitle a candidate to admission. In 
+case a candidate is found to be non-eligible during any stage of the 
+admission process or course delivery, his/her admission will be 
+cancelled with immediate effect.
+
+For any admission-related 
+correspondence with C-DAC, candidates must email to the addresses 
+mentioned in this Admission Booklet from their registered email, and 
+must mention their name and C-CAT Form No. without which C-DAC may not 
+be able to respond to these candidates.
+
+Admissions to all PG Certificate Programmes of August 2026 
+batch are done through C-DAC's Common Admission Test (C-CAT) that will 
+be conducted in computerised mode physically at C-DAC's test centres on 
+July 4 and July 5 , 2026. Candidates have to apply for C-CAT 
+online at www.cdac.in or acts.cdac.in.
+ Candidates who clear the July 2026 C-CAT will only be considered for
+ admission to C-DAC's PG Certificate Programmes of August 2026 batch 
+on the basis of their C-CAT ranks and centre/course preferences.C-CAT Test PapersC-CAT has three sections (Section A, Section B, Section C) of one hour duration each. As shown in Table 5, depending on the category of courses selected by the candidate, he/she will have to either appear for two test papers (Section A and Section B) or all the three test papers (Section A, Section B and Section C). The medium of C-CAT is English.Important Note:
+ A candidate can appear only for the specific section(s) in C-CAT as per
+ the category of the courses opted by him/her at the time of filling the
+ online application form.Every section in C-CAT will have 50 
+objective-type questions. Each question will have four choices as 
+possible answers of which only one will be correct. There will be +3 
+(plus three) marks for each correct answer, -1 (minus one) for each 
+wrong answer, and 0 (zero) marks for each un-attempted question. The 
+maximum mark a candidate can obtain in any one section of C-CAT is 150.Categories of PG Certificate Programmes and the corresponding test paper(s) in C-CAT.COURSECATEGORYCOURSE NAMEC-CATPAPER(S)IIPG Certificate Programme in Advanced Computing (PGCP-AC)SectionsA & BPG Certificate Programme in Big Data Analytics (PGCP-BDA)PG Certificate Programme in Artificial Intelligence (PGCP-AI)PG Certificate Programme in IT Infrastructure, Systems & Security (PGCP-ITISS)PG Certificate Programme in Mobile Computing (PGCP-MC)PG Certificate Programme in Advanced Secure Software Development (PGCP-ASSD)PG Certificate Programme in HPC System Administration (PGCP-HPCSA)PG Certificate Programme in FinTech & Blockchain Development (PGCP-FBD)PG Certificate Programme in Cyber Security & Forensics (PGCP-CSF)PG Certificate Programme in Robotics & Allied Technologies (PGCP-RAT)IIIPG Certificate Programme in Embedded Systems Design (PGCP-ESD)SectionsA, B & CPG Certificate Programme in VLSI Design (PGCP-VLSI)
+
+Admissions to all PG Certificate Programmes of August 2026 
+batch are done through C-DAC's Common Admission Test (C-CAT) that will 
+be conducted in computerised mode physically at C-DAC's test centres on 
+July 4 and July 5 , 2026. Candidates have to apply for C-CAT 
+online at www.cdac.in or acts.cdac.in.
+ Candidates who clear the July 2026 C-CAT will only be considered for
+ admission to C-DAC's PG Certificate Programmes of August 2026 batch 
+on the basis of their C-CAT ranks and centre/course preferences.
+
+C-CAT Test Papers
+
+C-CAT has three sections (Section A, Section B, Section C) of one hour duration each. As shown in Table 5, depending on the category of courses selected by the candidate, he/she will have to either appear for two test papers (Section A and Section B) or all the three test papers (Section A, Section B and Section C). The medium of C-CAT is English.
+
+Important Note:
+ A candidate can appear only for the specific section(s) in C-CAT as per
+ the category of the courses opted by him/her at the time of filling the
+ online application form.
+
+Every section in C-CAT will have 50 
+objective-type questions. Each question will have four choices as 
+possible answers of which only one will be correct. There will be +3 
+(plus three) marks for each correct answer, -1 (minus one) for each 
+wrong answer, and 0 (zero) marks for each un-attempted question. The 
+maximum mark a candidate can obtain in any one section of C-CAT is 150.
+
+Categories of PG Certificate Programmes and the corresponding test paper(s) in C-CAT.
+
+COURSE
+
+CATEGORY
+
+COURSE NAME
+
+C-CAT
+
+PAPER(S)
+
+II
+
+PG Certificate Programme in Advanced Computing (PGCP-AC)
+
+Sections
+
+A & B
+
+PG Certificate Programme in Big Data Analytics (PGCP-BDA)
+
+PG Certificate Programme in Artificial Intelligence (PGCP-AI)
+
+PG Certificate Programme in IT Infrastructure, Systems & Security (PGCP-ITISS)
+
+PG Certificate Programme in Mobile Computing (PGCP-MC)
+
+PG Certificate Programme in Advanced Secure Software Development (PGCP-ASSD)
+
+PG Certificate Programme in HPC System Administration (PGCP-HPCSA)
+
+PG Certificate Programme in FinTech & Blockchain Development (PGCP-FBD)
+
+PG Certificate Programme in Cyber Security & Forensics (PGCP-CSF)
+
+PG Certificate Programme in Robotics & Allied Technologies (PGCP-RAT)
+
+III
+
+PG Certificate Programme in Embedded Systems Design (PGCP-ESD)
+
+Sections
+
+A, B & C
+
+PG Certificate Programme in VLSI Design (PGCP-VLSI)
+
+C-CAT SyllabusIndicative syllabus of the different sections of test papers in C-CAT.TEST PAPERTOPICSDURATIONSection AEnglish, Quantitative Aptitude, Reasoning, Computer Fundamentals & Concepts of Programming1 hourSection BC
+ Programming, Data Structures, Object Oriented Programming Concepts 
+using C++, Operating Systems & Networking, Basics of Big Data & 
+Artificial Intelligence1 hourSection CComputer Architecture, Digital Electronics, Microprocessors1 hourThe
+ list of reference books for the various topics of C-CAT is given in 
+Table 6b. Candidates are, however, advised to read more books than the 
+ones specified in this table.Reference books for the various topics in C-CAT.SECTIONTOPICREFERENCE BOOKAEnglishAny High School Grammar Book (e.g. Wren & Martin)Quantitative Aptitude & ReasoningQuantitative Aptitude Fully Solved (R. S. Aggrawal)Quantitative Aptitude (M Tyara)Barron’s New GREComputer Fundamentals & Concepts of ProgrammingFoundations of Computing (Pradeep Sinha & Priti Sinha)BC ProgrammingC Programming Language (Kernighan & Ritchie)Let Us C (Yashavant Kanetkar)Data StructuresData Structures Through C in Depth (S. K. Srivastava)Operating Systems & NetworkingOperating System Principles (Silberschatz, Galvin, Gagne)Data Communication & Networking (Forouzan)OOP ConceptsTest Your C ++ Skills (Yashavant Kanetkar)Basics of Big Data & AIFundamentals of Data Engineering (Joe Reis, Matt Housley)Artificial Intelligence for Dummies (John Paul Mueller, Luca Massaron)CComputer ArchitectureComputer Organization & Architecture (William Stallings)Digital ElectronicsDigital Design (Morris Mano)Digital Design: Principles & Practices (John Wakerly)Modern Digital Electronics (R. P. Jain)MicroprocessorsMicroprocessor Architecture, Programming & Applications with 8085 (Ramesh Gaonkar)The Intel Microprocessor (Barry Brey)
+
+C-CAT Syllabus
+
+Indicative syllabus of the different sections of test papers in C-CAT.
+
+TEST PAPER
+
+TOPICS
+
+DURATION
+
+Section A
+
+English, Quantitative Aptitude, Reasoning, Computer Fundamentals & Concepts of Programming
+
+1 hour
+
+Section B
+
+C
+ Programming, Data Structures, Object Oriented Programming Concepts 
+using C++, Operating Systems & Networking, Basics of Big Data & 
+Artificial Intelligence
+
+1 hour
+
+Section C
+
+Computer Architecture, Digital Electronics, Microprocessors
+
+1 hour
+
+The
+ list of reference books for the various topics of C-CAT is given in 
+Table 6b. Candidates are, however, advised to read more books than the 
+ones specified in this table.
+
+Reference books for the various topics in C-CAT.
+
+SECTION
+
+TOPIC
+
+REFERENCE BOOK
+
+A
+
+English
+
+Any High School Grammar Book (e.g. Wren & Martin)
+
+Quantitative Aptitude & Reasoning
+
+Quantitative Aptitude Fully Solved (R. S. Aggrawal)
+
+Quantitative Aptitude (M Tyara)
+
+Barron’s New GRE
+
+Computer Fundamentals & Concepts of Programming
+
+Foundations of Computing (Pradeep Sinha & Priti Sinha)
+
+B
+
+C Programming
+
+C Programming Language (Kernighan & Ritchie)
+
+Let Us C (Yashavant Kanetkar)
+
+Data Structures
+
+Data Structures Through C in Depth (S. K. Srivastava)
+
+Operating Systems & Networking
+
+Operating System Principles (Silberschatz, Galvin, Gagne)
+
+Data Communication & Networking (Forouzan)
+
+OOP Concepts
+
+Test Your C ++ Skills (Yashavant Kanetkar)
+
+Basics of Big Data & AI
+
+Fundamentals of Data Engineering (Joe Reis, Matt Housley)
+
+Artificial Intelligence for Dummies (John Paul Mueller, Luca Massaron)
+
+C
+
+Computer Architecture
+
+Computer Organization & Architecture (William Stallings)
+
+Digital Electronics
+
+Digital Design (Morris Mano)
+
+Digital Design: Principles & Practices (John Wakerly)
+
+Modern Digital Electronics (R. P. Jain)
+
+Microprocessors
+
+Microprocessor Architecture, Programming & Applications with 8085 (Ramesh Gaonkar)
+
+The Intel Microprocessor (Barry Brey)
+
+C-CAT ScheduleC-CAT for 
+admission to the August 2026 batch of PG Certificate Programmes will be
+ held in computerised mode physically at C-DAC’s test centres on July  4 and July 5 , 2026. The tentative schedule for different
+ test papers of C-CAT is given in Table below. The exact schedule of 
+C-CAT will be communicated to the candidates through the Admit Card.Table: Tentative schedule of July 2026 C-CAT. C-CAT Dates Test PaperMorning Slot TimingsAfternoon Slot Timings4 July 2026 ;5 July 2026Section A9:30 am – 10:30 am2:00 pm – 3:00 pmSection B10:45 am – 11:45 am3:15 pm – 4:15 pmSection C12:00 noon – 1:00 pm4:30 pm – 5:30 pmC-CAT CitiesC-CAT will be conducted in computerised mode in various cities across India.
+ The list of cities where C-CAT will be conducted in July 2026 is 
+given in Table below. Candidates need to give 3 choices of cities while 
+filling the online C-CAT application form. Refer to Section 14(b) of 
+this Admission Booklet regarding C-CAT city preferences and allocation. The C-CAT city once selected in the online application form cannot be changed unless
+ approved in writing by C-DAC, subject to availability of seats on the 
+requested city. All such signed letters of requests with proof of valid 
+reasons should be received at actssupport@cdac.in before the last date of C-CAT application.  Table: Cities where C-CAT will be conducted in July 2026*.AhmedabadAurangabad (MH)BengaluruBhilaiBhopalBhubaneswarChennaiGuwahatiHyderabadIndoreJaipurKaradKochiKolhapurKolkataLucknowMohaliMumbai NagpurNashikNavi MumbaiNew DelhiNoidaPatnaPrayagrajPuneRanchiSilcharSolapurThiruvananthapuramVaranasiVijayawada    *
+ C-DAC at its discretion may cancel any of the above C-CAT cities due to
+ less number of candidates or any emergency situation arising out of 
+pandemic/calamities or any other relevant reasons. Refer to Section 
+14(b) regarding C-CAT city preferences and allocation.C-CAT Admit CardsCandidates can download their admit cards from C-DAC’s website during the dates mentioned under Important Dates.
+ The venue, date and time of C-CAT will be communicated to the 
+candidates on the admit cards. Instructions for appearing C-CAT will 
+also be given on the admit card. Candidates must appear for C-CAT on the date and time at the venue specified on the admit card. The examination fee will not be refunded to candidates who are absent or coming late for C-CAT.No candidate will be permitted to appear for C-CAT without a valid admit card.
+ The admit card along with a photo identity proof must be presented to 
+the C-CAT officials/invigilators for verification at the time of the 
+test.
+
+C-CAT Schedule
+
+C-CAT for 
+admission to the August 2026 batch of PG Certificate Programmes will be
+ held in computerised mode physically at C-DAC’s test centres on July  4 and July 5 , 2026. The tentative schedule for different
+ test papers of C-CAT is given in Table below. The exact schedule of 
+C-CAT will be communicated to the candidates through the Admit Card.
+
+Table: Tentative schedule of July 2026 C-CAT.
+
+C-CAT Dates
+
+Test Paper
+
+Morning Slot Timings
+
+Afternoon Slot Timings
+
+4 July 2026 ;
+
+5 July 2026
+
+Section A
+
+9:30 am – 10:30 am
+
+2:00 pm – 3:00 pm
+
+Section B
+
+10:45 am – 11:45 am
+
+3:15 pm – 4:15 pm
+
+Section C
+
+12:00 noon – 1:00 pm
+
+4:30 pm – 5:30 pm
+
+C-CAT Cities
+
+C-CAT will be conducted in computerised mode in various cities across India.
+ The list of cities where C-CAT will be conducted in July 2026 is 
+given in Table below. Candidates need to give 3 choices of cities while 
+filling the online C-CAT application form. Refer to Section 14(b) of 
+this Admission Booklet regarding C-CAT city preferences and allocation.
+
+The C-CAT city once selected in the online application form cannot be changed unless
+ approved in writing by C-DAC, subject to availability of seats on the 
+requested city. All such signed letters of requests with proof of valid 
+reasons should be received at actssupport@cdac.in before the last date of C-CAT application.
+
+Table: Cities where C-CAT will be conducted in July 2026*.
+
+Ahmedabad
+
+Aurangabad (MH)
+
+Bengaluru
+
+Bhilai
+
+Bhopal
+
+Bhubaneswar
+
+Chennai
+
+Guwahati
+
+Hyderabad
+
+Indore
+
+Jaipur
+
+Karad
+
+Kochi
+
+Kolhapur
+
+Kolkata
+
+Lucknow
+
+Mohali
+
+Mumbai
+
+Nagpur
+
+Nashik
+
+Navi Mumbai
+
+New Delhi
+
+Noida
+
+Patna
+
+Prayagraj
+
+Pune
+
+Ranchi
+
+Silchar
+
+Solapur
+
+Thiruvananthapuram
+
+Varanasi
+
+Vijayawada
+
+*
+ C-DAC at its discretion may cancel any of the above C-CAT cities due to
+ less number of candidates or any emergency situation arising out of 
+pandemic/calamities or any other relevant reasons. Refer to Section 
+14(b) regarding C-CAT city preferences and allocation.
+
+C-CAT Admit Cards
+
+Candidates can download their admit cards from C-DAC’s website during the dates mentioned under Important Dates.
+ The venue, date and time of C-CAT will be communicated to the 
+candidates on the admit cards. Instructions for appearing C-CAT will 
+also be given on the admit card. Candidates must appear for C-CAT on the date and time at the venue specified on the admit card. The examination fee will not be refunded to candidates who are absent or coming late for C-CAT.
+
+No candidate will be permitted to appear for C-CAT without a valid admit card.
+ The admit card along with a photo identity proof must be presented to 
+the C-CAT officials/invigilators for verification at the time of the 
+test.
+
+C-CAT FeeC-CAT fee structure is given in Table below. Candidates may note that the C-CAT fee once paid is not refundable. Table: Category-wise C-CAT fee (inclusive of GST).Course CategoryC-CAT Paper(s)C-CAT FeeIIIIIA+BA+B+CRs 1550/-Rs 1750/-After filling the online C-CAT application form, the examination fee must be paid online. It can be paid using credit/debit cards through the payment gateway that will be opened upon clicking the 'Online' option of the 'Make Payment'
+ step on the main menu of the application. Candidates are advised to 
+follow the instructions/steps given on the payment gateway, and also 
+print/save the transaction details for their records.On receiving the examination fee at C-DAC, the ‘Make Payment’ step on the main menu of the online application will be tick-marked, and the status of payment will be updated on the ‘Status Check’ menu. The pdf application form obtained by clicking the ‘View/Print Application Form’
+ on the main menu will now have the transaction details of the payment 
+made. Candidates facing any issues during online payment may contact 
+C-DAC ACTS Pune through phone (020-25503143) or email (actssupport@cdac.in).C-CAT RankingCandidates will be provided ranks based on their performances in Sections A+B, Sections A+B+C of C-CAT. If a candidate appears for both categories II and III in C-CAT and qualifies in them, he/she will be provided separate ranks in Category II and Category III.Candidates
+ with the lowest 10% performances in section A and section B and section C of C-CAT will not be qualified for 
+ranking. Even after 
+the removal of the lowest performers as stated above, if there exist 
+candidates in any section with zero or less than zero marks, then these 
+candidates will also not be qualified for ranking.Qualified candidates who have selected Category II in the 
+C-CAT application form will be awarded Category II ranks based on 
+their performances in Sections A+B. Qualified candidates who have 
+selected Category III will obtain Category II and III ranks based on 
+their performances in Sections A+B and A+B+C.Important Notes:(i)
+ If a candidate has applied for Category II or III, but is not qualified
+ in Section A due to poor performance in it, he/she will not get any 
+rank in Category II or III, even if the candidate has got good 
+marks in Section B and C.(ii) Similarly, if a candidate has 
+applied for category II or III, but is not qualified in Section B due to
+ poor performance in it, he/she will not get any rank in Category II or 
+III. Tie-Breaker Rule: 
+If two or more candidates have acquired the same marks in Section A or 
+Sections A+B or Sections A+B+C, then the candidate having more marks in 
+Section A will be given the higher rank. If these candidates have the 
+same marks in Section A also, then the candidate having higher value in 
+the ratio of ‘number of correct answers / number of attempted questions’
+ in the specific section required only for that category of courses will
+ be given the higher rank. Candidates who have the same value of this 
+ratio, and having the same total as well as Section-A marks will be 
+given the same C-CAT rank.Admissions to C-DAC’s PG Certificate Programmes at various training centres will be offered in the order of 
+ranks obtained in C-CAT and based on the preferences of courses and 
+centres given by the candidates during online counselling. Only those 
+candidates who are in the C-CAT rank-list will be considered for 
+admissions to C-DAC’s PG Certificate Programmes.Rank-lists of July 2026 C-CAT are only applicable for admission to the August 2026 batch of 
+C-DAC’s Certificate Programmes. Candidates should note that mere appearance 
+in C-CAT or being in any of the rank-lists neither guarantees nor 
+provides any automatic entitlement to admission. Qualified candidates 
+will have to apply for admission as per the prescribed procedure.
+
+C-CAT Fee
+
+C-CAT fee structure is given in Table below. Candidates may note that the C-CAT fee once paid is not refundable.
+
+Table: Category-wise C-CAT fee (inclusive of GST).
+
+Course Category
+
+C-CAT Paper(s)
+
+C-CAT Fee
+
+II
+
+III
+
+A+B
+
+A+B+C
+
+Rs 1550/-
+
+Rs 1750/-
+
+After filling the online C-CAT application form, the examination fee must be paid online. It can be paid using credit/debit cards through the payment gateway that will be opened upon clicking the 'Online' option of the 'Make Payment'
+ step on the main menu of the application. Candidates are advised to 
+follow the instructions/steps given on the payment gateway, and also 
+print/save the transaction details for their records.
+
+On receiving the examination fee at C-DAC, the ‘Make Payment’ step on the main menu of the online application will be tick-marked, and the status of payment will be updated on the ‘Status Check’ menu. The pdf application form obtained by clicking the ‘View/Print Application Form’
+ on the main menu will now have the transaction details of the payment 
+made. Candidates facing any issues during online payment may contact 
+C-DAC ACTS Pune through phone (020-25503143) or email (actssupport@cdac.in).
+
+Candidates will be provided ranks based on their performances in Sections A+B, Sections A+B+C of C-CAT. If a candidate appears for both categories II and III in C-CAT and qualifies in them, he/she will be provided separate ranks in Category II and Category III.
+
+Candidates
+ with the lowest 10% performances in section A and section B and section C of C-CAT will not be qualified for 
+ranking. Even after 
+the removal of the lowest performers as stated above, if there exist 
+candidates in any section with zero or less than zero marks, then these 
+candidates will also not be qualified for ranking.
+
+Qualified candidates who have selected Category II in the 
+C-CAT application form will be awarded Category II ranks based on 
+their performances in Sections A+B. Qualified candidates who have 
+selected Category III will obtain Category II and III ranks based on 
+their performances in Sections A+B and A+B+C.
+
+Important Notes:
+
+(i)
+ If a candidate has applied for Category II or III, but is not qualified
+ in Section A due to poor performance in it, he/she will not get any 
+rank in Category II or III, even if the candidate has got good 
+marks in Section B and C.
+
+(ii) Similarly, if a candidate has 
+applied for category II or III, but is not qualified in Section B due to
+ poor performance in it, he/she will not get any rank in Category II or 
+III.
+
+Tie-Breaker Rule: 
+If two or more candidates have acquired the same marks in Section A or 
+Sections A+B or Sections A+B+C, then the candidate having more marks in 
+Section A will be given the higher rank. If these candidates have the 
+same marks in Section A also, then the candidate having higher value in 
+the ratio of ‘number of correct answers / number of attempted questions’
+ in the specific section required only for that category of courses will
+ be given the higher rank. Candidates who have the same value of this 
+ratio, and having the same total as well as Section-A marks will be 
+given the same C-CAT rank.
+
+Admissions to C-DAC’s PG Certificate Programmes at various training centres will be offered in the order of 
+ranks obtained in C-CAT and based on the preferences of courses and 
+centres given by the candidates during online counselling. Only those 
+candidates who are in the C-CAT rank-list will be considered for 
+admissions to C-DAC’s PG Certificate Programmes.
+
+Rank-lists of July 2026 C-CAT are only applicable for admission to the August 2026 batch of 
+C-DAC’s Certificate Programmes. Candidates should note that mere appearance 
+in C-CAT or being in any of the rank-lists neither guarantees nor 
+provides any automatic entitlement to admission. Qualified candidates 
+will have to apply for admission as per the prescribed procedure.
+
+Counselling & Seat Allocation ProcessC-DAC's PG Certificate Programmes admission process has two counselling sessions and three rounds of seat allocations. Counselling means online filling of preferences of courses and training centres by the candidates.There are two rounds of seat allocations based on the first counselling.
+ This means that using the course-centre preferences given by the 
+candidates during the first choice filling, two rounds of seat 
+allocations (Round 1 and Round 2) will be done. Further details of the 
+first counselling and first/second rounds of seat allocations are given 
+in Sections 16(f-j) of this Admission Booklet.Depending
+ on their C-CAT ranks, candidates will be allocated seats strictly based
+ on the order of preferences of courses and centres given by them during
+ the counselling. If some candidates' ranks are not good enough
+ to get them their top preferences in the first round of seat 
+allocations, they may be offered their lower preferred courses/centres 
+depending on their ranks. Such candidates may be allocated their 
+higher-preferred course/ centre in the second round of seat allocation, 
+depending on their ranks. However, if candidates get their first 
+preference in the first round of seat allocation itself, then that will 
+be their final allocated seat and there will be no change for them in 
+the second round of seat allocations.Once the first installment is paid, candidates will have the option to lock/freeze the Round 1 allocated seat
+ even if it is not their first preference. If candidates do not 
+lock/freeze their lower preferred seat, they will be considered for 
+Round 2 seat allocation after they pay the first installment fee. The 
+seats allocated in the second round are final and there will be no 
+further change in them.Through the second counseling,
+ candidates who have not got/confirmed admission are given one last 
+chance to online fill their preferences of courses and training centres 
+for the vacant seats that arise after the second round of admissions. 
+The second counselling is scheduled after the payment of the first 
+installment fee of the second round of seat allocation. The third round 
+of seat allocation is based on the second counseling. The categories of 
+candidates who are eligible to take part in the second counselling, and 
+more details of the second counselling and third round of seat 
+allocation, are given in Sections 16(k-l) of this Admission Booklet.Important Notes:(i)
+ Once the first installment is paid, candidates will have the option to 
+lock/freeze the Round 1 allocated seat even if it is not their first 
+preference.(ii) If candidates do not lock/freeze their lower 
+preferred seat, they will be considered for Round 2 seat allocation 
+after they pay the first installment fee.During both the 
+counselling sessions, candidates will be permitted to give preferences 
+for only those courses for which they are eligible as per their 
+qualification details given by them in their C-CAT application form. 
+However, a candidate can give as many preferences of training centres 
+for the eligible courses. Based on the C-CAT ranks, admissions to
+ various courses at different training centres are offered in the order 
+of preferences of courses and centres given by the candidate and the 
+number of seats available for the courses at the particular centres. Therefore candidates must take utmost care while filling the order of preference of the courses and centres.
+ Under any circumstance, a candidate will not be allocated another 
+course/centre which was not given as a preference during the counselling
+ stage.Important Note: A candidate cannot join a lower preferred choice if he/she is allocated a higher preference in any round of seat allocation.
+
+Counselling & Seat Allocation Process
+
+C-DAC's PG Certificate Programmes admission process has two counselling sessions and three rounds of seat allocations. Counselling means online filling of preferences of courses and training centres by the candidates.
+
+There are two rounds of seat allocations based on the first counselling.
+ This means that using the course-centre preferences given by the 
+candidates during the first choice filling, two rounds of seat 
+allocations (Round 1 and Round 2) will be done. Further details of the 
+first counselling and first/second rounds of seat allocations are given 
+in Sections 16(f-j) of this Admission Booklet.
+
+Depending
+ on their C-CAT ranks, candidates will be allocated seats strictly based
+ on the order of preferences of courses and centres given by them during
+ the counselling. If some candidates' ranks are not good enough
+ to get them their top preferences in the first round of seat 
+allocations, they may be offered their lower preferred courses/centres 
+depending on their ranks. Such candidates may be allocated their 
+higher-preferred course/ centre in the second round of seat allocation, 
+depending on their ranks. However, if candidates get their first 
+preference in the first round of seat allocation itself, then that will 
+be their final allocated seat and there will be no change for them in 
+the second round of seat allocations.
+
+Once the first installment is paid, candidates will have the option to lock/freeze the Round 1 allocated seat
+ even if it is not their first preference. If candidates do not 
+lock/freeze their lower preferred seat, they will be considered for 
+Round 2 seat allocation after they pay the first installment fee. The 
+seats allocated in the second round are final and there will be no 
+further change in them.
+
+Through the second counseling,
+ candidates who have not got/confirmed admission are given one last 
+chance to online fill their preferences of courses and training centres 
+for the vacant seats that arise after the second round of admissions. 
+The second counselling is scheduled after the payment of the first 
+installment fee of the second round of seat allocation. The third round 
+of seat allocation is based on the second counseling. The categories of 
+candidates who are eligible to take part in the second counselling, and 
+more details of the second counselling and third round of seat 
+allocation, are given in Sections 16(k-l) of this Admission Booklet.
+
+Important Notes:
+
+(i)
+ Once the first installment is paid, candidates will have the option to 
+lock/freeze the Round 1 allocated seat even if it is not their first 
+preference.
+
+(ii) If candidates do not lock/freeze their lower 
+preferred seat, they will be considered for Round 2 seat allocation 
+after they pay the first installment fee.
+
+During both the 
+counselling sessions, candidates will be permitted to give preferences 
+for only those courses for which they are eligible as per their 
+qualification details given by them in their C-CAT application form. 
+However, a candidate can give as many preferences of training centres 
+for the eligible courses.
+
+Based on the C-CAT ranks, admissions to
+ various courses at different training centres are offered in the order 
+of preferences of courses and centres given by the candidate and the 
+number of seats available for the courses at the particular centres. Therefore candidates must take utmost care while filling the order of preference of the courses and centres.
+ Under any circumstance, a candidate will not be allocated another 
+course/centre which was not given as a preference during the counselling
+ stage.
+
+Important Note: A candidate cannot join a lower preferred choice if he/she is allocated a higher preference in any round of seat allocation.
+
+C-DAC Training CentresAcross India, C-DAC
+ is offering Post Graduate Certificate Programmes through its centres 
+located in Bengaluru, Chennai, Guwahati, Hyderabad, Kochi, Kolkata, 
+Mumbai, Navi Mumbai, New Delhi, Noida, Patna, Pune, and 
+Thiruvananthapuram. Post Graduate Certificate Programmes are also 
+offered by C-DAC’s Authorised Training Centres (ATC) in Bhubaneswar, 
+Indore, Jaipur, Karad, Mumbai, Nagpur, Nashik, New Delhi, Patna, and 
+Pune. The address and contact details of these training centres can be 
+found at https://www.cdac.in/index.aspx?id=edu_acts_TrainingCenters
+ and also in Section 19 of this Admission Booklet. Tables 4a and 4b show
+ the courses offered and the seat capacity at various training centres 
+of C-DAC in the August 2026 batch. Table 4a shows the online courses and Table 4b shows the physical courses.Table 4a: PG Certificate Programmes seat capacity at C-DAC’s training centres – ONLINE COURSES.Sr. No.CityCentre NamePGCP-ACPGCP-BDAPGCP-AIPGCP-CSFPGCP-FBD1ChennaiC-DAC8060   2IndoreOrlando Academy60    3KolkataC-DAC 60   4Mumbai (Kharghar)C-DAC260    5New DelhiC-DAC40 40  6New DelhiBytes Softech120    7PatnaC-DAC60 60 608PatnaAstric-CoE60    9PatnaCareer Foresight60    10GuwahatiC-DAC  40  11ThiruvananthapuramC-DAC4040 60  Table 4b: PG Certificate Programmes seat capacity at C-DAC's training centres PHYSICAL COURSES. Sr. No.CityCentre NamePGCP-ACPGCP-BDAPGCP-AIPGCP-ESDPGCP-ITISSPGCP-VLSIPGCP-CSFPGCP-MCPGCP-ASSDPGCP-HPCSAPGCP-RAT 1BengaluruC-DAC240120406060      2GuwahatiC-DAC  40        3HyderabadC-DAC1406040120 4040 80  4KochiC-DAC40          5KolkataC-DAC60         406MohaliC-DAC  40        7Mumbai (Kharghar)C-DAC 9060        8New DelhiC-DAC 40         9NoidaC-DAC1606060 4040     10PuneC-DAC240606060604040  30 11ThiruvananthapuramC-DAC  40        12KaradSunbeam120          13MumbaiAIT (YCC), Nariman Point120          14MumbaiMET-IIT, Bandra120          15MumbaiUSM’s Shriram Mantri VITA, Juhu12060         16NagpurSoft Polynomials60          17NashikMET-IIT120          18PuneIACSD, Akurdi24060  60      19PuneIET, Shivajinagar120          20PuneInfoway, Kothrud120          21PuneKnow-IT, Deccan12060         22PuneSunbeam, Hinjawadi24060 12060  120
+
+C-DAC Training Centres
+
+Across India, C-DAC
+ is offering Post Graduate Certificate Programmes through its centres 
+located in Bengaluru, Chennai, Guwahati, Hyderabad, Kochi, Kolkata, 
+Mumbai, Navi Mumbai, New Delhi, Noida, Patna, Pune, and 
+Thiruvananthapuram. Post Graduate Certificate Programmes are also 
+offered by C-DAC’s Authorised Training Centres (ATC) in Bhubaneswar, 
+Indore, Jaipur, Karad, Mumbai, Nagpur, Nashik, New Delhi, Patna, and 
+Pune. The address and contact details of these training centres can be 
+found at https://www.cdac.in/index.aspx?id=edu_acts_TrainingCenters
+ and also in Section 19 of this Admission Booklet. Tables 4a and 4b show
+ the courses offered and the seat capacity at various training centres 
+of C-DAC in the August 2026 batch. Table 4a shows the online courses and Table 4b shows the physical courses.
+
+Table 4a: PG Certificate Programmes seat capacity at C-DAC’s training centres – ONLINE COURSES.
+
+Sr. No.
+
+City
+
+Centre Name
+
+PGCP-AC
+
+PGCP-BDA
+
+PGCP-AI
+
+PGCP-CSF
+
+PGCP-FBD
+
+1
+
+Chennai
+
+C-DAC
+
+80
+
+60
+
+2
+
+Indore
+
+Orlando Academy
+
+60
+
+3
+
+Kolkata
+
+C-DAC
+
+60
+
+4
+
+Mumbai (Kharghar)
+
+C-DAC
+
+260
+
+5
+
+New Delhi
+
+C-DAC
+
+40
+
+40
+
+6
+
+New Delhi
+
+Bytes Softech
+
+120
+
+7
+
+Patna
+
+C-DAC
+
+60
+
+60
+
+60
+
+8
+
+Patna
+
+Astric-CoE
+
+60
+
+9
+
+Patna
+
+Career Foresight
+
+60
+
+10
+
+Guwahati
+
+C-DAC
+
+40
+
+11
+
+Thiruvananthapuram
+
+C-DAC
+
+40
+
+40
+
+60
+
+Table 4b: PG Certificate Programmes seat capacity at C-DAC's training centres PHYSICAL COURSES.
+
+Sr. No.
+
+City
+
+Centre Name
+
+PGCP-AC
+
+PGCP-BDA
+
+PGCP-AI
+
+PGCP-ESD
+
+PGCP-ITISS
+
+PGCP-VLSI
+
+PGCP-CSF
+
+PGCP-MC
+
+PGCP-ASSD
+
+PGCP-HPCSA
+
+PGCP-RAT
+
+1
+
+Bengaluru
+
+C-DAC
+
+240
+
+120
+
+40
+
+60
+
+60
+
+2
+
+Guwahati
+
+C-DAC
+
+40
+
+3
+
+Hyderabad
+
+C-DAC
+
+140
+
+60
+
+40
+
+120
+
+40
+
+40
+
+80
+
+4
+
+Kochi
+
+C-DAC
+
+40
+
+5
+
+Kolkata
+
+C-DAC
+
+60
+
+40
+
+6
+
+Mohali
+
+C-DAC
+
+40
+
+7
+
+Mumbai (Kharghar)
+
+C-DAC
+
+90
+
+60
+
+8
+
+New Delhi
+
+C-DAC
+
+40
+
+9
+
+Noida
+
+C-DAC
+
+160
+
+60
+
+60
+
+40
+
+40
+
+10
+
+Pune
+
+C-DAC
+
+240
+
+60
+
+60
+
+60
+
+60
+
+40
+
+40
+
+30
+
+11
+
+Thiruvananthapuram
+
+C-DAC
+
+40
+
+12
+
+Karad
+
+Sunbeam
+
+120
+
+13
+
+Mumbai
+
+AIT (YCC), Nariman Point
+
+120
+
+14
+
+Mumbai
+
+MET-IIT, Bandra
+
+120
+
+15
+
+Mumbai
+
+USM’s Shriram Mantri VITA, Juhu
+
+120
+
+60
+
+16
+
+Nagpur
+
+Soft Polynomials
+
+60
+
+17
+
+Nashik
+
+MET-IIT
+
+120
+
+18
+
+Pune
+
+IACSD, Akurdi
+
+240
+
+60
+
+60
+
+19
+
+Pune
+
+IET, Shivajinagar
+
+120
+
+20
+
+Pune
+
+Infoway, Kothrud
+
+120
+
+21
+
+Pune
+
+Know-IT, Deccan
+
+120
+
+60
+
+22
+
+Pune
+
+Sunbeam, Hinjawadi
+
+240
+
+60
+
+120
+
+60
+
+120
+
+Table: Important dates related to admission to C-DAC's PG
+ Certificate Programmes of August 2026 batch through the C-CAT of 
+July 2026.No.EventDateaBeginning of Online Registration and Application for C-CAT26 May 2026 Pan-CDAC Online Q&A Session on PG Certificate Programmes and C-CAT Application Process9 June 2026 (3 pm)bClosing of Online Registration & Application, and Payment of Examination Fee for C-CAT23 June 2026cDownloading of C-CAT Admit Cards30 June - 04 July 2026dC-DAC's Common Admission Test (C-CAT) at the Test Centres04 July 202605 July 2026eAnnouncement of C-CAT Ranks16 July 2026fOnline Selection of Courses and Centres (1st Counselling)16 - 23 July 2026 Pan-CDAC Online Q&A Session on C-CAT Counselling and Seat Allocation Processes17 July 2026 (3 pm)gDeclaration of First Round of Seat Allocation25 July 2026hLast Date of Payment of first installment course fee (Rs 15,000 + GST) for candidates allocated seats through the first round 31 July 2026 (till 5pm)iDeclaration of Second Round of Seat Allocation2 August 2026jLast
+ Date of Payment of first installment course fee (Rs 15,000 + GST) for 
+candidates allocated seats first time through the second round6 August 2026 (till 5pm)kPayment of caution deposit (Rs 15,000 + GST) and Online Selection of Courses and Centres (2nd Counselling)7 - 12 August , 2026 (till 5 pm)lDeclaration of Third Round of Seat Allocation (based on 2nd Counselling)13 August 2026mLast Date of Payment of Balance Course Fee20 August 2026nLast Date of Registration of Students21 August 2026oStart of PG Certificate Programmes across India24 August 2026pEnd of PG Certificate Programmes across India6 February 2027
+
+Table: Important dates related to admission to C-DAC's PG
+ Certificate Programmes of August 2026 batch through the C-CAT of 
+July 2026.
+
+No.
+
+Event
+
+Date
+
+a
+
+Beginning of Online Registration and Application for C-CAT
+
+26 May 2026
+
+Pan-CDAC Online Q&A Session on PG Certificate Programmes and C-CAT Application Process
+
+9 June 2026 (3 pm)
+
+b
+
+Closing of Online Registration & Application, and Payment of Examination Fee for C-CAT
+
+23 June 2026
+
+c
+
+Downloading of C-CAT Admit Cards
+
+30 June - 04 July 2026
+
+d
+
+C-DAC's Common Admission Test (C-CAT) at the Test Centres
+
+04 July 2026
+
+05 July 2026
+
+e
+
+Announcement of C-CAT Ranks
+
+16 July 2026
+
+f
+
+Online Selection of Courses and Centres (1st Counselling)
+
+16 - 23 July 2026
+
+Pan-CDAC Online Q&A Session on C-CAT Counselling and Seat Allocation Processes
+
+17 July 2026 (3 pm)
+
+g
+
+Declaration of First Round of Seat Allocation
+
+25 July 2026
+
+h
+
+Last Date of Payment of first installment course fee (Rs 15,000 + GST) for candidates allocated seats through the first round
+
+31 July 2026 (till 5pm)
+
+i
+
+Declaration of Second Round of Seat Allocation
+
+2 August 2026
+
+j
+
+Last
+ Date of Payment of first installment course fee (Rs 15,000 + GST) for 
+candidates allocated seats first time through the second round
+
+6 August 2026 (till 5pm)
+
+k
+
+Payment of caution deposit (Rs 15,000 + GST) and Online Selection of Courses and Centres (2nd Counselling)
+
+7 - 12 August , 2026
+
+(till 5 pm)
+
+l
+
+Declaration of Third Round of Seat Allocation
+
+(based on 2nd Counselling)
+
+13 August 2026
+
+m
+
+Last Date of Payment of Balance Course Fee
+
+20 August 2026
+
+n
+
+Last Date of Registration of Students
+
+21 August 2026
+
+o
+
+Start of PG Certificate Programmes across India
+
+24 August 2026
+
+p
+
+End of PG Certificate Programmes across India
+
+6 February 2027
+
+ACTS Home
+
+Courses
+
+Admissions
+
+Placement
+
+Training Centres
+
+Contact Us

@@ -1,0 +1,338 @@
+COURSE SOURCE: Home_Admission_Index
+URL: https://cdac.in/index.aspx?id=DAC&courseid=0
+============================================================
+
+e-Brochure
+
+Course Focus
+
+Eligibility Criteria
+
+Course Fees
+
+Course Contents
+
+Course Outcome
+
+Training Centres
+
+FAQs
+
+PGCP-AC is the most popular PG Certificate Programme of C-DAC. The course is 
+targeted towards Engineering Graduates and MCA/MSc who wish to venture 
+into the domain of advanced computing. The course aims to groom the 
+students to enable them to work on current technology scenarios as well 
+as prepare them to keep pace with the changing face of technology and 
+the requirements of the growing IT industry. The entire course syllabus,
+ courseware, teaching methodology and the course delivery have been 
+derived from the rich research and development background of C-DAC. 
+Running successfully for 25 years, the PGCP-AC course has produced 
+thousands of professionals, who are well positioned in the industry 
+today.
+
+The education eligibility criteria for the PGCP-AC course is:Graduate in Engineering or Technology (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation, OR MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics ORGraduate in any discipline of Engineering,ORMCA, MCM, ORPost Graduate Degree in Physics/ Mathematics / Statistics, OR Post Graduate Degree in Management with graduation in IT / Computer Science / Computer Applications.The candidates must have secured a minimum of 55% marks in their qualifying examination.
+
+The education eligibility criteria for the PGCP-AC course is:
+
+Graduate in Engineering or Technology (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation, OR MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics OR
+
+Graduate in any discipline of Engineering,OR
+
+MCA, MCM, OR
+
+Post Graduate Degree in Physics/ Mathematics / Statistics, OR
+
+Post Graduate Degree in Management with graduation in IT / Computer Science / Computer Applications.
+
+The candidates must have secured a minimum of 55% marks in their qualifying examination.
+
+The Post Graduate Certificate Programme in Advanced Computing 
+(PGCP-AC) course will be delivered in fully ONLINE or fully PHYSICAL 
+mode. The total course fee and payment details for the fully PHYSICAL or
+ fully ONLINE mode of delivery is as detailed herein below:PHYSICAL Mode of Delivery:The course fee for the fully PHYSICAL mode of delivery is INR. 99,000/-
+ plus Goods and Service Tax (GST) as applicable by Government of India 
+(GOI).The course fees for PGCP-AC course has to be paid in two 
+installments as per the schedule.First installment is INR. 15,000/- plus Goods and Service Tax (GST) as applicable by GOI.Second
+ installment is INR. 84,000/- plus Goods and Service Tax (GST) as 
+applicable by GOI.                                                       
+                                                                        
+                                            ONLINE Mode of Delivery:The course fee of the fully ONLINE mode of delivery is INR. 84,150/- plus Goods and Service Tax (GST) as applicable by GOI. The course fees for PGCP-AC course has to be paid in two installments as per the schedule.First installment is INR. 15,000/- plus Goods and Service Tax (GST) as applicable by GOI.Second installment is INR. 69,150/- plus Goods and Service Tax (GST) as applicable by GOI. 
+ The course fee includes expenses towards delivering classes, conducting
+ examinations, final mark-list and certificate, and placement assistance
+ provided.  The first installment course fee of Rs 15,000/- + GST on it as applicable at the time of payment is to be paid online
+ as per the schedule. Payments may be made using any of the available payment modes provided through the payment gateway. The first installment of the course fees is to be 
+paid after seat is allocated during counseling rounds.  The
+ second installment of the course fees is to be paid before the course 
+commencement & using netbanking, UPI, and credit/debit cards through
+ the payment gateway. NOTE: Candidates may take note that no 
+Demand Draft (DD) or cheque or cash will be accepted at any C-DAC 
+training centre towards payment of any installment of course fees.
+
+The Post Graduate Certificate Programme in Advanced Computing 
+(PGCP-AC) course will be delivered in fully ONLINE or fully PHYSICAL 
+mode. The total course fee and payment details for the fully PHYSICAL or
+ fully ONLINE mode of delivery is as detailed herein below:
+
+PHYSICAL Mode of Delivery:The course fee for the fully PHYSICAL mode of delivery is INR. 99,000/-
+ plus Goods and Service Tax (GST) as applicable by Government of India 
+(GOI).The course fees for PGCP-AC course has to be paid in two 
+installments as per the schedule.First installment is INR. 15,000/- plus Goods and Service Tax (GST) as applicable by GOI.Second
+ installment is INR. 84,000/- plus Goods and Service Tax (GST) as 
+applicable by GOI.
+
+The course fee for the fully PHYSICAL mode of delivery is INR. 99,000/-
+ plus Goods and Service Tax (GST) as applicable by Government of India 
+(GOI).The course fees for PGCP-AC course has to be paid in two 
+installments as per the schedule.
+
+First installment is INR. 15,000/- plus Goods and Service Tax (GST) as applicable by GOI.
+
+Second
+ installment is INR. 84,000/- plus Goods and Service Tax (GST) as 
+applicable by GOI.
+
+ONLINE Mode of Delivery:The course fee of the fully ONLINE mode of delivery is INR. 84,150/- plus Goods and Service Tax (GST) as applicable by GOI. The course fees for PGCP-AC course has to be paid in two installments as per the schedule.First installment is INR. 15,000/- plus Goods and Service Tax (GST) as applicable by GOI.Second installment is INR. 69,150/- plus Goods and Service Tax (GST) as applicable by GOI.
+
+The course fee of the fully ONLINE mode of delivery is INR. 84,150/- plus Goods and Service Tax (GST) as applicable by GOI. The course fees for PGCP-AC course has to be paid in two installments as per the schedule.
+
+First installment is INR. 15,000/- plus Goods and Service Tax (GST) as applicable by GOI.
+
+Second installment is INR. 69,150/- plus Goods and Service Tax (GST) as applicable by GOI.
+
+The course fee includes expenses towards delivering classes, conducting
+ examinations, final mark-list and certificate, and placement assistance
+ provided.  The first installment course fee of Rs 15,000/- + GST on it as applicable at the time of payment is to be paid online
+ as per the schedule. Payments may be made using any of the available payment modes provided through the payment gateway. The first installment of the course fees is to be 
+paid after seat is allocated during counseling rounds.
+
+The
+ second installment of the course fees is to be paid before the course 
+commencement & using netbanking, UPI, and credit/debit cards through
+ the payment gateway.
+
+NOTE: Candidates may take note that no 
+Demand Draft (DD) or cheque or cash will be accepted at any C-DAC 
+training centre towards payment of any installment of course fees.
+
+C++ Programming    - 90 Hrs
+
+C++ Basics, Tokens, Operators & Expressions, Conditional & 
+Looping Statements, Arrays, Functions, Memory Management & Pointers,
+ Classes & Objects, Constructors & Destructors, Inheritance, 
+Polymorphism, Operator Overloading, Virtual Functions & Abstract 
+Classes, Namespaces, Exception Handling, File Handling, Templates, 
+Standard Template Library (STL), Run-Time Type Information (RTTI), 
+Dynamic Memory Allocation
+
+Database Technologies    - 90 Hrs
+
+Introduction to DBMS & Database Terminologies, Data Models, Database
+ Design & ER Modeling, SQL commands (DDL, DML, DCL, TCL), Data 
+Redundancy & Anomalies, MySQL Data Types & Constraints, 
+Aggregate Functions & Grouping, Joins & Relational Algebra, Sub-queries & Correlated Queries, Views & Indexes, Window 
+functions, CTE, Transactions & ACID Properties, Stored Procedures, 
+Functions, Flow Control Statements, Cursors, Triggers, Exception 
+Handling, Temporary Tables, NoSQL Concepts, Introduction to MongoDB, 
+CRUD operations using MongoDB
+
+Concepts of Operating System & Software Development Methodologies    - 60 Hrs
+
+Object Oriented Programming with Java    - 150 Hrs
+
+Java Basics & Syntax, JVM Architecture & JDK Tools, Data Types 
+& Variables, Operators & Control Statements, Arrays, 
+Object-Oriented Programming (Classes, Objects, Encapsulation, 
+Abstraction, Inheritance, Polymorphism), Constructors, Static Members, 
+Memory Management, Method Overloading & Overriding, Abstract Classes
+ & Interfaces, Packages & Access Modifiers, Inner Classes & 
+Enums, Lambda Expressions & Functional Interfaces, Garbage 
+Collection, Wrapper Classes & Strings, Exception Handling, File I/O,
+ Serialization & De-serialization, Date & Time API, Collections 
+Framework (List, Set, Map, Queue), Comparable & Comparator, Stream 
+API, Multithreading & Synchronization, Deadlocks, Generics, Java 
+Database Connectivity (JDBC)
+
+Algorithms and Data Structures Using Java    - 90 Hrs
+
+Problem Solving & Computational Thinking, Algorithm Fundamentals, 
+Abstract Data Types, Arrays, Stacks, Queues & Circular Queues, 
+Linked Lists, Recursion, Trees & Applications, Searching Algorithms,
+ Sorting Algorithms, Hashing & Hash Tables, Graphs, Algorithm Design
+ Techniques, Performance Analysis, Algorithm Complexity (Time & 
+Space, Big-O Notation), Asymptotic Analysis
+
+Web Programming Technologies    - 150 Hrs
+
+Web Architecture & HTTP Protocols, Introduction to HTML & CSS, 
+Tailwind Framework, JavaScript, Document Object Model, JSON & 
+jQuery, TypeScript, AJAX & Axios HTTP Client, Node.js & 
+Asynchronous Programming, npm & Module Management, Express.js 
+Framework, RESTful Routing & Middleware, React.js (Components, 
+Props, State, Lifecycle), Event Handling & Conditional Rendering, 
+Forms & DOM in React
+
+Web-based Java Programming    - 150 Hrs
+
+J2EE Architecture & Web Application Lifecycle, Introduction to 
+Servlets, Session Management, Request Dispatcher & Navigation, JSP, 
+MVC Architecture, JSTL, Hibernate ORM Framework, Spring Framework, 
+Spring MVC Architecture, Spring Boot, Maven Build Tool, Spring Data JPA,
+ RESTful Web Services, Web Application Security, Microservices 
+Architecture
+
+Microsoft .Net Technologies    - 120 Hrs
+
+.NET Framework & .NET Core Fundamentals, CLR & Managed Code, C# 
+Basics, Data Types & Methods, Classes & Objects, Constructors 
+& Destructors, OOP Concepts, Properties & Static Members, Arrays
+ & Indexers, Generics, Collections, Delegates & Events, Lambda 
+Expressions & Anonymous Methods, Exception Handling, LINQ & 
+PLINQ, Reflection & Attributes, File I/O & Streams, 
+Multithreading & Task Parallel Library, ASP.NET MVC Core, Razor 
+Views & State Management, ADO.NET, Entity Framework, Web API 
+Development & RESTful Services, Web Application Security, MVC & 
+React Integration, Building & Deploying .NET Applications
+
+Aptitude    - 60 Hrs
+
+Effective Communication    - 60 Hrs
+
+Project    - 180 Hrs
+
+End-to-end
+project including Requirements, Design, Database Modeling, Coding
+(Java/.NET/Full-Stack), Testing, Documentation, Version Control (Git),
+Deployment, and Final Presentation.
+
+Domains
+include: Web Applications, Enterprise Systems, Cloud-based Solutions,
+Automation Tools, Data Processing Applications.
+
+After completion of course students will be able to acquire the following skills:Use
+technologies to access and interpret information effectivelyApply their analytical skills to investigate unfamiliar problems using web technologies like HTML 5.0, CSS, Java Script, Jquery, React JSUse quantitative data confidently and competentlyUse communication technologies competentlyUnderstand
+the multi-tier architecture of web-based enterprise applications using.
+Enterprise JavaBeans. Integrate Servlets, JSPs with EJB and Databases in J2EE applicationUnderstand .net architecture, develop and maintain the application
+
+After completion of course students will be able to acquire the following skills:
+
+Use
+technologies to access and interpret information effectively
+
+Apply their analytical skills to investigate unfamiliar problems using web technologies like HTML 5.0, CSS, Java Script, Jquery, React JS
+
+Use quantitative data confidently and competently
+
+Use communication technologies competently
+
+Understand
+the multi-tier architecture of web-based enterprise applications using.
+Enterprise JavaBeans. Integrate Servlets, JSPs with EJB and Databases in J2EE application
+
+Understand .net architecture, develop and maintain the application
+
+Bengaluru
+
+Chennai
+
+Hyderabad
+
+Indore
+
+Karad
+
+Kochi
+
+Kolkata
+
+Mumbai
+
+Nagpur
+
+Nashik
+
+New Delhi
+
+Noida
+
+Patna
+
+Pune
+
+Thiruvananthapuram
+
+Q. Why is the nomenclature of Post Graduate Diploma in
+Advanced Computing changed to Post Graduate Certificate Programme in Advanced
+Computing?
+C-DAC’s Post Graduate Diploma in Advanced Computing (PG-DAC)
+Course nomenclature is enhanced as Post Graduate Certificate Programme in
+Advanced Computing (PGCP-AC) to bring PG-DAC course in line with NCVET
+standards and guidelines. C-DAC’s 900-hour PG-Diploma in Advanced Computing is
+being upgraded to 1200-hour (24-week), 40-credits. NSQF alignment and NCVET
+approval are under process.Q. What is the educational eligibility criteria for applying to PG Certificate Programme in Advanced Computing? 
+A: A candidate with any one of the following educational qualification can apply for PGCP-AC 
+• Graduate in Engineering or Technology  (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation. OR  
+• MSc/ MS (10+2+3+2 years) in Computer Science, IT, Electronics. 
+• Graduate in any discipline of Engineering or equivalent, OR
+• MCA/MCM,OR
+• Post Graduate in Physics/ Computational Sciences/ Mathematics or allied areas, OR
+• Post Graduate in Management with graduation degree in Science/ IT/ Computers
+• The candidates must have secured a minimum of 55% marks in their qualifying examination. * For any specific engineering or postgraduate courses that are not mentioned above,
+candidates may check their course eligibility by emailing their certificates and mark-sheets to 
+actssupport@cdac.in before the last date of C-CAT application.
+
+Q: What is the process of selection to join PG Certificate Programmes? 
+A: The selection process to join C-DAC's PG Certificate prorgammes is by qualifying in C-DAC Common Admission Test (C-CAT). 
+Q: What is Course Fees of PGCP-AC? 
+A: The fee for the PGCP-AC course conducted in fully physical mode of delivery is INR. 99,000/- plus GST as applicable by GOI. 
+The course fee for PGCP-AC course delivered in the online mode is INR. 84,150/- plus GST as applicable by GOI. 
+Q: When does the PG Certificate Progamme commence? 
+A: The PG Certificate Progamme commences twice in a year in the month of February and August. Admission Process will start in month of May and December every year. 
+Q: What is the duration of the course? 
+A: The duration of course is 1200 hours which is delivered in 24 weeks approximately (including 300 hours of self study) of 40 credits. 
+
+Q: What is the infrastructure facilities available at training centres? 
+A: C-DAC training centres are equipped with classrooms with capacity to accommodate students and state-of-art IT lab facilities so as to enhance the computing skills. 
+
+Q: Does the centres have Hostel / Canteen facility? 
+A: Hostel and canteen facilities are available for students enrolled for physical courses at some of the C-DAC training centres. Hostel allotments are made on a first-come, first-served basis. However, outstation students will be given preference when the allotment is done. Some of the centres, which are not offering hostel facilities, may provide assistance to find out suitable boarding and lodging to their students. Candidates interested to avail hostel accommodation should send their requests to the Administrative Officers at the respective training centres, after the admission lists are published. Hostel/canteen fees, room availability and other related information may be obtained by communicating to the respective centre’s contact person. 
+
+Q: Does Educational Loans are provided by the Banks for C-DAC Courses? 
+A: Facility of educational loans is provided for the selected candidates, by all nationalized banks. The educational loan are provided by Bank of India and Axis Bank. 
+
+Q. What is the medium of instruction for PG Certificate Programmes? 
+A. The medium of instruction for the PG Certificate Programme is English. 
+
+Q:  Is the course contents of PG Certificate Programme updated? 
+A: The course contents are updated and revised to meet the IT industry requirements. The courses are revised every batch by the C-DAC academic design and planning team in consultation with the IT industry. 
+
+Q: Do you have centralized placement cell? 
+A:Yes we do have a centralized placement cells which organizes national level Common Campus Placement Programme, spread across five regions where the respective centers actively coordinate the task of organizing the campus interviews for all the students. 
+
+Q: What is the value of the course in the international market? 
+A: The course has been a trend-setting course due to its unique curriculum and the opportunities that it generates; hence it gives the edge over above for the students and gives a international edge. 
+
+Q: Is there any centre-wise rank cut-off available for the admission to the PG Certificate Programme? 
+A: No there is no centre-wise rank cut-off for the admission to the PG Certificate Programme for admission.
+
+Q. Why is the nomenclature of Post Graduate Diploma in
+Advanced Computing changed to Post Graduate Certificate Programme in Advanced
+Computing?
+
+C-DAC’s Post Graduate Diploma in Advanced Computing (PG-DAC)
+Course nomenclature is enhanced as Post Graduate Certificate Programme in
+Advanced Computing (PGCP-AC) to bring PG-DAC course in line with NCVET
+standards and guidelines. C-DAC’s 900-hour PG-Diploma in Advanced Computing is
+being upgraded to 1200-hour (24-week), 40-credits. NSQF alignment and NCVET
+approval are under process.
+
+ACTS Home
+
+Courses
+
+Admissions
+
+Placement
+
+Training Centres
+
+Contact Us
