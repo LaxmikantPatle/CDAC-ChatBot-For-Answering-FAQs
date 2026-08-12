@@ -1,10 +1,3 @@
-from utils import (
-    clean_response,
-    format_sources,
-    build_prompt,
-    is_greeting,
-    greeting_response
-)
 import streamlit as st
 from rag import ask_question
 
