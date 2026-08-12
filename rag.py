@@ -2,8 +2,6 @@ import os
 
 import streamlit as st
 
-from dotenv import load_dotenv
-
 from huggingface_hub import InferenceClient
 
 from langchain_community.vectorstores import FAISS
@@ -14,11 +12,12 @@ from langchain_community.embeddings import HuggingFaceEmbeddings
 # Load Environment Variables
 # ----------------------------------------------------
 
-load_dotenv()
+HF_TOKEN = st.secrets.get("HF_TOKEN") or os.getenv("HF_TOKEN")
 
-HF_TOKEN = os.getenv("HF_TOKEN")
-print("HF_TOKEN:", HF_TOKEN)
-
+if not HF_TOKEN:
+    st.error("Hugging Face API token is not configured.")
+    st.stop()
+    
 MODEL_NAME = "meta-llama/Llama-3.1-8B-Instruct"
 
 # ----------------------------------------------------
