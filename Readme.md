@@ -1,4 +1,4 @@
-# 🤖 CDAC FAQ Chatbot — RAG-Based Question Answering System
+# 🤖 CDAC ChatBot For Answering FAQs
 
 An intelligent **FAQ Question-Answering Chatbot** built as a CDAC PG Diploma project using **Retrieval-Augmented Generation (RAG)**.
 
